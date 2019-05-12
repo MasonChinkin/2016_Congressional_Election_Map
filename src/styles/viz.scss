@@ -1,0 +1,48 @@
+#container {
+  height: 80vh;
+  width: 120vh;
+  background: white;
+}
+
+div.tooltip {
+  position: absolute;
+  text-align: left;
+  display: table;
+  width: auto;
+  height: auto;
+  padding: 2px;
+  font: 16px arial;
+  background: white;
+  border: 0px;
+  border-radius: 8px;
+  pointer-events: none;
+  color: black;
+}
+
+.tooltip p {
+  margin: 0;
+  font-family: arial;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: left;
+  color: black;
+}
+
+.tooltip strong {
+  margin: 0;
+  font-family: arial;
+  font-size: 20px;
+  line-height: 20px;
+  text-align: left;
+  color: black;
+  font-weight: bold;
+}
+
+.legend {
+  margin: 0;
+  font-family: arial;
+  font-size: 14px;
+  text-align: left;
+  color: black;
+  pointer-events: none;
+}

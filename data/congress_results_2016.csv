@@ -1,0 +1,1868 @@
+﻿state_abr,state_fips,state,district,candidate_name_first,candidate_name_last,candidate,party,general_votes,general_perc,runoff_votes_LA_only,runoff_perc_LA_only,combined_general_votes_CT_NY_SC_only,combined_general_perc_CT_NY_SC_only,winner
+AL,01,Alabama,01,Bradley,Byrne,Bradley Byrne,R,"208,083",0.963824672,,,,,W
+AL,01,Alabama,01,,Scattered,Scattered,W,"7,810",0.036175328,,,,,
+AL,01,Alabama,01,,,Total Votes,,"215,893",,,,,,
+AL,01,Alabama,02,Martha,Roby,Martha Roby,R,"134,886",0.487685477,,,,,W
+AL,01,Alabama,02,Nathan ,Mathis,Nathan  Mathis,D,"112,089",0.405262054,,,,,
+AL,01,Alabama,02,,Scattered,Scattered,W,"29,609",0.107052469,,,,,
+AL,01,Alabama,02,,,Total Votes,,"276,584",,,,,,
+AL,01,Alabama,03,Mike,Rogers,Mike Rogers,R,"192,164",0.669318435,,,,,W
+AL,01,Alabama,03,Jesse,Smith,Jesse Smith,D,"94,549",0.329319689,,,,,
+AL,01,Alabama,03,,Scattered,Scattered,W,391,0.001361876,,,,,
+AL,01,Alabama,03,,,Total Votes,,"287,104",,,,,,
+AL,01,Alabama,04,Robert,Aderholt,Robert Aderholt,R,"235,925",0.985303453,,,,,W
+AL,01,Alabama,04,,Scattered,Scattered,W,"3,519",0.014696547,,,,,
+AL,01,Alabama,04,,,Total Votes,,"239,444",,,,,,
+AL,01,Alabama,05,Mo,Brooks,Mo Brooks,R,"205,647",0.666979107,,,,,W
+AL,01,Alabama,05,"Will, Jr.",Boyd,"Will, Jr. Boyd",D,"102,234",0.331577616,,,,,
+AL,01,Alabama,05,,Scattered,Scattered,W,445,0.001443278,,,,,
+AL,01,Alabama,05,,,Total Votes,,"308,326",,,,,,
+AL,01,Alabama,06,Gary,Palmer,Gary Palmer,R,"245,313",0.744939357,,,,,W
+AL,01,Alabama,06,David J.,Putman,David J. Putman,D,"83,709",0.254198223,,,,,
+AL,01,Alabama,06,,Scattered,Scattered,W,284,0.00086242,,,,,
+AL,01,Alabama,06,,,Total Votes,,"329,306",,,,,,
+AL,01,Alabama,07,Terri A.,Sewell,Terri A. Sewell,D,"229,330",0.984130662,,,,,W
+AL,01,Alabama,07,,Scattered,Scattered,W,"3,698",0.015869338,,,,,
+AL,01,Alabama,07,,,Total Votes,,"233,028",,,,,,
+AK,02,Alaska,00,Don,Young,Don Young,R,"155,088",0.503208976,,,,,W
+AK,02,Alaska,00,Steve,Lindbeck,Steve Lindbeck,D,"111,019",0.360219729,,,,,
+AK,02,Alaska,00,Jim C.,McDermott,Jim C. McDermott,LIB,"31,770",0.103083083,,,,,
+AK,02,Alaska,00,Bernie,Souphanavong,Bernie Souphanavong,NAF,"9,093",0.029503761,,,,,
+AK,02,Alaska,00,,Scattered,Scattered,W,"1,228",0.003984452,,,,,
+AK,02,Alaska,00,,,Total Votes,,"308,198",,,,,,
+AZ,04,Arizona,01,Tom,O'Halleran,Tom O'Halleran,D,"142,219",0.506640305,,,,,W
+AZ,04,Arizona,01,Paul,Babeu,Paul Babeu,R,"121,745",0.433703822,,,,,
+AZ,04,Arizona,01,Ray,Parrish,Ray Parrish,W(GRE)/GRE,"16,746",0.059655873,,,,,
+AZ,04,Arizona,01,,,Total Votes,,"280,710",,,,,,
+AZ,04,Arizona,02,Martha,McSally,Martha McSally,R,"179,806",0.569584926,,,,,W
+AZ,04,Arizona,02,Matt,Heinz,Matt Heinz,D,"135,873",0.430415074,,,,,
+AZ,04,Arizona,02,,,Total Votes,,"315,679",,,,,,
+AZ,04,Arizona,03,Raúl,Grijalva,Raúl Grijalva,D,"148,973",0.986347535,,,,,W
+AZ,04,Arizona,03,Bill,Abatecola,Bill Abatecola,W,"1,303",0.008627139,,,,,
+AZ,04,Arizona,03,Jaime,Vasquez,Jaime Vasquez,W,332,0.002198166,,,,,
+AZ,04,Arizona,03,Harvey,Martin,Harvey Martin,W,283,0.001873738,,,,,
+AZ,04,Arizona,03,Federico,Sanchez,Federico Sanchez,W,144,0.000953421,,,,,
+AZ,04,Arizona,03,,,Total Votes,,"151,035",,,,,,
+AZ,04,Arizona,04,Paul,Gosar,Paul Gosar,R,"203,487",0.714533522,,,,,W
+AZ,04,Arizona,04,Mikel,Weisser,Mikel Weisser,D,"81,296",0.285466478,,,,,
+AZ,04,Arizona,04,,,Total Votes,,"284,783",,,,,,
+AZ,04,Arizona,05,Andy,Biggs,Andy Biggs,R,"205,184",0.640951631,,,,,W
+AZ,04,Arizona,05,Talia,Fuentes,Talia Fuentes,D,"114,940",0.359048369,,,,,
+AZ,04,Arizona,05,,,Total Votes,,"320,124",,,,,,
+AZ,04,Arizona,06,David,Schweikert,David Schweikert,R,"201,578",0.621302906,,,,,W
+AZ,04,Arizona,06,W. John,Williamson,W. John Williamson,D,"122,866",0.378697094,,,,,
+AZ,04,Arizona,06,,,Total Votes,,"324,444",,,,,,
+AZ,04,Arizona,07,Ruben,Gallego,Ruben Gallego,D,"119,465",0.752246381,,,,,W
+AZ,04,Arizona,07,Eve,Nunez,Eve Nunez,R,"39,286",0.247375811,,,,,
+AZ,04,Arizona,07,Neil B.,Westbrooks,Neil B. Westbrooks,W,60,0.000377808,,,,,
+AZ,04,Arizona,07,,,Total Votes,,"158,811",,,,,,
+AZ,04,Arizona,08,Trent,Franks,Trent Franks,R,"204,942",0.685491235,,,,,W
+AZ,04,Arizona,08,Mark,Salazar,Mark Salazar,W(GRE)/GRE,"93,954",0.314257905,,,,,
+AZ,04,Arizona,08,"Hayden, III",Keener,"Hayden, III Keener",W,75,0.00025086,,,,,
+AZ,04,Arizona,08,,,Total Votes,,"298,971",,,,,,
+AZ,04,Arizona,09,Kyrsten,Sinema,Kyrsten Sinema,D,"169,055",0.60919184,,,,,W
+AZ,04,Arizona,09,Dave,Giles,Dave Giles,R,"108,350",0.390440601,,,,,
+AZ,04,Arizona,09,Cary,Dolego,Cary Dolego,W,56,0.000201797,,,,,
+AZ,04,Arizona,09,Axel,Bello,Axel Bello,W,46,0.000165762,,,,,
+AZ,04,Arizona,09,,,Total Votes,,"277,507",,,,,,
+AR,05,Arkansas,01,Rick ,Crawford,Rick  Crawford,R,"183,866",0.762780703,,,,,W
+AR,05,Arkansas,01,Mark ,West,Mark  West,LIB,"57,181",0.237219297,,,,,
+AR,05,Arkansas,01,,,Total Votes,,"241,047",,,,,,
+AR,05,Arkansas,02,French,Hill,French Hill,R,"176,472",0.583447948,,,,,W
+AR,05,Arkansas,02,Dianne ,Curry,Dianne  Curry,D,"111,347",0.368133067,,,,,
+AR,05,Arkansas,02,Chris,Hayes,Chris Hayes,LIB,"14,342",0.047417213,,,,,
+AR,05,Arkansas,02,,Scattered,Scattered,W,303,0.001001772,,,,,
+AR,05,Arkansas,02,,,Total Votes,,"302,464",,,,,,
+AR,05,Arkansas,03,Steve,Womack,Steve Womack,R,"217,192",0.77318116,,,,,W
+AR,05,Arkansas,03,Steve,Isaacson,Steve Isaacson,LIB,"63,715",0.22681884,,,,,
+AR,05,Arkansas,03,,,Total Votes,,"280,907",,,,,,
+AR,05,Arkansas,04,Bruce,Westerman,Bruce Westerman,R,"182,885",0.749040584,,,,,W
+AR,05,Arkansas,04,Kerry,Hicks,Kerry Hicks,LIB,"61,274",0.250959416,,,,,
+AR,05,Arkansas,04,,,Total Votes,,"244,159",,,,,,
+CA,06,California,01,Doug,La Malfa,Doug La Malfa,R,"185,448",0.590531022,,,,,W
+CA,06,California,01,Jim,Reed,Jim Reed,D,"128,588",0.409468978,,,,,
+CA,06,California,01,,,Total Votes,,"314,036",,,,,,
+CA,06,California,02,Jared W.,Huffman,Jared W. Huffman,D,"254,194",0.768500995,,,,,W
+CA,06,California,02,Dale K.,Mensing,Dale K. Mensing,R,"76,572",0.231499005,,,,,
+CA,06,California,02,,,Total Votes,,"330,766",,,,,,
+CA,06,California,03,John G.,Garamendi,John G. Garamendi,D,"152,513",0.593514317,,,,,W
+CA,06,California,03,N. Eugene,Cleek,N. Eugene Cleek,R,"104,453",0.406485683,,,,,
+CA,06,California,03,,,Total Votes,,"256,966",,,,,,
+CA,06,California,04,Tom,McClintock,Tom McClintock,R,"220,133",0.627198856,,,,,W
+CA,06,California,04,Robert W.,Derlet,Robert W. Derlet,D,"130,845",0.372801144,,,,,
+CA,06,California,04,,,Total Votes,,"350,978",,,,,,
+CA,06,California,05,Mike ,Thompson,Mike  Thompson,D,"224,526",0.768685102,,,,,W
+CA,06,California,05,Carlos,Santamaria,Carlos Santamaria,R,"67,565",0.231314898,,,,,
+CA,06,California,05,,,Total Votes,,"292,091",,,,,,
+CA,06,California,06,Doris,Matsui,Doris Matsui,D,"177,565",0.754270155,,,,,W
+CA,06,California,06,Robert (Bob),Evans,Robert (Bob) Evans,R,"57,848",0.245729845,,,,,
+CA,06,California,06,,,Total Votes,,"235,413",,,,,,
+CA,06,California,07,Ami,Bera,Ami Bera,D,"152,133",0.511713718,,,,,W
+CA,06,California,07,Scott R.,Jones,Scott R. Jones,R,"145,168",0.488286282,,,,,
+CA,06,California,07,,,Total Votes,,"297,301",,,,,,
+CA,06,California,08,Paul ,Cook,Paul  Cook,R,"136,972",0.622580191,,,,,W
+CA,06,California,08,Rita,Ramirez,Rita Ramirez,D,"83,035",0.377419809,,,,,
+CA,06,California,08,,,Total Votes,,"220,007",,,,,,
+CA,06,California,09,Jerry,McNerney,Jerry McNerney,D,"133,163",0.573595227,,,,,W
+CA,06,California,09,"Antonio C. ""Tony""",Amador,"Antonio C. ""Tony"" Amador",R,"98,992",0.426404773,,,,,
+CA,06,California,09,,,Total Votes,,"232,155",,,,,,
+CA,06,California,10,Jeff,Denham,Jeff Denham,R,"124,671",0.517004574,,,,,W
+CA,06,California,10,Michael  ,Eggman,Michael   Eggman,D,"116,470",0.482995426,,,,,
+CA,06,California,10,,,Total Votes,,"241,141",,,,,,
+CA,06,California,11,Mark,DeSaulnier,Mark DeSaulnier,D,"214,868",0.72052822,,,,,W
+CA,06,California,11,Roger Allen,Petersen,Roger Allen Petersen,R,"83,341",0.27947178,,,,,
+CA,06,California,11,,,Total Votes,,"298,209",,,,,,
+CA,06,California,12,Nancy ,Pelosi,Nancy  Pelosi,D,"274,035",0.808732606,,,,,W
+CA,06,California,12,Preston,Picus,Preston Picus,NOP,"64,810",0.191267394,,,,,
+CA,06,California,12,,,Total Votes,,"338,845",,,,,,
+CA,06,California,13,Barbara,Lee,Barbara Lee,D,"293,117",0.907845548,,,,,W
+CA,06,California,13,Sue,Caro,Sue Caro,R,"29,754",0.092154452,,,,,
+CA,06,California,13,,,Total Votes,,"322,871",,,,,,
+CA,06,California,14,Jackie,Speier,Jackie Speier,D,"231,630",0.808631265,,,,,W
+CA,06,California,14,Angel,Cardenas,Angel Cardenas,W(R)/R,"54,817",0.191368735,,,,,
+CA,06,California,14,,,Total Votes,,"286,447",,,,,,
+CA,06,California,15,Eric,Swalwell,Eric Swalwell,D,"198,578",0.737667953,,,,,W
+CA,06,California,15,Danny R.,Turner,Danny R. Turner,R,"70,619",0.262332047,,,,,
+CA,06,California,15,,,Total Votes,,"269,197",,,,,,
+CA,06,California,16,Jim,Costa,Jim Costa,D,"97,473",0.580348425,,,,,W
+CA,06,California,16,Johnny M.,Tacherra,Johnny M. Tacherra,R,"70,483",0.419651575,,,,,
+CA,06,California,16,,,Total Votes,,"167,956",,,,,,
+CA,06,California,17,Ro,Khanna,Ro Khanna,D,"142,268",0.61008954,,,,,W
+CA,06,California,17,Mike ,Honda,Mike  Honda,D,"90,924",0.38991046,,,,,
+CA,06,California,17,,,Total Votes,,"233,192",,,,,,
+CA,06,California,18,Anna G.,Eshoo,Anna G. Eshoo,D,"230,460",0.711450005,,,,,W
+CA,06,California,18,Richard B.,Fox,Richard B. Fox,R,"93,470",0.288549995,,,,,
+CA,06,California,18,,,Total Votes,,"323,930",,,,,,
+CA,06,California,19,Zoe,Lofgren,Zoe Lofgren,D,"181,802",0.739444325,,,,,W
+CA,06,California,19,G. Burt,Lancaster,G. Burt Lancaster,R,"64,061",0.260555675,,,,,
+CA,06,California,19,,,Total Votes,,"245,863",,,,,,
+CA,06,California,20,Jimmy ,Panetta,Jimmy  Panetta,D,"180,980",0.707530758,,,,,W
+CA,06,California,20,Casey ,Lucius,Casey  Lucius,R,"74,811",0.292469242,,,,,
+CA,06,California,20,,,Total Votes,,"255,791",,,,,,
+CA,06,California,21,David,Valadao,David Valadao,R,"75,126",0.567382635,,,,,W
+CA,06,California,21,Emilio Jesus,Huerta,Emilio Jesus Huerta,D,"57,282",0.432617365,,,,,
+CA,06,California,21,,,Total Votes,,"132,408",,,,,,
+CA,06,California,22,Devin G.,Nunes,Devin G. Nunes,R,"158,755",0.675650945,,,,,W
+CA,06,California,22,Louie J.,Campos,Louie J. Campos,D,"76,211",0.324349055,,,,,
+CA,06,California,22,,,Total Votes,,"234,966",,,,,,
+CA,06,California,23,Kevin,McCarthy,Kevin McCarthy,R,"167,116",0.691751109,,,,,W
+CA,06,California,23,Wendy ,Reed,Wendy  Reed,D,"74,468",0.308248891,,,,,
+CA,06,California,23,,,Total Votes,,"241,584",,,,,,
+CA,06,California,24,Salud,Carbajal,Salud Carbajal,D,"166,034",0.534190867,,,,,W
+CA,06,California,24,Justin Donald ,Fareed,Justin Donald  Fareed,R,"144,780",0.465809133,,,,,
+CA,06,California,24,,,Total Votes,,"310,814",,,,,,
+CA,06,California,25,Steve,Knight,Steve Knight,R,"138,755",0.531300615,,,,,W
+CA,06,California,25,Bryan,Caforio,Bryan Caforio,D,"122,406",0.468699385,,,,,
+CA,06,California,25,,,Total Votes,,"261,161",,,,,,
+CA,06,California,26,Julia,Brownley,Julia Brownley,D,"169,248",0.603795125,,,,,W
+CA,06,California,26,Rafael A.,Dagnesses,Rafael A. Dagnesses,R,"111,059",0.396204875,,,,,
+CA,06,California,26,,,Total Votes,,"280,307",,,,,,
+CA,06,California,27,Judy ,Chu,Judy  Chu,D,"168,977",0.674203613,,,,,W
+CA,06,California,27,Jack,Orswell,Jack Orswell,R,"81,655",0.325796387,,,,,
+CA,06,California,27,,,Total Votes,,"250,632",,,,,,
+CA,06,California,28,Adam B.,Schiff,Adam B. Schiff,D,"210,883",0.779866794,,,,,W
+CA,06,California,28,Lenore,Solis,Lenore Solis,R,"59,526",0.220133206,,,,,
+CA,06,California,28,,,Total Votes,,"270,409",,,,,,
+CA,06,California,29,Tony,Cardenas,Tony Cardenas,D,"128,407",0.747317022,,,,,W
+CA,06,California,29,Richard,Alarcon,Richard Alarcon,D,"43,417",0.252682978,,,,,
+CA,06,California,29,,,Total Votes,,"171,824",,,,,,
+CA,06,California,30,Brad,Sherman,Brad Sherman,D,"205,279",0.726383915,,,,,W
+CA,06,California,30,Mark,Reed,Mark Reed,R,"77,325",0.273616085,,,,,
+CA,06,California,30,,,Total Votes,,"282,604",,,,,,
+CA,06,California,31,Pete,Aguilar,Pete Aguilar,D,"121,070",0.560675385,,,,,W
+CA,06,California,31,Paul ,Chabot,Paul  Chabot,R,"94,866",0.439324615,,,,,
+CA,06,California,31,,,Total Votes,,"215,936",,,,,,
+CA,06,California,32,Grace F. ,Napolitano,Grace F.  Napolitano,D,"114,926",0.615743172,,,,,W
+CA,06,California,32,Roger,Hernández,Roger Hernández,D,"71,720",0.384256828,,,,,
+CA,06,California,32,,,Total Votes,,"186,646",,,,,,
+CA,06,California,33,Ted W.,Lieu,Ted W. Lieu,D,"219,397",0.664398475,,,,,W
+CA,06,California,33,Kenneth W.,Wright,Kenneth W. Wright,R,"110,822",0.335601525,,,,,
+CA,06,California,33,,,Total Votes,,"330,219",,,,,,
+CA,06,California,34,Xavier,Becerra,Xavier Becerra,D,"122,842",0.771833924,,,,,W
+CA,06,California,34,Adrienne Nicole,Edwards,Adrienne Nicole Edwards,D,"36,314",0.228166076,,,,,
+CA,06,California,34,,,Total Votes,,"159,156",,,,,,
+CA,06,California,35,Norma J.,Torres,Norma J. Torres,D,"124,044",0.723909123,,,,,W
+CA,06,California,35,Tyler,Fischella,Tyler Fischella,R,"47,309",0.276090877,,,,,
+CA,06,California,35,,,Total Votes,,"171,353",,,,,,
+CA,06,California,36,Raul,Ruiz,Raul Ruiz,D,"144,348",0.620539341,,,,,W
+CA,06,California,36,Jeff,Stone,Jeff Stone,R,"88,269",0.379460659,,,,,
+CA,06,California,36,,,Total Votes,,"232,617",,,,,,
+CA,06,California,37,Karen,Bass,Karen Bass,D,"192,490",0.811263023,,,,,W
+CA,06,California,37,Chris Blake,Wiggins,Chris Blake Wiggins,D,"44,782",0.188736977,,,,,
+CA,06,California,37,,,Total Votes,,"237,272",,,,,,
+CA,06,California,38,Linda T.,Sánchez,Linda T. Sánchez,D,"163,590",0.704782995,,,,,W
+CA,06,California,38,Ryan ,Downing,Ryan  Downing,R,"68,524",0.295217005,,,,,
+CA,06,California,38,,,Total Votes,,"232,114",,,,,,
+CA,06,California,39,Ed,Royce,Ed Royce,R,"150,777",0.572304294,,,,,W
+CA,06,California,39,Brett ,Murdock,Brett  Murdock,D,"112,679",0.427695706,,,,,
+CA,06,California,39,,,Total Votes,,"263,456",,,,,,
+CA,06,California,40,Lucille,Roybal-Allard,Lucille Roybal-Allard,D,"106,554",0.713704897,,,,,W
+CA,06,California,40,Roman Gabriel ,Gonzalez,Roman Gabriel  Gonzalez,NOP,"42,743",0.286295103,,,,,
+CA,06,California,40,,,Total Votes,,"149,297",,,,,,
+CA,06,California,41,Mark,Takano,Mark Takano,D,"128,164",0.649513741,,,,,W
+CA,06,California,41,Doug,Shepherd,Doug Shepherd,R,"69,159",0.350486259,,,,,
+CA,06,California,41,,,Total Votes,,"197,323",,,,,,
+CA,06,California,42,Ken,Calvert,Ken Calvert,R,"149,547",0.58822118,,,,,W
+CA,06,California,42,Tim,Sheridan,Tim Sheridan,D,"104,689",0.41177882,,,,,
+CA,06,California,42,,,Total Votes,,"254,236",,,,,,
+CA,06,California,43,Maxine,Waters,Maxine Waters,D,"167,017",0.760842034,,,,,W
+CA,06,California,43,Omar,Navarro,Omar Navarro,R,"52,499",0.239157966,,,,,
+CA,06,California,43,,,Total Votes,,"219,516",,,,,,
+CA,06,California,44,Nanette Diaz,Barragán,Nanette Diaz Barragán,D,"93,124",0.521957481,,,,,W
+CA,06,California,44,"Isadore, III",Hall,"Isadore, III Hall",D,"85,289",0.478042519,,,,,
+CA,06,California,44,,,Total Votes,,"178,413",,,,,,
+CA,06,California,45,Mimi,Walters,Mimi Walters,R,"182,618",0.585597517,,,,,W
+CA,06,California,45,Ron,Varasteh,Ron Varasteh,D,"129,231",0.414402483,,,,,
+CA,06,California,45,,,Total Votes,,"311,849",,,,,,
+CA,06,California,46,Lou,Correa,Lou Correa,D,"115,248",0.700199887,,,,,W
+CA,06,California,46,Bao,Nguyen,Bao Nguyen,D,"49,345",0.299800113,,,,,
+CA,06,California,46,,,Total Votes,,"164,593",,,,,,
+CA,06,California,47,Alan,Lowenthal,Alan Lowenthal,D,"154,759",0.637214454,,,,,W
+CA,06,California,47,Andy,Whallon,Andy Whallon,R,"88,109",0.362785546,,,,,
+CA,06,California,47,,,Total Votes,,"242,868",,,,,,
+CA,06,California,48,Dana ,Rohrabacher,Dana  Rohrabacher,R,"178,701",0.583197353,,,,,W
+CA,06,California,48,Suzanne,Savary,Suzanne Savary,D,"127,715",0.416802647,,,,,
+CA,06,California,48,,,Total Votes,,"306,416",,,,,,
+CA,06,California,49,Darrell,Issa,Darrell Issa,R,"155,888",0.50261321,,,,,W
+CA,06,California,49,Doug,Applegate,Doug Applegate,D,"154,267",0.49738679,,,,,
+CA,06,California,49,,,Total Votes,,"310,155",,,,,,
+CA,06,California,50,Duncan,Hunter,Duncan Hunter,R,"179,937",0.634512647,,,,,W
+CA,06,California,50,Patrick,Malloy,Patrick Malloy,D,"103,646",0.365487353,,,,,
+CA,06,California,50,,,Total Votes,,"283,583",,,,,,
+CA,06,California,51,Juan ,Vargas,Juan  Vargas,D,"145,162",0.727541549,,,,,W
+CA,06,California,51,"Juan M., Jr.",Hidalgo,"Juan M., Jr. Hidalgo",R,"54,362",0.272458451,,,,,
+CA,06,California,51,,,Total Votes,,"199,524",,,,,,
+CA,06,California,52,Scott,Peters,Scott Peters,D,"181,253",0.565256848,,,,,W
+CA,06,California,52,Denise,Gitsham,Denise Gitsham,R,"139,403",0.434743152,,,,,
+CA,06,California,52,,,Total Votes,,"320,656",,,,,,
+CA,06,California,53,Susan A.,Davis,Susan A. Davis,D,"198,988",0.670092539,,,,,W
+CA,06,California,53,James,Veltmeyer,James Veltmeyer,R,"97,968",0.329907461,,,,,
+CA,06,California,53,,,Total Votes,,"296,956",,,,,,
+CO,08,Colorado,01,Diana,DeGette,Diana DeGette,D,"257,254",0.67870598,,,,,W
+CO,08,Colorado,01,"Charles ""Casper""",Stockham,"Charles ""Casper"" Stockham",R,"105,030",0.27709769,,,,,
+CO,08,Colorado,01,Darrell,Dinges,Darrell Dinges,LIB,"16,752",0.04419633,,,,,
+CO,08,Colorado,01,,,Total Votes,,"379,036",,,,,,
+CO,08,Colorado,02,Jared,Polis,Jared Polis,D,"260,175",0.568922311,,,,,W
+CO,08,Colorado,02,Nicholas,Morse,Nicholas Morse,R,"170,001",0.371739644,,,,,
+CO,08,Colorado,02,Richard,Longstreth,Richard Longstreth,LIB,"27,136",0.059338045,,,,,
+CO,08,Colorado,02,,,Total Votes,,"457,312",,,,,,
+CO,08,Colorado,03,Scott R.,Tipton,Scott R. Tipton,R,"204,220",0.545988766,,,,,W
+CO,08,Colorado,03,Gail,Schwartz,Gail Schwartz,D,"150,914",0.403473453,,,,,
+CO,08,Colorado,03,Kent,Gaylon,Kent Gaylon,LIB,"18,903",0.050537781,,,,,
+CO,08,Colorado,03,,,Total Votes,,"374,037",,,,,,
+CO,08,Colorado,04,Ken,Buck,Ken Buck,R,"248,230",0.635452532,,,,,W
+CO,08,Colorado,04,Bob,Seay,Bob Seay,D,"123,642",0.316515417,,,,,
+CO,08,Colorado,04,Bruce,Griffith,Bruce Griffith,LIB,"18,761",0.048026931,,,,,
+CO,08,Colorado,04,Donald,Howbert,Donald Howbert,W,2,0.00000512,,,,,
+CO,08,Colorado,04,,,Total Votes,,"390,635",,,,,,
+CO,08,Colorado,05,Doug,Lamborn,Doug Lamborn,R,"225,445",0.622580182,,,,,W
+CO,08,Colorado,05,Misty,Plowright,Misty Plowright,D,"111,676",0.308400117,,,,,
+CO,08,Colorado,05,Mike,McRedmond,Mike McRedmond,LIB,"24,872",0.068685552,,,,,
+CO,08,Colorado,05,Curtis,Imrie,Curtis Imrie,W,121,0.000334149,,,,,
+CO,08,Colorado,05,,,Total Votes,,"362,114",,,,,,
+CO,08,Colorado,06,Mike,Coffman,Mike Coffman,R,"191,626",0.509079027,,,,,W
+CO,08,Colorado,06,Morgan,Carroll,Morgan Carroll,D,"160,372",0.42604877,,,,,
+CO,08,Colorado,06,Norm,Olsen,Norm Olsen,LIB,"18,778",0.049886163,,,,,
+CO,08,Colorado,06,Robert Lee,Worthey,Robert Lee Worthey,GRE,"5,641",0.014986039,,,,,
+CO,08,Colorado,06,,,Total Votes,,"376,417",,,,,,
+CO,08,Colorado,07,Ed,Perlmutter,Ed Perlmutter,D,"199,758",0.551802436,,,,,W
+CO,08,Colorado,07,George,Athanasopoulos,George Athanasopoulos,R,"144,066",0.397961382,,,,,
+CO,08,Colorado,07,Martin L.,Buchanan,Martin L. Buchanan,LIB  ,"18,186",0.050236181,,,,,
+CO,08,Colorado,07,,,Total Votes,,"362,010",,,,,,
+CT,09,Connecticut,01,John B.,Larson,John B. Larson,D,"200,686",0.641323001,,,"200,686",64.13%,W
+CT,09,Connecticut,01,John B.,Larson,John B. Larson,WF,"200,686",0.641323001,,,"200,686",64.13%,
+CT,09,Connecticut,01,Matthew M.,Corey,Matthew M. Corey,R,"105,674",0.337697531,,,,,
+CT,09,Connecticut,01,S. Michael,DeRosa,S. Michael DeRosa,GRE,"6,563",0.020973077,,,,,
+CT,09,Connecticut,01,Charles ,Jackson,Charles  Jackson,W,1,0.0000032,,,,,
+CT,09,Connecticut,01,Mark ,Stewart,Mark  Stewart,W,1,0.0000032,,,,,
+CT,09,Connecticut,01,,,Total Votes,,"312,925",,,,,,
+CT,09,Connecticut,02,Joe,Courtney,Joe Courtney,D,"208,818",0.632289399,,,"208,818",63.23%,W
+CT,09,Connecticut,02,Joe,Courtney,Joe Courtney,WF,"208,818",0.632289399,,,"208,818",63.23%,
+CT,09,Connecticut,02,Daria Irene,Novak,Daria Irene Novak,R,"111,149",0.336553048,,,,,
+CT,09,Connecticut,02,Jonathan,Pelto,Jonathan Pelto,GRE,"5,332",0.016145002,,,,,
+CT,09,Connecticut,02,Daniel,Reale,Daniel Reale,LIB,"4,949",0.014985299,,,,,
+CT,09,Connecticut,02,Elizabeth F.,Traceski,Elizabeth F. Traceski,W,9,0.0000273,,,,,
+CT,09,Connecticut,02,,,Total Votes,,"330,257",,,,,,
+CT,09,Connecticut,03,Rosa L.,DeLauro,Rosa L. DeLauro,D,"213,572",0.690324812,,,"213,572",69.03%,W
+CT,09,Connecticut,03,Rosa L.,DeLauro,Rosa L. DeLauro,WF,"213,572",0.690324812,,,"213,572",69.03%,
+CT,09,Connecticut,03,Angel,Cadena,Angel Cadena,R,"95,786",0.30960731,,,,,
+CT,09,Connecticut,03,Christopher,Schaefer,Christopher Schaefer,W,18,0.0000582,,,,,
+CT,09,Connecticut,03,Andrew ,Rule,Andrew  Rule,W,3,0.0000097,,,,,
+CT,09,Connecticut,03,,,Total Votes,,"309,379",,,,,,
+CT,09,Connecticut,04,Jim,Himes,Jim Himes,D,"187,811",0.599001722,,,,,W
+CT,09,Connecticut,04,John,Shaban,John Shaban,R,"125,724",0.400982331,,,"125,724",40.10%,
+CT,09,Connecticut,04,John,Shaban,John Shaban,IP,"125,724",0.400982331,,,"125,724",40.10%,
+CT,09,Connecticut,04,Carl E. ,Vassar,Carl E.  Vassar,W,5,0.0000159,,,,,
+CT,09,Connecticut,04,,,Total Votes,,"313,540",,,,,,
+CT,09,Connecticut,05,Elizabeth,Esty,Elizabeth Esty,D,"179,252",0.579949657,,,"179,252",57.99%,W
+CT,09,Connecticut,05,Elizabeth,Esty,Elizabeth Esty,WF,"179,252",0.579949657,,,"179,252",57.99%,
+CT,09,Connecticut,05,Clay,Cope,Clay Cope,IP,"129,801",0.419956516,,,"129,801",42.00%,
+CT,09,Connecticut,05,Clay,Cope,Clay Cope,R,"129,801",0.419956516,,,"129,801",42.00%,
+CT,09,Connecticut,05,John ,Pistone,John  Pistone,R/W,28,0.0000906,,,,,
+CT,09,Connecticut,05,Ann-Marie,Adams,Ann-Marie Adams,W,1,0.00000324,,,,,
+CT,09,Connecticut,05,,,Total Votes,,"309,082",,,,,,
+DE,10,Delaware,00,Lisa Blunt,Rochester,Lisa Blunt Rochester,D,"233,554",0.55523488,,,,,W
+DE,10,Delaware,00,Hans,Reigle,Hans Reigle,R,"172,301",0.409616299,,,,,
+DE,10,Delaware,00,Mark J.,Perri,Mark J. Perri,GRE,"8,326",0.019793648,,,,,
+DE,10,Delaware,00,Scott A.,Gesty,Scott A. Gesty,LIB,"6,436",0.015300494,,,,,
+DE,10,Delaware,00,Scott,Walker,Scott Walker,W,14,0.0000333,,,,,
+DE,10,Delaware,00,"Robert Nelson, III",Franz,"Robert Nelson, III Franz",W,4,0.00000951,,,,,
+DE,10,Delaware,00,Campbell,Smith,Campbell Smith,W,4,0.00000951,,,,,
+DE,10,Delaware,00,Rachelle Lee,Linney,Rachelle Lee Linney,W,1,0.00000238,,,,,
+DE,10,Delaware,00,,,Total Votes,,"420,640",,,,,,
+DC,11,District of Columbia,00,Eleanor Holmes,Norton,Eleanor Holmes Norton,D,"265,178",0.881265246,,,,,W
+DC,11,District of Columbia,00,Martin,Moulton,Martin Moulton,LIB,"18,713",0.062188856,,,,,
+DC,11,District of Columbia,00,Natale (Lino),Stracuzzi,Natale (Lino) Stracuzzi,DCG,"14,336",0.047642785,,,,,
+DC,11,District of Columbia,00,,Scattered,Scattered,W,"2,679",0.008903113,,,,,
+DC,11,District of Columbia,00,,,Total Votes,,"300,906",,,,,,
+FL,12,Florida,01,Matt,Gaetz,Matt Gaetz,R,"255,107",0.690998575,,,,,W
+FL,12,Florida,01,Steven ,Specht,Steven  Specht,D,"114,079",0.309001425,,,,,
+FL,12,Florida,01,,,Total Votes,,"369,186",,,,,,
+FL,12,Florida,02,Neal,Dunn,Neal Dunn,R,"231,163",0.673234079,,,,,W
+FL,12,Florida,02,Walter,Dartland,Walter Dartland,D,"102,801",0.29939539,,,,,
+FL,12,Florida,02,Rob ,Lapham,Rob  Lapham,LBF,"9,395",0.027361793,,,,,
+FL,12,Florida,02,Antoine Edward ,Roberts,Antoine Edward  Roberts,W,3,0.00000874,,,,,
+FL,12,Florida,02,,,Total Votes,,"343,362",,,,,,
+FL,12,Florida,03,Ted,Yoho,Ted Yoho,R,"193,843",0.565634666,,,,,W
+FL,12,Florida,03,"Kenneth ""Ken""",McGurn,"Kenneth ""Ken"" McGurn",D,"136,338",0.397834841,,,,,
+FL,12,Florida,03,Tom,Wells,Tom Wells,NPA,"12,519",0.036530493,,,,,
+FL,12,Florida,03,,,Total Votes,,"342,700",,,,,,
+FL,12,Florida,04,David E.,Bruderly,David E. Bruderly,D,"113,088",0.276051965,,,,,
+FL,12,Florida,04,Gary L.,Koniz,Gary L. Koniz,NPA,"9,054",0.022101147,,,,,
+FL,12,Florida,04,Daniel,Murphy,Daniel Murphy,W,11,0.0000269,,,,,
+FL,12,Florida,04,,,Total Votes,,"409,662",,,,,,
+FL,12,Florida,04,John ,Rutherford,John  Rutherford,R,"287,509",0.701820037,,,,,W
+FL,12,Florida,05,Al ,Lawson,Al  Lawson,D,"194,549",0.642343021,,,,,W
+FL,12,Florida,05,Glo,Smith,Glo Smith,R,"108,325",0.357656979,,,,,
+FL,12,Florida,05,,,Total Votes,,"302,874",,,,,,
+FL,12,Florida,06,Ron,DeSantis,Ron DeSantis,R,"213,519",0.585673533,,,,,W
+FL,12,Florida,06,William (Bill),McCullough,William (Bill) McCullough,D,"151,051",0.414326467,,,,,
+FL,12,Florida,06,,,Total Votes,,"364,570",,,,,,
+FL,12,Florida,07,Stephanie,Murphy,Stephanie Murphy,D,"182,039",0.514736113,,,,,W
+FL,12,Florida,07,John ,Mica,John  Mica,R,"171,583",0.485170576,,,,,
+FL,12,Florida,07,Mike,Plaskon,Mike Plaskon,W,33,0.0000933,,,,,
+FL,12,Florida,07,,,Total Votes,,"353,655",,,,,,
+FL,12,Florida,08,Bill ,Posey,Bill  Posey,R,"246,483",0.631099879,,,,,W
+FL,12,Florida,08,Corry,Westbrook,Corry Westbrook,D,"127,127",0.32549845,,,,,
+FL,12,Florida,08,Bill,Stinson,Bill Stinson,NPA,"16,951",0.043401671,,,,,
+FL,12,Florida,08,,,Total Votes,,"390,561",,,,,,
+FL,12,Florida,09,Darren,Soto,Darren Soto,D,"195,311",0.574848202,,,,,W
+FL,12,Florida,09,Wayne,Liebnitzky,Wayne Liebnitzky,R,"144,450",0.425151798,,,,,
+FL,12,Florida,09,,,Total Votes,,"339,761",,,,,,
+FL,12,Florida,10,Val,Demings,Val Demings,D,"198,491",0.648686717,,,,,W
+FL,12,Florida,10,Thuy,Lowe,Thuy Lowe,R,"107,498",0.351313283,,,,,
+FL,12,Florida,10,,,Total Votes,,"305,989",,,,,,
+FL,12,Florida,11,Daniel ,Webster,Daniel  Webster,R,"258,016",0.653670079,,,,,W
+FL,12,Florida,11,Dave,Koller,Dave Koller,D,"124,713",0.315953881,,,,,
+FL,12,Florida,11,Bruce Ray,Riggs,Bruce Ray Riggs,NPA,"11,990",0.03037604,,,,,
+FL,12,Florida,11,,,Total Votes,,"394,719",,,,,,
+FL,12,Florida,12,Gus Michael ,Bilirakis,Gus Michael  Bilirakis,R,"253,559",0.685908204,,,,,W
+FL,12,Florida,12,Robert Matthew ,Tager,Robert Matthew  Tager,D,"116,110",0.314091796,,,,,
+FL,12,Florida,12,,,Total Votes,,"369,669",,,,,,
+FL,12,Florida,13,Charlie ,Crist,Charlie  Crist,D,"184,693",0.519030918,,,,,W
+FL,12,Florida,13,David W.,Jolly,David W. Jolly,R,"171,149",0.480969082,,,,,
+FL,12,Florida,13,,,Total Votes,,"355,842",,,,,,
+FL,12,Florida,14,Kathy ,Castor,Kathy  Castor,D,"195,789",0.617870656,,,,,W
+FL,12,Florida,14,Christine,Quinn,Christine Quinn,R,"121,088",0.382129344,,,,,
+FL,12,Florida,14,,,Total Votes,,"316,877",,,,,,
+FL,12,Florida,15,Dennis A.,Ross,Dennis A. Ross,R,"182,999",0.574612056,,,,,W
+FL,12,Florida,15,Jim,Lange,Jim Lange,D,"135,475",0.425387944,,,,,
+FL,12,Florida,15,,,Total Votes,,"318,474",,,,,,
+FL,12,Florida,16,Vern,Buchanan,Vern Buchanan,R,"230,654",0.597679288,,,,,W
+FL,12,Florida,16,Jan,Schneider,Jan Schneider,D,"155,262",0.402320712,,,,,
+FL,12,Florida,16,,,Total Votes,,"385,916",,,,,,
+FL,12,Florida,17,Tom,Rooney,Tom Rooney,R,"209,348",0.618138333,,,,,W
+FL,12,Florida,17,April,Freeman,April Freeman,D,"115,974",0.342434487,,,,,
+FL,12,Florida,17,"John W., III",Sawyer,"John W., III Sawyer",NPA,"13,353",0.039427179,,,,,
+FL,12,Florida,17,,,Total Votes,,"338,675",,,,,,
+FL,12,Florida,18,Brian,Mast,Brian Mast,R,"201,488",0.535989232,,,,,W
+FL,12,Florida,18,Randy ,Perkins,Randy  Perkins,D,"161,918",0.430726914,,,,,
+FL,12,Florida,18,Carla,Spalding,Carla Spalding,NPA,"12,503",0.033259913,,,,,
+FL,12,Florida,18,Marilyn ,Holloman,Marilyn  Holloman,W,9,0.0000239,,,,,
+FL,12,Florida,18,,,Total Votes,,"375,918",,,,,,
+FL,12,Florida,19,Francis,Rooney,Francis Rooney,R,"239,225",0.658720805,,,,,W
+FL,12,Florida,19,Robert M.,Neeld,Robert M. Neeld,D,"123,812",0.340923985,,,,,
+FL,12,Florida,19,David,Byron,David Byron,W,109,0.000300138,,,,,
+FL,12,Florida,19,Timothy John,Rossano,Timothy John Rossano,W,20,0.0000551,,,,,
+FL,12,Florida,19,,,Total Votes,,"363,166",,,,,,
+FL,12,Florida,20,Alcee L.,Hastings,Alcee L. Hastings,D,"222,914",0.803120046,,,,,W
+FL,12,Florida,20,Gary  ,Stein,Gary   Stein,R,"54,646",0.196879954,,,,,
+FL,12,Florida,20,,,Total Votes,,"277,560",,,,,,
+FL,12,Florida,21,Lois ,Frankel ,Lois  Frankel ,D,"210,606",0.627062981,,,,,W
+FL,12,Florida,21,Paul ,Spain,Paul  Spain,R,"118,038",0.351448963,,,,,
+FL,12,Florida,21,"W. Michael ""Mike""",Trout,"W. Michael ""Mike"" Trout",NPA,"7,217",0.021488056,,,,,
+FL,12,Florida,21,,,Total Votes,,"335,861",,,,,,
+FL,12,Florida,22,Ted,Deutch,Ted Deutch,D,"199,113",0.589353263,,,,,W
+FL,12,Florida,22,Andrea Leigh,McGee,Andrea Leigh McGee,R,"138,737",0.410646737,,,,,
+FL,12,Florida,22,,,Total Votes,,"337,850",,,,,,
+FL,12,Florida,23,Debbie Wasserman,Schultz,Debbie Wasserman Schultz,D,"183,225",0.567049393,,,,,W
+FL,12,Florida,23,"Joseph ""Joe""",Kaufman,"Joseph ""Joe"" Kaufman",R,"130,818",0.404858876,,,,,
+FL,12,Florida,23,Don,Endriss,Don Endriss,NPA,"5,180",0.016031196,,,,,
+FL,12,Florida,23,Lyle ,Milstein,Lyle  Milstein,NPA,"3,897",0.012060535,,,,,
+FL,12,Florida,23,,,Total Votes,,"323,120",,,,,,
+FL,12,Florida,24,Frederica,Wilson,Frederica Wilson,D,Unopposed,,,,,,W
+FL,12,Florida,25,Mario ,Diaz-Balart,Mario  Diaz-Balart,R,"157,921",0.623602117,,,,,W
+FL,12,Florida,25,Alina,Valdes,Alina Valdes,D,"95,319",0.376397883,,,,,
+FL,12,Florida,25,,,Total Votes,,"253,240",,,,,,
+FL,12,Florida,26,Carlos,Curbelo,Carlos Curbelo,R,"148,547",0.529500039,,,,,W
+FL,12,Florida,26,Joe ,Garcia,Joe  Garcia,D,"115,493",0.411678109,,,,,
+FL,12,Florida,26,Jose ,Peixoto,Jose  Peixoto,NPA,"16,502",0.058821852,,,,,
+FL,12,Florida,26,,,Total Votes,,"280,542",,,,,,
+FL,12,Florida,27,Ileana,Ros-Lehtinen,Ileana Ros-Lehtinen,R,"157,917",0.548938567,,,,,W
+FL,12,Florida,27,Scott,Fuhrman,Scott Fuhrman,D,"129,760",0.451061433,,,,,
+FL,12,Florida,27,,,Total Votes,,"287,677",,,,,,
+GA,13,Georgia,01,"Earl ""Buddy""",Carter,"Earl ""Buddy"" Carter",R,"210,243",0.995883702,,,,,W
+GA,13,Georgia,01,Nathan,Russo,Nathan Russo,W,869,0.004116298,,,,,
+GA,13,Georgia,01,,,Total Votes,,"211,112",,,,,,
+GA,13,Georgia,02,Sanford,Bishop,Sanford Bishop,D,"148,543",0.612298484,,,,,W
+GA,13,Georgia,02,Greg,Duke,Greg Duke,R,"94,056",0.387701516,,,,,
+GA,13,Georgia,02,,,Total Votes,,"242,599",,,,,,
+GA,13,Georgia,03,Drew,Ferguson,Drew Ferguson,R,"207,218",0.68346598,,,,,W
+GA,13,Georgia,03,Angela,Pendley,Angela Pendley,D,"95,969",0.31653402,,,,,
+GA,13,Georgia,03,,,Total Votes,,"303,187",,,,,,
+GA,13,Georgia,04,"Henry C. ""Hank,"" Jr.",Johnson,"Henry C. ""Hank,"" Jr. Johnson",D,"220,146",0.757194597,,,,,W
+GA,13,Georgia,04,Victor ,Armendariz,Victor  Armendariz,R,"70,593",0.242805403,,,,,
+GA,13,Georgia,04,,,Total Votes,,"290,739",,,,,,
+GA,13,Georgia,05,John R.,Lewis,John R. Lewis,D,"253,781",0.84439143,,,,,W
+GA,13,Georgia,05,Douglas ,Bell,Douglas  Bell,R,"46,768",0.15560857,,,,,
+GA,13,Georgia,05,,,Total Votes,,"300,549",,,,,,
+GA,13,Georgia,06,Tom ,Price,Tom  Price,R,"201,088",0.616824895,,,,,W
+GA,13,Georgia,06,Rodney ,Stooksbury,Rodney  Stooksbury,D,"124,917",0.383175105,,,,,
+GA,13,Georgia,06,,,Total Votes,,"326,005",,,,,,
+GA,13,Georgia,07,Rob,Woodall,Rob Woodall,R,"174,081",0.603816844,,,,,W
+GA,13,Georgia,07,Rashid ,Malik,Rashid  Malik,D,"114,220",0.396183156,,,,,
+GA,13,Georgia,07,,,Total Votes,,"288,301",,,,,,
+GA,13,Georgia,08,Austin ,Scott,Austin  Scott,R,"173,983",0.676429193,,,,,W
+GA,13,Georgia,08,James Neal,Harris,James Neal Harris,D,"83,225",0.323570807,,,,,
+GA,13,Georgia,08,,,Total Votes,,"257,208",,,,,,
+GA,13,Georgia,09,Doug ,Collins,Doug  Collins,R,"256,535",1,,,,,W
+GA,13,Georgia,09,,,Total Votes,,"256,535",,,,,,
+GA,13,Georgia,10,Jody ,Hice,Jody  Hice,R,"243,725",0.996377922,,,,,W
+GA,13,Georgia,10,Leonard,Ware,Leonard Ware,W,886,0.003622078,,,,,
+GA,13,Georgia,10,,,Total Votes,,"244,611",,,,,,
+GA,13,Georgia,11,Barry,Loudermilk,Barry Loudermilk,R,"217,935",0.674057739,,,,,W
+GA,13,Georgia,11,Don ,Wilson,Don  Wilson,D,"105,383",0.325942261,,,,,
+GA,13,Georgia,11,,,Total Votes,,"323,318",,,,,,
+GA,13,Georgia,12,Rick ,Allen,Rick  Allen,R,"159,492",0.616008528,,,,,W
+GA,13,Georgia,12,Patricia C.,McCracken,Patricia C. McCracken,D,"99,420",0.383991472,,,,,
+GA,13,Georgia,12,,,Total Votes,,"258,912",,,,,,
+GA,13,Georgia,13,David ,Scott,David  Scott,D,"252,833",1,,,,,W
+GA,13,Georgia,13,,,Total Votes,,"252,833",,,,,,
+GA,13,Georgia,14,Tom ,Graves,Tom  Graves,R,"216,743",0.999032048,,,,,W
+GA,13,Georgia,14,Patrick A.,Boggs,Patrick A. Boggs,W,210,0.000967952,,,,,
+GA,13,Georgia,14,,,Total Votes,,"216,953",,,,,,
+HI,15,Hawaii,02,Tulsi,Gabbard,Tulsi Gabbard,D,"170,848",0.811567767,,,,,W
+HI,15,Hawaii,02,Angela Aulani,Kaaihue,Angela Aulani Kaaihue,R,"39,668",0.188432233,,,,,
+HI,15,Hawaii,02,,,Total Votes,,"210,516",,,,,,
+HI,15,Hawaii,01 - FULL TERM,Colleen Wakako,Hanabusa,Colleen Wakako Hanabusa,D,"145,417",0.718616109,,,,,W
+HI,15,Hawaii,01 - FULL TERM,Shirlene D. (Shirl),Ostrov,Shirlene D. (Shirl) Ostrov,R,"45,958",0.227113468,,,,,
+HI,15,Hawaii,01 - FULL TERM,Alan J.K.,Yim,Alan J.K. Yim,LIB,"6,601",0.032620567,,,,,
+HI,15,Hawaii,01 - FULL TERM,Calvin (G),Griffin,Calvin (G) Griffin,N,"4,381",0.021649856,,,,,
+HI,15,Hawaii,01 - FULL TERM,,,Total Votes,,"202,357",,,,,,
+HI,15,Hawaii,01 - UNEXPIRED TERM,Colleen Wakako,Hanabusa,Colleen Wakako Hanabusa,D,"129,083",0.650649475,,,,,W
+HI,15,Hawaii,01 - UNEXPIRED TERM,Shirlene DelaCruz,Ostrov,Shirlene DelaCruz Ostrov,R,"44,090",0.222237904,,,,,
+HI,15,Hawaii,01 - UNEXPIRED TERM,Angela Aulani,Kaaihue,Angela Aulani Kaaihue,D,"5,885",0.029663644,,,,,
+HI,15,Hawaii,01 - UNEXPIRED TERM,Alan J.K.,Yim,Alan J.K. Yim,LIB,"5,559",0.028020424,,,,,
+HI,15,Hawaii,01 - UNEXPIRED TERM,Howard,Kim,Howard Kim,D,"4,259",0.021467708,,,,,
+HI,15,Hawaii,01 - UNEXPIRED TERM,Peter,Cross,Peter Cross,D,"3,420",0.017238685,,,,,
+HI,15,Hawaii,01 - UNEXPIRED TERM,Calvin C. (G),Griffin,Calvin C. (G) Griffin,N,"2,824",0.014234517,,,,,
+HI,15,Hawaii,01 - UNEXPIRED TERM,Javier,Ocasio,Javier Ocasio,D,"1,893",0.009541763,,,,,
+HI,15,Hawaii,01 - UNEXPIRED TERM,Yvonne,Perry,Yvonne Perry,N,"1,050",0.005292579,,,,,
+HI,15,Hawaii,01 - UNEXPIRED TERM,Peter H.,Plotzeneder,Peter H. Plotzeneder,N,328,0.001653301,,,,,
+HI,15,Hawaii,01 - UNEXPIRED TERM,,,Total Votes,,"198,391",,,,,,
+ID,16,Idaho,01,Raul R.,Labrador,Raul R. Labrador,R,"242,252",0.681714445,,,,,W
+ID,16,Idaho,01,James ,Piotrowski,James  Piotrowski,D,"113,052",0.318136409,,,,,
+ID,16,Idaho,01,,Pro-Life,Pro-Life,W,53,0.000149146,,,,,
+ID,16,Idaho,01,,,Total Votes,,"355,357",,,,,,
+ID,16,Idaho,02,Mike ,Simpson,Mike  Simpson,R,"205,292",0.629272584,,,,,W
+ID,16,Idaho,02,Jennifer ,Martinez,Jennifer  Martinez,D,"95,940",0.294080684,,,,,
+ID,16,Idaho,02,Anthony,Tomkins,Anthony Tomkins,CON,"25,005",0.076646732,,,,,
+ID,16,Idaho,02,,,Total Votes,,"326,237",,,,,,
+IL,17,Illinois,01,Bobby L.,Rush,Bobby L. Rush,D,"234,037",0.740946996,,,,,W
+IL,17,Illinois,01,August (O'Neill),Deuser,August (O'Neill) Deuser,R,"81,817",0.259027677,,,,,
+IL,17,Illinois,01,Tabitha,Carson,Tabitha Carson,W,8,0.0000253,,,,,
+IL,17,Illinois,01,,,Total Votes,,"315,862",,,,,,
+IL,17,Illinois,02,Robin,Kelly,Robin Kelly,D,"235,051",0.798076205,,,,,W
+IL,17,Illinois,02,John F,Morrow,John F Morrow,R,"59,471",0.201923795,,,,,
+IL,17,Illinois,02,,,Total Votes,,"294,522",,,,,,
+IL,17,Illinois,03,Daniel William,Lipinski,Daniel William Lipinski,D,"225,320",0.999596293,,,,,W
+IL,17,Illinois,03,Diane,Harris,Diane Harris,W,91,0.000403707,,,,,
+IL,17,Illinois,03,,,Total Votes,,"225,411",,,,,,
+IL,17,Illinois,04,Luis V.,Gutierrez,Luis V. Gutierrez,D,"171,297",1,,,,,W
+IL,17,Illinois,04,,,Total Votes,,"171,297",,,,,,
+IL,17,Illinois,05,Mike,Quigley,Mike Quigley,D,"212,842",0.678437098,,,,,W
+IL,17,Illinois,05,Vince,Kolber,Vince Kolber,R,"86,222",0.27483393,,,,,
+IL,17,Illinois,05,Rob ,Sherman,Rob  Sherman,GRE,"14,657",0.046719409,,,,,
+IL,17,Illinois,05,Michael,Krynski,Michael Krynski,W,3,0.00000956,,,,,
+IL,17,Illinois,05,,,Total Votes,,"313,724",,,,,,
+IL,17,Illinois,06,Peter J.,Roskam,Peter J. Roskam,R,"208,555",0.59224015,,,,,W
+IL,17,Illinois,06,Amanda,Howland,Amanda Howland,D,"143,591",0.40775985,,,,,
+IL,17,Illinois,06,,,Total Votes,,"352,146",,,,,,
+IL,17,Illinois,07,Danny K.,Davis,Danny K. Davis,D,"250,584",0.842395433,,,,,W
+IL,17,Illinois,07,Jeffrey A.,Leef,Jeffrey A. Leef,R,"46,882",0.157604567,,,,,
+IL,17,Illinois,07,,,Total Votes,R,"297,466",,,,,,
+IL,17,Illinois,08,Raja,Krishnamoorthi,Raja Krishnamoorthi,D,"144,954",0.583149281,,,,,W
+IL,17,Illinois,08,"Peter ""Pete""",DiCianni,"Peter ""Pete"" DiCianni",R,"103,617",0.416850719,,,,,
+IL,17,Illinois,08,,,Total Votes,,"248,571",,,,,,
+IL,17,Illinois,09,Janice D,Schakowsky,Janice D Schakowsky,D,"217,306",0.664650036,,,,,W
+IL,17,Illinois,09,Joan McCarthy,Lasonde,Joan McCarthy Lasonde,R,"109,550",0.335068574,,,,,
+IL,17,Illinois,09,David,Williams,David Williams,W,79,0.000241629,,,,,
+IL,17,Illinois,09,Susanne,Atanus,Susanne Atanus,W,13,0.0000398,,,,,
+IL,17,Illinois,09,,,Total Votes,,"326,948",,,,,,
+IL,17,Illinois,10,Brad,Schneider,Brad Schneider,D,"150,435",0.52600386,,,,,W
+IL,17,Illinois,10,Robert ,Dold,Robert  Dold,R,"135,535",0.473905229,,,,,
+IL,17,Illinois,10,Joseph William,Kopsick,Joseph William Kopsick,W,26,0.0000909,,,,,
+IL,17,Illinois,10,,,Total Votes,,"285,996",,,,,,
+IL,17,Illinois,11,Bill,Foster,Bill Foster,D,"166,578",0.604478668,,,,,W
+IL,17,Illinois,11,Tonia,Khouri,Tonia Khouri,R,"108,995",0.395521332,,,,,
+IL,17,Illinois,11,,,Total Votes,,"275,573",,,,,,
+IL,17,Illinois,12,Michael ,Bost,Michael  Bost,R,"169,976",0.543050843,,,,,W
+IL,17,Illinois,12,"Charles ""C.J."" ",Baricevic,"Charles ""C.J.""  Baricevic",D,"124,246",0.39694954,,,,,
+IL,17,Illinois,12,Paula,Bradshaw,Paula Bradshaw,GRE,"18,780",0.059999617,,,,,
+IL,17,Illinois,12,,,Total Votes,,"313,002",,,,,,
+IL,17,Illinois,13,Rodney,Davis,Rodney Davis,R,"187,583",0.596649427,,,,,W
+IL,17,Illinois,13,Mark D ,Wicklund,Mark D  Wicklund,D,"126,811",0.403350573,,,,,
+IL,17,Illinois,13,,,Total Votes,,"314,394",,,,,,
+IL,17,Illinois,14,"Randall M. ""Randy""",Hultgren,"Randall M. ""Randy"" Hultgren",R,"200,508",0.59304874,,,,,W
+IL,17,Illinois,14,Jim ,Walz,Jim  Walz,D,"137,589",0.40695126,,,,,
+IL,17,Illinois,14,,,Total Votes,,"338,097",,,,,,
+IL,17,Illinois,15,John M.,Shimkus,John M. Shimkus,R,"274,554",1,,,,,W
+IL,17,Illinois,15,,,Total Votes,,"274,554",,,,,,
+IL,17,Illinois,16,Adam,Kinzinger,Adam Kinzinger,R,"259,722",0.999495869,,,,,W
+IL,17,Illinois,16,John F.,Burchardt,John F. Burchardt,W,131,0.000504131,,,,,
+IL,17,Illinois,16,,,Total Votes,,"259,853",,,,,,
+IL,17,Illinois,17,Cheri ,Bustos,Cheri  Bustos,D,"173,125",0.603080106,,,,,W
+IL,17,Illinois,17,Patrick,Harlan,Patrick Harlan,R,"113,943",0.396919894,,,,,
+IL,17,Illinois,17,,,Total Votes,,"287,068",,,,,,
+IL,17,Illinois,18,Darin,LaHood,Darin LaHood,R,"250,506",0.721331018,,,,,W
+IL,17,Illinois,18,Junius,Rodriguez,Junius Rodriguez,D,"96,770",0.278648825,,,,,
+IL,17,Illinois,18,Don,Vance,Don Vance,W,7,0.0000202,,,,,
+IL,17,Illinois,18,,,Total Votes,,"347,283",,,,,,
+IN,18,Indiana,01,Peter J.,Visclosky,Peter J. Visclosky,D,"207,515",0.81511727,,,,,W
+IN,18,Indiana,01,Donna,Dunn,Donna Dunn,LIB,"47,051",0.184815954,,,,,
+IN,18,Indiana,01,John ,Meyer,John  Meyer,W,17,0.0000668,,,,,
+IN,18,Indiana,01,,,Total Votes,,"254,583",,,,,,
+IN,18,Indiana,02,Jackie,Walorski,Jackie Walorski,R,"164,355",0.592575634,,,,,W
+IN,18,Indiana,02,Lynn C.,Coleman,Lynn C. Coleman,D,"102,401",0.369202869,,,,,
+IN,18,Indiana,02,Ron,Cenkush,Ron Cenkush,LIB,"10,601",0.038221498,,,,,
+IN,18,Indiana,02,,,Total Votes,,"277,357",,,,,,
+IN,18,Indiana,03,Jim,Banks,Jim Banks,R,"201,396",0.701124816,,,,,W
+IN,18,Indiana,03,Tommy A.,Schrader,Tommy A. Schrader,D,"66,023",0.229847483,,,,,
+IN,18,Indiana,03,Pepper,Snyder,Pepper Snyder,LIB,"19,828",0.069027701,,,,,
+IN,18,Indiana,03,,,Total Votes,,"287,247",,,,,,
+IN,18,Indiana,04,Todd,Rokita,Todd Rokita,R,"193,412",0.645925312,,,,,W
+IN,18,Indiana,04,John,Dale,John Dale,D,"91,256",0.30476165,,,,,
+IN,18,Indiana,04,Steven M.,Mayoras,Steven M. Mayoras,LIB,"14,766",0.049313037,,,,,
+IN,18,Indiana,04,,,Total Votes,,"299,434",,,,,,
+IN,18,Indiana,05,Susan W.,Brooks,Susan W. Brooks,R,"221,957",0.614609495,,,,,W
+IN,18,Indiana,05,Angela ,Demaree,Angela  Demaree,D,"123,849",0.342943774,,,,,
+IN,18,Indiana,05,Matthew,Wittlief,Matthew Wittlief,LIB,"15,329",0.04244673,,,,,
+IN,18,Indiana,05,,,Total Votes,,"361,135",,,,,,
+IN,18,Indiana,06,Luke ,Messer,Luke  Messer,R,"204,920",0.691398013,,,,,W
+IN,18,Indiana,06,Barry,Welsh,Barry Welsh,D,"79,135",0.267000692,,,,,
+IN,18,Indiana,06,Rich,Turvey,Rich Turvey,LIB,"12,330",0.041601296,,,,,
+IN,18,Indiana,06,,,Total Votes,,"296,385",,,,,,
+IN,18,Indiana,07,André D.,Carson,André D. Carson,D,"158,739",0.599761968,,,,,W
+IN,18,Indiana,07,Catherine (CAT),Ping,Catherine (CAT) Ping,R,"94,456",0.356882155,,,,,
+IN,18,Indiana,07,Drew,Thompson,Drew Thompson,LIB,"11,475",0.043355877,,,,,
+IN,18,Indiana,07,,,Total Votes,,"264,670",,,,,,
+IN,18,Indiana,08,Larry D.,Bucshon,Larry D. Bucshon,R,"187,702",0.636897592,,,,,W
+IN,18,Indiana,08,Ron,Drake,Ron Drake,D,"93,356",0.316769196,,,,,
+IN,18,Indiana,08,Andrew,Horning,Andrew Horning,LIB,"13,655",0.046333212,,,,,
+IN,18,Indiana,08,,,Total Votes,,"294,713",,,,,,
+IN,18,Indiana,09,Trey,Hollingsworth,Trey Hollingsworth,R,"174,791",0.54141177,,,,,W
+IN,18,Indiana,09,Shelli ,Yoder,Shelli  Yoder,D,"130,627",0.404614627,,,,,
+IN,18,Indiana,09,Russell,Brooksbank,Russell Brooksbank,LIB,"17,425",0.053973603,,,,,
+IN,18,Indiana,09,,,Total Votes,,"322,843",,,,,,
+IA,19,Iowa,01,Rod,Blum,Rod Blum,R,"206,903",0.537442497,,,,,W
+IA,19,Iowa,01,Monica,Vernon,Monica Vernon,D,"177,403",0.460814542,,,,,
+IA,19,Iowa,01,,Scattered,Scattered,W,671,0.001742961,,,,,
+IA,19,Iowa,01,,,Total Votes,,"384,977",,,,,,
+IA,19,Iowa,02,Dave,Loebsack,Dave Loebsack,D,"198,571",0.536631967,,,,,W
+IA,19,Iowa,02,Christopher,Peters,Christopher Peters,R,"170,933",0.461941129,,,,,
+IA,19,Iowa,02,,Scattered,Scattered,W,528,0.001426904,,,,,
+IA,19,Iowa,02,,,Total Votes,,"370,032",,,,,,
+IA,19,Iowa,03,David,Young,David Young,R,"208,598",0.534473349,,,,,W
+IA,19,Iowa,03,Jim,Mowrer,Jim Mowrer,D,"155,002",0.397148765,,,,,
+IA,19,Iowa,03,Bryan Jack,Holder,Bryan Jack Holder,LIB,"15,372",0.0393864,,,,,
+IA,19,Iowa,03,Claudia,Addy,Claudia Addy,NNE,"6,348",0.016264954,,,,,
+IA,19,Iowa,03,Joe,Grandanette,Joe Grandanette,NNE,"4,518",0.011576097,,,,,
+IA,19,Iowa,03,,Scattered,Scattered,W,449,0.001150435,,,,,
+IA,19,Iowa,03,,,Total Votes,,"390,287",,,,,,
+IA,19,Iowa,04,Steve,King,Steve King,R,"226,719",0.612325426,,,,,W
+IA,19,Iowa,04,Kim,Weaver,Kim Weaver,D,"142,993",0.38619723,,,,,
+IA,19,Iowa,04,,Scattered,Scattered,W,547,0.001477344,,,,,
+IA,19,Iowa,04,,,Total Votes,,"370,259",,,,,,
+KS,20,Kansas,01,Roger,Marshall,Roger Marshall,R,"169,992",0.65895779,,,,,W
+KS,20,Kansas,01,Tim,Huelskamp,Tim Huelskamp,R/W,874,,,,,,
+KS,20,Kansas,01,Alan,LaPolice,Alan LaPolice,IND,"67,739",0.262583779,,,,,
+KS,20,Kansas,01,Kerry,Burt,Kerry Burt,LIB,"19,366",0.075070454,,,,,
+KS,20,Kansas,01,,,Total Votes,,"257,971",,,,,,
+KS,20,Kansas,02,Lynn,Jenkins,Lynn Jenkins,R,"181,228",0.609372531,,,,,W
+KS,20,Kansas,02,Britani,Potter,Britani Potter,D ,"96,840",0.325620963,,,,,
+KS,20,Kansas,02,James Houston,Bales,James Houston Bales,LIB,"19,333",0.065006506,,,,,
+KS,20,Kansas,02,,,Total Votes,,"297,401",,,,,,
+KS,20,Kansas,03,Kevin,Yoder,Kevin Yoder,R,"176,022",0.513014663,,,,,W
+KS,20,Kansas,03,Jay,Sidie,Jay Sidie,D ,"139,300",0.405988698,,,,,
+KS,20,Kansas,03,Steven A.,Hohe,Steven A. Hohe,LIB,"27,791",0.08099664,,,,,
+KS,20,Kansas,03,,,Total Votes,,"343,113",,,,,,
+KS,20,Kansas,04,Michael,Pompeo,Michael Pompeo,R,"166,998",0.606711692,,,,,W
+KS,20,Kansas,04,Daniel B.,Giroux,Daniel B. Giroux,D,"81,495",0.296075219,,,,,
+KS,20,Kansas,04,Miranda,Allen,Miranda Allen,IND,"19,021",0.069104199,,,,,
+KS,20,Kansas,04,Gorden J.,Bakken,Gorden J. Bakken,LIB,"7,737",0.02810889,,,,,
+KS,20,Kansas,04,,,Total Votes,,"275,251",,,,,,
+KY,21,Kentucky,02,S. Brett,Guthrie,S. Brett Guthrie,R,"251,825",1,,,,,W
+KY,21,Kentucky,02,,,Total Votes,,"251,825",,,,,,
+KY,21,Kentucky,03,John A.,Yarmuth,John A. Yarmuth,D,"212,401",0.634991958,,,,,W
+KY,21,Kentucky,03,Harold,Bratcher,Harold Bratcher,R,"122,093",0.365008042,,,,,
+KY,21,Kentucky,03,,,Total Votes,,"334,494",,,,,,
+KY,21,Kentucky,04,Thomas,Massie,Thomas Massie,R,"233,922",0.713205097,,,,,W
+KY,21,Kentucky,04,Calvin,Sidle,Calvin Sidle,D,"94,065",0.286794903,,,,,
+KY,21,Kentucky,04,,,Total Votes,,"327,987",,,,,,
+KY,21,Kentucky,05,"Harold ""Hal""",Rogers,"Harold ""Hal"" Rogers",R,"221,242",1,,,,,W
+KY,21,Kentucky,05,,,Total Votes,,"221,242",,,,,,
+KY,21,Kentucky,06,Andy,Barr,Andy Barr,R,"202,099",0.610890284,,,,,W
+KY,21,Kentucky,06,Nancy Jo,Kemper,Nancy Jo Kemper,D,"128,728",0.389109716,,,,,
+KY,21,Kentucky,06,,,Total Votes,,"330,827",,,,,,
+KY,21,Kentucky,01 - FULL TERM,James R.,Comer,James R. Comer,R,"216,959",0.725612958,,,,,W
+KY,21,Kentucky,01 - FULL TERM,Samuel L.,Gaskins,Samuel L. Gaskins,D,"81,710",0.273276678,,,,,
+KY,21,Kentucky,01 - FULL TERM,Terry,McIntosh,Terry McIntosh,W,332,0.001110364,,,,,
+KY,21,Kentucky,01 - FULL TERM,,,Total Votes,,"299,001",,,,,,
+KY,21,Kentucky,01 - UNEXPIRED TERM,James R.,Comer,James R. Comer,R,"209,810",0.72193185,,,,,W
+KY,21,Kentucky,1 - UNEXPIRED TERM,Samuel L.,Gaskins,Samuel L. Gaskins,D,"80,813",0.27806815,,,,,
+KY,21,Kentucky,1 - UNEXPIRED TERM,,,Total Votes,,"290,623",,,,,,
+LA,22,Louisiana,01,Steve,Scalise,Steve Scalise,R,"243,645",0.745575113,,,,,W
+LA,22,Louisiana,01,Lee Ann,Dugas,Lee Ann Dugas,D,"41,840",0.128034077,,,,,
+LA,22,Louisiana,01,Danil Ezekiel,Faust,Danil Ezekiel Faust,D,"12,708",0.038887597,,,,,
+LA,22,Louisiana,01,Howard,Kearney,Howard Kearney,LIB,"9,405",0.028780127,,,,,
+LA,22,Louisiana,01,"Joseph ""Joe""",Swider,"Joseph ""Joe"" Swider",D,"9,237",0.028266032,,,,,
+LA,22,Louisiana,01,Eliot,Barron,Eliot Barron,GRE,"6,717",0.02055461,,,,,
+LA,22,Louisiana,01,Chuemai,Yang,Chuemai Yang,NPA,"3,236",0.009902444,,,,,
+LA,22,Louisiana,01,,,Total Votes,,"326,788",,,,,,
+LA,22,Louisiana,02,Cedric,Richmond,Cedric Richmond,D,"198,289",0.697540006,,,,,W
+LA,22,Louisiana,02,"Melvin L. ""Kip""",Holden,"Melvin L. ""Kip"" Holden",D,"57,125",0.200954026,,,,,
+LA,22,Louisiana,02,Kenneth,Cutno,Kenneth Cutno,D,"28,855",0.101505968,,,,,
+LA,22,Louisiana,02,,,Total Votes,,"284,269",,,,,,
+LA,22,Louisiana,03,Clay,Higgins,Clay Higgins,R,"77,671",0.561072866,"77,671",56.11%,,,W
+LA,22,Louisiana,03,Scott A.,Angelle,Scott A. Angelle,R,"60,762",0.438927134,"60,762",43.89%,,,
+LA,22,Louisiana,03,,,Total Votes,,"138,433",,"138,433",,,,
+LA,22,Louisiana,04,"""Mike""",Johnson,"""Mike"" Johnson",R,"87,370",0.652263175,"87,370",65.23%,,,W
+LA,22,Louisiana,04,Marshall,Jones,Marshall Jones,D,"46,579",0.347736825,"46,579",34.77%,,,
+LA,22,Louisiana,05,,,Total Votes,,"133,949",,"133,949",,,,
+LA,22,Louisiana,06,Garret,Graves,Garret Graves,R,"207,483",0.626651324,,,,,W
+LA,22,Louisiana,06,Richard ,Lieberman,Richard  Lieberman,D,"49,380",0.149140134,,,,,
+LA,22,Louisiana,06,"Robert Lamar ""Bob""",Bell,"Robert Lamar ""Bob"" Bell",R,"33,592",0.101456366,,,,,
+LA,22,Louisiana,06,Jermaine,Sampson,Jermaine Sampson,D,"29,822",0.090070009,,,,,
+LA,22,Louisiana,06,Richard M.,Fontanesi,Richard M. Fontanesi,LIB,"7,603",0.02296299,,,,,
+LA,22,Louisiana,06,Devin Lance,Graham,Devin Lance Graham,OTH,"3,218",0.009719177,,,,,
+LA,22,Louisiana,06,,,Total Votes,,"331,098",,,,,,
+ME,23,Maine,01,Chellie,Pingree,Chellie Pingree,D,"227,546",0.579896073,,,,,W
+ME,23,Maine,01,Mark I.,Holbrook,Mark I. Holbrook,R,"164,569",0.419400547,,,,,
+ME,23,Maine,01,James J.,Bouchard,James J. Bouchard,W(LIB),276,0.00070338,,,,,
+ME,23,Maine,01,,,Total Votes,,"392,391",,,,,,
+ME,23,Maine,02,Bruce,Poliquin,Bruce Poliquin,R,"192,878",0.547664141,,,,,W
+ME,23,Maine,02,Emily Ann,Cain,Emily Ann Cain,D,"159,081",0.451699827,,,,,
+ME,23,Maine,02,Jay Parker,Dresser,Jay Parker Dresser,W(IND),224,0.000636033,,,,,
+ME,23,Maine,02,,,Total Votes,,"352,183",,,,,,
+MD,24,Maryland,01,Andy,Harris,Andy Harris,R,"242,574",0.669914415,,,,,W
+MD,24,Maryland,01,Joe,Werner,Joe Werner,D,"103,622",0.286171937,,,,,
+MD,24,Maryland,01,Matt,Beers,Matt Beers,LIB,"15,370",0.04244719,,,,,
+MD,24,Maryland,01,,Scattered,Scattered,W,531,0.001466458,,,,,
+MD,24,Maryland,01,,,Total Votes,,"362,097",,,,,,
+MD,24,Maryland,02,C.A. Dutch,Ruppersberger,C.A. Dutch Ruppersberger,D,"192,183",0.620986817,,,,,W
+MD,24,Maryland,02,Pat,McDonough,Pat McDonough,R,"102,577",0.331449528,,,,,
+MD,24,Maryland,02,Kristin S.,Kasprzak,Kristin S. Kasprzak,LIB,"14,128",0.045650769,,,,,
+MD,24,Maryland,02,,Scattered,Scattered,W,592,0.001912886,,,,,
+MD,24,Maryland,02,,,Total Votes,,"309,480",,,,,,
+MD,24,Maryland,03,John,Sarbanes,John Sarbanes,D,"214,640",0.631898138,,,,,W
+MD,24,Maryland,03,Mark,Plaster,Mark Plaster,R,"115,048",0.338700228,,,,,
+MD,24,Maryland,03,Nnabu,Eze,Nnabu Eze,GRE,"9,461",0.027853095,,,,,
+MD,24,Maryland,03,Ann,Dalrymple,Ann Dalrymple,W,63,0.000185471,,,,,
+MD,24,Maryland,03,,Scattered,Scattered,W,463,0.001363068,,,,,
+MD,24,Maryland,03,,,Total Votes,,"339,675",,,,,,
+MD,24,Maryland,04,Anthony G.,Brown,Anthony G. Brown,D,"237,501",0.740686106,,,,,W
+MD,24,Maryland,04,George E.,McDermott,George E. McDermott,R,"68,670",0.21415874,,,,,
+MD,24,Maryland,04,Kamesha T.,Clark,Kamesha T. Clark,GRE,"8,204",0.025585529,,,,,
+MD,24,Maryland,04,Benjamin Lee,Krause,Benjamin Lee Krause,LIB,"5,744",0.017913613,,,,,
+MD,24,Maryland,04,,Scattered,Scattered,W,513,0.001599875,,,,,
+MD,24,Maryland,04,Adrian,Petrus,Adrian Petrus,W,18,0.0000561,,,,,
+MD,24,Maryland,04,,,Total Votes,,"320,650",,,,,,
+MD,24,Maryland,05,Steny H.,Hoyer,Steny H. Hoyer,D,"242,989",0.673782838,,,,,W
+MD,24,Maryland,05,Mark,Arness,Mark Arness,R,"105,931",0.293735477,,,,,
+MD,24,Maryland,05,Jason,Summers,Jason Summers,LIB,"11,078",0.030718124,,,,,
+MD,24,Maryland,05,,Scattered,Scattered,W,636,0.001763561,,,,,
+MD,24,Maryland,05,,,Total Votes,,"360,634",,,,,,
+MD,24,Maryland,06,John K.,Delaney,John K. Delaney,D,"185,770",0.559593702,,,,,W
+MD,24,Maryland,06,Amie,Hoeber,Amie Hoeber,R,"133,081",0.400878987,,,,,
+MD,24,Maryland,06,David L.,Howser,David L. Howser,LIB,"6,889",0.020751688,,,,,
+MD,24,Maryland,06,George,Gluck,George Gluck,GRE,"5,824",0.017543595,,,,,
+MD,24,Maryland,06,,Scattered,Scattered,W,306,0.000921762,,,,,
+MD,24,Maryland,06,Ted,Athey,Ted Athey,W,103,0.000310266,,,,,
+MD,24,Maryland,06,,,Total Votes,,"331,973",,,,,,
+MD,24,Maryland,07,Elijah,Cummings,Elijah Cummings,D,"238,838",0.748915061,,,,,W
+MD,24,Maryland,07,Corrogan R.,Vaughn,Corrogan R. Vaughn,R,"69,556",0.218104054,,,,,
+MD,24,Maryland,07,Myles B.,Hoeing,Myles B. Hoeing,GRE,"9,715",0.030462949,,,,,
+MD,24,Maryland,07,William T.,Newton,William T. Newton,W,202,0.000633404,,,,,
+MD,24,Maryland,07,Michael T.,Pearson,Michael T. Pearson,W,17,0.0000533,,,,,
+MD,24,Maryland,07,,Scattered,Scattered,W,584,0.001831226,,,,,
+MD,24,Maryland,07,,,Total Votes,,"318,912",,,,,,
+MD,24,Maryland,08,Jamie,Raskin,Jamie Raskin,D,"220,657",0.605661444,,,,,W
+MD,24,Maryland,08,Dan,Cox,Dan Cox,R,"124,651",0.342143257,,,,,
+MD,24,Maryland,08,Nancy,Wallace,Nancy Wallace,GRE,"11,201",0.030744612,,,,,
+MD,24,Maryland,08,Jasen,Wunder,Jasen Wunder,LIB,"7,283",0.019990448,,,,,
+MD,24,Maryland,08,Kevin Levester,Little,Kevin Levester Little,W,5,0.0000137,,,,,
+MD,24,Maryland,08,,Scattered,Scattered,W,527,0.001446515,,,,,
+MD,24,Maryland,08,,,Total Votes,,"364,324",,,,,,
+MA,25,Massachusetts,01,Richard E.,Neal,Richard E. Neal,D,"235,803",0.733357384,,,,,W
+MA,25,Massachusetts,01,Frederick O.,Mayock,Frederick O. Mayock,IND,"57,504",0.178839892,,,,,
+MA,25,Massachusetts,01,Thomas T.,Simmons,Thomas T. Simmons,LIB,"27,511",0.085560383,,,,,
+MA,25,Massachusetts,01,,All Others,All Others,W,721,0.002242341,,,,,
+MA,25,Massachusetts,01,,,Total Votes,,"321,539",,,,,,
+MA,25,Massachusetts,02,James P.,McGovern,James P. McGovern,D,"275,487",0.982440061,,,,,W
+MA,25,Massachusetts,02,,All Others,All Others,W,"4,924",0.017559939,,,,,
+MA,25,Massachusetts,02,,,Total Votes,,"280,411",,,,,,
+MA,25,Massachusetts,03,Nicola S.,Tsongas,Nicola S. Tsongas,D,"236,713",0.686937015,,,,,W
+MA,25,Massachusetts,03,Ann,Wofford,Ann Wofford,R,"107,519",0.312018271,,,,,
+MA,25,Massachusetts,03,,All Others,All Others,W,360,0.001044714,,,,,
+MA,25,Massachusetts,03,,,Total Votes,,"344,592",,,,,,
+MA,25,Massachusetts,04,"Joseph P., III",Kennedy,"Joseph P., III Kennedy",D,"265,823",0.700985989,,,,,W
+MA,25,Massachusetts,04,David A.,Rosa,David A. Rosa,R,"113,055",0.298130602,,,,,
+MA,25,Massachusetts,04,,All Others,All Others,W,335,0.000883409,,,,,
+MA,25,Massachusetts,04,,,Total Votes,,"379,213",,,,,,
+MA,25,Massachusetts,05,Katherine M.,Clark,Katherine M. Clark,D,"285,606",0.985504146,,,,,W
+MA,25,Massachusetts,05,,All Others,All Others,W,"4,201",0.014495854,,,,,
+MA,25,Massachusetts,05,,,Total Votes,,"289,807",,,,,,
+MA,25,Massachusetts,06,Seth,Moulton,Seth Moulton,D,"308,923",0.983658913,,,,,W
+MA,25,Massachusetts,06,,All Others,All Others,W,"5,132",0.016341087,,,,,
+MA,25,Massachusetts,06,,,Total Votes,,"314,055",,,,,,
+MA,25,Massachusetts,07,Michael E.,Capuano,Michael E. Capuano,D,"253,354",0.986154738,,,,,W
+MA,25,Massachusetts,07,,All Others,All Others,W,"3,557",0.013845262,,,,,
+MA,25,Massachusetts,07,,,Total Votes,,"256,911",,,,,,
+MA,25,Massachusetts,08,Stephen F. ,Lynch,Stephen F.  Lynch,D,"271,019",0.724136641,,,,,W
+MA,25,Massachusetts,08,William,Burke,William Burke,R,"102,744",0.274522063,,,,,
+MA,25,Massachusetts,08,,All Others,All Others,W,502,0.001341296,,,,,
+MA,25,Massachusetts,08,,,Total Votes,,"374,265",,,,,,
+MA,25,Massachusetts,09,William Richard ,Keating,William Richard  Keating,D,"211,790",0.55749615,,,,,W
+MA,25,Massachusetts,09,Mark C.,Alliegro,Mark C. Alliegro,R,"127,803",0.336416641,,,,,
+MA,25,Massachusetts,09,Paul J.,Harrington,Paul J. Harrington,IND,"26,233",0.069053291,,,,,
+MA,25,Massachusetts,09,Christopher D.,Cataldo,Christopher D. Cataldo,U,"8,338",0.02194817,,,,,
+MA,25,Massachusetts,09,Anna Grace,Raduc,Anna Grace Raduc,U,"5,320",0.014003869,,,,,
+MA,25,Massachusetts,09,,All Others,All Others,W,411,0.001081878,,,,,
+MA,25,Massachusetts,09,,,Total Votes,,"379,895",,,,,,
+MI,26,Michigan,01,Jack,Bergman,Jack Bergman,R,"197,777",0.548967305,,,,,W
+MI,26,Michigan,01,Lon,Johnson,Lon Johnson,D,"144,334",0.400626195,,,,,
+MI,26,Michigan,01,Diane,Bostow,Diane Bostow,LIB,"13,386",0.037155364,,,,,
+MI,26,Michigan,01,Ellis,Boal,Ellis Boal,GRE,"4,774",0.013251136,,,,,
+MI,26,Michigan,01,,,Total Votes,,"360,271",,,,,,
+MI,26,Michigan,02,Bill,Huizenga,Bill Huizenga,R,"212,508",0.626261316,,,,,W
+MI,26,Michigan,02,Dennis B.,Murphy,Dennis B. Murphy,D,"110,391",0.325322402,,,,,
+MI,26,Michigan,02,Erwin J.,Haas,Erwin J. Haas,LIB,"8,154",0.024029847,,,,,
+MI,26,Michigan,02,Matthew A.,Brady,Matthew A. Brady,GRE,"5,353",0.015775297,,,,,
+MI,26,Michigan,02,Ronald E.,Graeser,Ronald E. Graeser,UST,"2,904",0.008558091,,,,,
+MI,26,Michigan,02,Joshua,Arnold,Joshua Arnold,W,18,0.000053,,,,,
+MI,26,Michigan,02,,,Total Votes,,"339,328",,,,,,
+MI,26,Michigan,03,Justin,Amash,Justin Amash,R,"203,545",0.59452631,,,,,W
+MI,26,Michigan,03,Douglas,Smith,Douglas Smith,D,"128,400",0.375038336,,,,,
+MI,26,Michigan,03,Ted,Gerrard,Ted Gerrard,UST,"10,420",0.030435354,,,,,
+MI,26,Michigan,03,,,Total Votes,,"342,365",,,,,,
+MI,26,Michigan,04,John ,Moolenaar,John  Moolenaar,R,"194,572",0.616219743,,,,,W
+MI,26,Michigan,04,Debra,Wirth,Debra Wirth,W(D)/D,"101,277",0.320749578,,,,,
+MI,26,Michigan,04,Leonard ,Schwartz,Leonard  Schwartz,LIB,"8,516",0.026970619,,,,,
+MI,26,Michigan,04,George M.,Zimmer,George M. Zimmer,UST,"5,595",0.017719659,,,,,
+MI,26,Michigan,04,Jordan,Salvi,Jordan Salvi,GRE,"3,953",0.012519359,,,,,
+MI,26,Michigan,04,Keith,Butkovich,Keith Butkovich,NLP,"1,838",0.005821043,,,,,
+MI,26,Michigan,04,,,Total Votes,,"315,751",,,,,,
+MI,26,Michigan,05,Daniel T.,Kildee,Daniel T. Kildee,D,"195,279",0.611601956,,,,,W
+MI,26,Michigan,05,Al,Hardwick,Al Hardwick,R,"112,102",0.351096649,,,,,
+MI,26,Michigan,05,Steve,Sluka,Steve Sluka,LIB,"7,006",0.021942366,,,,,
+MI,26,Michigan,05,Harley,Mikkelson,Harley Mikkelson,GRE,"4,904",0.01535903,,,,,
+MI,26,Michigan,05,,,Total Votes,,"319,291",,,,,,
+MI,26,Michigan,06,Fred,Upton,Fred Upton,R,"193,259",0.586406323,,,,,W
+MI,26,Michigan,06,Paul,Clements,Paul Clements,D,"119,980",0.364055649,,,,,
+MI,26,Michigan,06,Lorence,Wenke,Lorence Wenke,LIB,"16,248",0.049301352,,,,,
+MI,26,Michigan,06,Richard Miller,Overton,Richard Miller Overton,W,78,0.000236676,,,,,
+MI,26,Michigan,06,,,Total Votes,,"329,565",,,,,,
+MI,26,Michigan,07,Tim,Walberg,Tim Walberg,R,"184,321",0.550529111,,,,,W
+MI,26,Michigan,07,Gretchen D.,Driskell,Gretchen D. Driskell,D,"134,010",0.400260449,,,,,
+MI,26,Michigan,07,Ken,Proctor,Ken Proctor,LIB,"16,476",0.049210441,,,,,
+MI,26,Michigan,07,,,Total Votes,,"334,807",,,,,,
+MI,26,Michigan,08,Mike,Bishop,Mike Bishop,R,"205,629",0.560345861,,,,,W
+MI,26,Michigan,08,Suzanna,Shkreli,Suzanna Shkreli,D,"143,791",0.391835255,,,,,
+MI,26,Michigan,08,Jeff,Wood,Jeff Wood,LIB,"9,619",0.026212095,,,,,
+MI,26,Michigan,08,Maria,Green,Maria Green,GRE,"5,679",0.015475464,,,,,
+MI,26,Michigan,08,Jeremy,Burgess,Jeremy Burgess,NLP,"2,250",0.006131325,,,,,
+MI,26,Michigan,08,,,Total Votes,,"366,968",,,,,,
+MI,26,Michigan,09,Sander,Levin,Sander Levin,D,"199,661",0.579105214,,,,,W
+MI,26,Michigan,09,Christopher R.,Morse,Christopher R. Morse,R,"128,937",0.373974331,,,,,
+MI,26,Michigan,09,Matthew,Orlando,Matthew Orlando,LIB,"9,563",0.02773693,,,,,
+MI,26,Michigan,09,John V.,McDermott,John V. McDermott,GRE,"6,614",0.019183525,,,,,
+MI,26,Michigan,09,,,Total Votes,,"344,775",,,,,,
+MI,26,Michigan,10,Paul ,Mitchell,Paul  Mitchell,R,"215,132",0.630917084,,,,,W
+MI,26,Michigan,10,"Frank, Jr.",Accavitti,"Frank, Jr. Accavitti",D,"110,112",0.32292519,,,,,
+MI,26,Michigan,10,Lisa Lane,Gioia,Lisa Lane Gioia,LIB,"10,612",0.031121786,,,,,
+MI,26,Michigan,10,Benjamin,Nofs,Benjamin Nofs,GRE,"5,127",0.01503594,,,,,
+MI,26,Michigan,10,,,Total Votes,,"340,983",,,,,,
+MI,26,Michigan,11,David A.,Trott,David A. Trott,R,"200,872",0.52932372,,,,,W
+MI,26,Michigan,11,Anil ,Kumar,Anil  Kumar,D,"152,461",0.401754469,,,,,
+MI,26,Michigan,11,Kerry,Bentivolio,Kerry Bentivolio,NPA,"16,610",0.0437695,,,,,
+MI,26,Michigan,11,Jonathan Ray,Osment,Jonathan Ray Osment,LIB,"9,545",0.02515231,,,,,
+MI,26,Michigan,11,,,Total Votes,,"379,488",,,,,,
+MI,26,Michigan,12,Debbie,Dingell,Debbie Dingell,D,"211,378",0.643381972,,,,,W
+MI,26,Michigan,12,Jeff,Jones,Jeff Jones,R,"96,104",0.292516634,,,,,
+MI,26,Michigan,12,Gary,Walkowicz,Gary Walkowicz,WC,"9,183",0.027950764,,,,,
+MI,26,Michigan,12,Tom,Bagwell,Tom Bagwell,LIB,"7,489",0.02279465,,,,,
+MI,26,Michigan,12,Dylan,Calewarts,Dylan Calewarts,GRE,"4,377",0.013322498,,,,,
+MI,26,Michigan,12,Ejaz,Virk,Ejaz Virk,W,11,0.0000335,,,,,
+MI,26,Michigan,12,,,Total Votes,,"328,542",,,,,,
+MI,26,Michigan,13,"John, Jr.",Conyers,"John, Jr. Conyers",D,"198,771",0.771036901,,,,,W
+MI,26,Michigan,13,Jeff,Gorman,Jeff Gorman,R,"40,541",0.157259394,,,,,
+MI,26,Michigan,13,Tiffany,Hayden,Tiffany Hayden,LIB,"9,648",0.037424795,,,,,
+MI,26,Michigan,13,Sam,Johnson,Sam Johnson,WC,"8,835",0.034271151,,,,,
+MI,26,Michigan,13,Clyde Darnell,Lynch,Clyde Darnell Lynch,W ,2,0.00000776,,,,,
+MI,26,Michigan,13,,,Total Votes,,"257,797",,,,,,
+MI,26,Michigan,14,Brenda L.,Lawrence,Brenda L. Lawrence,D,"244,135",0.785065632,,,,,W
+MI,26,Michigan,14,Howard,Klausner,Howard Klausner,R,"58,103",0.186841987,,,,,
+MI,26,Michigan,14,Gregory,Creswell,Gregory Creswell,LIB,"4,893",0.015734434,,,,,
+MI,26,Michigan,14,Marcia,Squier,Marcia Squier,GRE,"3,843",0.012357946,,,,,
+MI,26,Michigan,14,,,Total Votes,,"310,974",,,,,,
+MN,27,Minnesota,01,Tim ,Walz,Tim  Walz,DFL,"169,074",0.503380702,,,,,W
+MN,27,Minnesota,01,Jim,Hagedorn,Jim Hagedorn,R,"166,526",0.495794591,,,,,
+MN,27,Minnesota,01,,Scattered,Scattered,W,277,0.000824707,,,,,
+MN,27,Minnesota,01,,,Total Votes,,"335,877",,,,,,
+MN,27,Minnesota,02,Jason,Lewis,Jason Lewis,R,"173,970",0.469536914,,,,,W
+MN,27,Minnesota,02,Angie ,Craig,Angie  Craig,DFL,"167,315",0.451575379,,,,,
+MN,27,Minnesota,02,Paula,Overby,Paula Overby,IDP,"28,869",0.077916084,,,,,
+MN,27,Minnesota,02,,Scattered,Scattered,W,360,0.000971623,,,,,
+MN,27,Minnesota,02,,,Total Votes,,"370,514",,,,,,
+MN,27,Minnesota,03,Erik,Paulsen,Erik Paulsen,R,"223,077",0.56695657,,,,,W
+MN,27,Minnesota,03,Terri E.,Bonoff,Terri E. Bonoff,DFL,"169,243",0.430135921,,,,,
+MN,27,Minnesota,03,,Scattered,Scattered,W,"1,144",0.002907509,,,,,
+MN,27,Minnesota,03,,,Total Votes,,"393,464",,,,,,
+MN,27,Minnesota,04,Betty ,McCollum,Betty  McCollum,DFL,"203,299",0.577645875,,,,,W
+MN,27,Minnesota,04,Greg,Ryan,Greg Ryan,R,"121,032",0.34389562,,,,,
+MN,27,Minnesota,04,Susan Pendergast,Sindt,Susan Pendergast Sindt,LMN,"27,152",0.077148637,,,,,
+MN,27,Minnesota,04,,Scattered,Scattered,W,461,0.001309867,,,,,
+MN,27,Minnesota,04,,,Total Votes,,"351,944",,,,,,
+MN,27,Minnesota,05,Keith,Ellison,Keith Ellison,DFL,"249,964",0.690733443,,,,,W
+MN,27,Minnesota,05,Frank Nelson,Drake,Frank Nelson Drake,R,"80,660",0.222890334,,,,,
+MN,27,Minnesota,05,Dennis,Schuller,Dennis Schuller,LMN,"30,759",0.08499732,,,,,
+MN,27,Minnesota,05,,Scattered,Scattered,W,499,0.001378903,,,,,
+MN,27,Minnesota,05,,,Total Votes,,"361,882",,,,,,
+MN,27,Minnesota,06,Tom,Emmer,Tom Emmer,R,"235,380",0.655793427,,,,,W
+MN,27,Minnesota,06,David,Snyder,David Snyder,DFL,"123,008",0.342713221,,,,,
+MN,27,Minnesota,06,,Scattered,Scattered,W,536,0.001493352,,,,,
+MN,27,Minnesota,06,,,Total Votes,,"358,924",,,,,,
+MN,27,Minnesota,07,Collin,Peterson,Collin Peterson,DFL,"173,589",0.524679007,,,,,W
+MN,27,Minnesota,07,Dave,Hughes,Dave Hughes,R,"156,952",0.474393075,,,,,
+MN,27,Minnesota,07,,Scattered,Scattered,W,307,0.000927919,,,,,
+MN,27,Minnesota,07,,,Total Votes,,"330,848",,,,,,
+MN,27,Minnesota,08,Rick ,Nolan,Rick  Nolan,DFL,"179,098",0.501704582,,,,,W
+MN,27,Minnesota,08,Stewart,Mills,Stewart Mills,R,"177,089",0.4960768,,,,,
+MN,27,Minnesota,08,,Scattered,Scattered,W,792,0.002218618,,,,,
+MN,27,Minnesota,08,,,Total Votes,,"356,979",,,,,,
+MS,28,Mississippi,01,Trent,Kelly,Trent Kelly,R,"206,455",0.687214361,,,,,W
+MS,28,Mississippi,01,Jacob,Owens,Jacob Owens,D,"83,947",0.279429338,,,,,
+MS,28,Mississippi,01,Chase,Wilson,Chase Wilson,LIB,"6,181",0.020574324,,,,,
+MS,28,Mississippi,01,Cathy L.,Toole,Cathy L. Toole,REF,"3,840",0.012781977,,,,,
+MS,28,Mississippi,01,,,Total Votes,,"300,423",,,,,,
+MS,28,Mississippi,02,Bennie,Thompson,Bennie Thompson,D,"192,343",0.67105915,,,,,W
+MS,28,Mississippi,02,"John, II",Bouie,"John, II Bouie",R,"83,542",0.291466929,,,,,
+MS,28,Mississippi,02,Troy,Ray,Troy Ray,IND,"6,918",0.024135982,,,,,
+MS,28,Mississippi,02,Johnny,McLeod,Johnny McLeod,REF,"3,823",0.013337939,,,,,
+MS,28,Mississippi,02,,,Total Votes,,"286,626",,,,,,
+MS,28,Mississippi,03,Gregg,Harper,Gregg Harper,R,"209,490",0.662010776,,,,,W
+MS,28,Mississippi,03,Dennis,Quinn,Dennis Quinn,D,"96,101",0.303689425,,,,,
+MS,28,Mississippi,03,Roger I.,Gerrard,Roger I. Gerrard,VPA,"8,696",0.027480289,,,,,
+MS,28,Mississippi,03,Lajena,Sheets,Lajena Sheets,REF,"2,158",0.00681951,,,,,
+MS,28,Mississippi,03,,,Total Votes,,"316,445",,,,,,
+MS,28,Mississippi,04,Steven,Palazzo,Steven Palazzo,R,"181,323",0.650418432,,,,,W
+MS,28,Mississippi,04,Mark,Gladney,Mark Gladney,D,"77,505",0.278015919,,,,,
+MS,28,Mississippi,04,Richard Blake,McCluskey,Richard Blake McCluskey,LIB,"14,687",0.052683308,,,,,
+MS,28,Mississippi,04,Shawn,O'Hara,Shawn O'Hara,REF,"5,264",0.01888234,,,,,
+MS,28,Mississippi,04,,,Total Votes,,"278,779",,,,,,
+MO,29,Missouri,01,Lacy ,Clay,Lacy  Clay,D,"236,993",0.754697093,,,,,W
+MO,29,Missouri,01,Steven G. ,Bailey,Steven G.  Bailey,R,"62,714",0.19971085,,,,,
+MO,29,Missouri,01,Robb E.,Cunningham,Robb E. Cunningham,LIB,"14,317",0.045592057,,,,,
+MO,29,Missouri,01,,,Total Votes,,"314,024",,,,,,
+MO,29,Missouri,02,Ann ,Wagner,Ann  Wagner,R,"241,954",0.585425458,,,,,W
+MO,29,Missouri,02,Bill,Otto,Bill Otto,D,"155,689",0.37670096,,,,,
+MO,29,Missouri,02,Jim ,Higgins,Jim  Higgins,LIB,"11,758",0.028449344,,,,,
+MO,29,Missouri,02,David Justus,Arnold,David Justus Arnold,GRE,"3,895",0.009424238,,,,,
+MO,29,Missouri,02,,,Total Votes,,"413,296",,,,,,
+MO,29,Missouri,03,Blaine,Luetkemeyer,Blaine Luetkemeyer,R,"249,865",0.67836713,,,,,W
+MO,29,Missouri,03,Kevin ,Miller,Kevin  Miller,D,"102,891",0.279342334,,,,,
+MO,29,Missouri,03,Dan ,Hogan,Dan  Hogan,LIB,"11,962",0.032476047,,,,,
+MO,29,Missouri,03,Doanita,Simmons,Doanita Simmons,CON,"3,605",0.009787339,,,,,
+MO,29,Missouri,03,Harold,Davis,Harold Davis,W,10,0.0000271,,,,,
+MO,29,Missouri,03,,,Total Votes,,"368,333",,,,,,
+MO,29,Missouri,04,Vicky,Hartzler,Vicky Hartzler,R,"225,348",0.678280971,,,,,W
+MO,29,Missouri,04,Gordon,Christensen,Gordon Christensen,D,"92,510",0.278448323,,,,,
+MO,29,Missouri,04,Mark ,Bliss,Mark  Bliss,LIB,"14,376",0.043270707,,,,,
+MO,29,Missouri,04,,,Total Votes,,"332,234",,,,,,
+MO,29,Missouri,05,"Emanuel, II",Cleaver,"Emanuel, II Cleaver",D,"190,766",0.588293706,,,,,W
+MO,29,Missouri,05,Jacob ,Turk,Jacob  Turk,R,"123,771",0.381691183,,,,,
+MO,29,Missouri,05,Roy ,Welborn,Roy  Welborn,LIB,"9,733",0.030015111,,,,,
+MO,29,Missouri,05,,,Total Votes,,"324,270",,,,,,
+MO,29,Missouri,06,Sam,Graves,Sam Graves,R,"238,388",0.680245631,,,,,W
+MO,29,Missouri,06,David M. ,Blackwell,David M.  Blackwell,D,"99,692",0.284473411,,,,,
+MO,29,Missouri,06,Russ Lee,Monchil,Russ Lee Monchil,LIB,"8,123",0.023179167,,,,,
+MO,29,Missouri,06,Mike,Diel,Mike Diel,GRE,"4,241",0.012101791,,,,,
+MO,29,Missouri,06,,,Total Votes,,"350,444",,,,,,
+MO,29,Missouri,07,Billy ,Long,Billy  Long,R,"228,692",0.675390645,,,,,W
+MO,29,Missouri,07,Genevieve (Gen),Williams,Genevieve (Gen) Williams,D,"92,756",0.273934089,,,,,
+MO,29,Missouri,07,Benjamin T.,Brixey,Benjamin T. Brixey,LIB,"17,153",0.050657547,,,,,
+MO,29,Missouri,07,Amber,Thomsen,Amber Thomsen,W,6,0.0000177,,,,,
+MO,29,Missouri,07,,,Total Votes,,"338,607",,,,,,
+MO,29,Missouri,08,Jason ,Smith,Jason  Smith,R,"229,792",0.743974022,,,,,W
+MO,29,Missouri,08,Dave,Cowell,Dave Cowell,D,"70,009",0.226660968,,,,,
+MO,29,Missouri,08,Jonathan ,Shell,Jonathan  Shell,LIB,"9,070",0.02936501,,,,,
+MO,29,Missouri,08,,,Total Votes,,"308,871",,,,,,
+MT,30,Montana,00,Ryan,Zinke,Ryan Zinke,R,"285,358",0.561915283,,,,,W
+MT,30,Montana,00,Denise,Juneau,Denise Juneau,D,"205,919",0.405487259,,,,,
+MT,30,Montana,00,Rick,Breckenridge,Rick Breckenridge,LIB,"16,554",0.032597459,,,,,
+MT,30,Montana,00,,,Total Votes,,"507,831",,,,,,
+NE,31,Nebraska,01,Jeff,Fortenberry,Jeff Fortenberry,R,"189,771",0.694526384,,,,,W
+NE,31,Nebraska,01,Daniel M.,Wik,Daniel M. Wik,D,"83,467",0.305473616,,,,,
+NE,31,Nebraska,01,,,Total Votes,,"273,238",,,,,,
+NE,31,Nebraska,02,Don,Bacon,Don Bacon,R,"141,066",0.489289232,,,,,W
+NE,31,Nebraska,02,Brad,Ashford,Brad Ashford,D,"137,602",0.477274304,,,,,
+NE,31,Nebraska,02,Steven,Laird,Steven Laird,LIB,"9,640",0.033436464,,,,,
+NE,31,Nebraska,02,,,Total Votes,,"288,308",,,,,,
+NE,31,Nebraska,03,Adrian,Smith,Adrian Smith,R,"226,720",1,,,,,W
+NE,31,Nebraska,03,,,Total Votes,,"226,720",,,,,,
+NV,32,Nevada,01,Dina,Titus,Dina Titus,D,"116,537",0.618719207,,,,,W
+NV,32,Nevada,01,Mary,Perry,Mary Perry,R,"54,174",0.28762105,,,,,
+NV,32,Nevada,01,Reuben,D'Silva,Reuben D'Silva,NPY,"13,897",0.073782068,,,,,
+NV,32,Nevada,01,Kamau A. ,Bakari,Kamau A.  Bakari,IAP,"3,744",0.019877676,,,,,
+NV,32,Nevada,01,,,Total Votes,,"188,352",,,,,,
+NV,32,Nevada,02,Mark E.,Amodei,Mark E. Amodei,R,"182,676",0.583003549,,,,,W
+NV,32,Nevada,02,"H. D. ""Chip""",Evans,"H. D. ""Chip"" Evans",D,"115,722",0.369322389,,,,,
+NV,32,Nevada,02,John H.,Everhart,John H. Everhart,IAP,"8,693",0.027743381,,,,,
+NV,32,Nevada,02,Drew ,Knight,Drew  Knight,NPY,"6,245",0.019930681,,,,,
+NV,32,Nevada,02,,,Total Votes,,"313,336",,,,,,
+NV,32,Nevada,03,Jacky,Rosen,Jacky Rosen,D,"146,869",0.472303779,,,,,W
+NV,32,Nevada,03,Danny,Tarkanian,Danny Tarkanian,R,"142,926",0.459623814,,,,,
+NV,32,Nevada,03,Warren,Markowitz,Warren Markowitz,IAP,"11,602",0.037309905,,,,,
+NV,32,Nevada,03,David,Goossen,David Goossen,NPY,"9,566",0.030762502,,,,,
+NV,32,Nevada,03,,,Total Votes,,"310,963",,,,,,
+NV,32,Nevada,04,Ruben,Kihuen,Ruben Kihuen,D,"128,985",0.485186913,,,,,W
+NV,32,Nevada,04,Cresent,Hardy,Cresent Hardy,R,"118,328",0.445099795,,,,,
+NV,32,Nevada,04,Steve,Brown,Steve Brown,LIB,"10,206",0.038390647,,,,,
+NV,32,Nevada,04,Mike ,Little,Mike  Little,IAP,"8,327",0.031322645,,,,,
+NV,32,Nevada,04,,,Total Votes,,"265,846",,,,,,
+NH,33,New Hampshire,01,Carol ,Shea-Porter,Carol  Shea-Porter,D,"162,080",0.44286089,,,,,W
+NH,33,New Hampshire,01,Frank,Guinta,Frank Guinta,R,"157,176",0.429461397,,,,,
+NH,33,New Hampshire,01,Rich,Ashooh,Rich Ashooh,R/W,55,0.00015028,,,,,
+NH,33,New Hampshire,01,Shawn P.,O'Connor,Shawn P. O'Connor,IND,"34,735",0.094908521,,,,,
+NH,33,New Hampshire,01,Brendan,Kelly,Brendan Kelly,IND,"6,074",0.016596354,,,,,
+NH,33,New Hampshire,01,Robert,Lombardo,Robert Lombardo,LIB,"5,507",0.015047106,,,,,
+NH,33,New Hampshire,01,,Scattered,Scattered,W,194,0.000530078,,,,,
+NH,33,New Hampshire,01,John,Potucek,John Potucek,W,163,0.000445375,,,,,
+NH,33,New Hampshire,01,,,Total Votes,,"365,984",,,,,,
+NH,33,New Hampshire,02,Ann McLane,Kuster,Ann McLane Kuster,D,"174,495",0.497430108,,,,,W
+NH,33,New Hampshire,02,Jim,Lawrence,Jim Lawrence,R,"158,973",0.453181791,,,,,
+NH,33,New Hampshire,02,John J.,Babiarz,John J. Babiarz,IND,"17,088",0.048712489,,,,,
+NH,33,New Hampshire,02,,Scattered,Scattered,W,237,0.000675612,,,,,
+NH,33,New Hampshire,02,,,Total Votes,,"350,793",,,,,,
+NJ,34,New Jersey,01,Donald W.,Norcross,Donald W. Norcross,D,"183,231",0.599827153,,,,,W
+NJ,34,New Jersey,01,Bob,Patterson,Bob Patterson,R,"112,388",0.367914677,,,,,
+NJ,34,New Jersey,01,Scot John,Tomaszewski,Scot John Tomaszewski,WDB,"5,473",0.017916477,,,,,
+NJ,34,New Jersey,01,"William F., IV",Sihr,"William F., IV Sihr",LIB,"2,410",0.007889404,,,,,
+NJ,34,New Jersey,01,Michael ,Berman,Michael  Berman,AO,"1,971",0.006452289,,,,,
+NJ,34,New Jersey,01,,,Total Votes,,"305,473",,,,,,
+NJ,34,New Jersey,02,Frank A.,LoBiondo,Frank A. LoBiondo,R,"176,338",0.592145604,,,,,W
+NJ,34,New Jersey,02,David H.,Cole,David H. Cole,D,"110,838",0.372195638,,,,,
+NJ,34,New Jersey,02,John,Ordille,John Ordille,LIB,"3,773",0.01266979,,,,,
+NJ,34,New Jersey,02,James,Keenan,James Keenan,MGW,"2,653",0.008908813,,,,,
+NJ,34,New Jersey,02,Steven,Fenichel,Steven Fenichel,RNN,"1,574",0.005285515,,,,,
+NJ,34,New Jersey,02,Eric,Beechwood,Eric Beechwood,PIP,"1,387",0.004657566,,,,,
+NJ,34,New Jersey,02,Gabriel Brian,Franco,Gabriel Brian Franco,FPR,"1,232",0.004137074,,,,,
+NJ,34,New Jersey,02,,,Total Votes,,"297,795",,,,,,
+NJ,34,New Jersey,03,Tom,MacArthur,Tom MacArthur,R,"194,596",0.593171981,,,,,W
+NJ,34,New Jersey,03,Frederick John,LaVergne,Frederick John LaVergne,D,"127,526",0.388727672,,,,,
+NJ,34,New Jersey,03,"Lawrence W., Jr.",Berlinski,"Lawrence W., Jr. Berlinski",CON,"5,938",0.018100347,,,,,
+NJ,34,New Jersey,03,,,Total Votes,,"328,060",,,,,,
+NJ,34,New Jersey,04,Christopher H.,Smith,Christopher H. Smith,R,"211,992",0.637217299,,,,,W
+NJ,34,New Jersey,04,Lorna,Phillipson,Lorna Phillipson,D,"111,532",0.335249065,,,,,
+NJ,34,New Jersey,04,Hank,Schroeder,Hank Schroeder,EG,"5,840",0.017554196,,,,,
+NJ,34,New Jersey,04,Jeremy,Marcus,Jeremy Marcus,LIB,"3,320",0.00997944,,,,,
+NJ,34,New Jersey,04,,,Total Votes,,"332,684",,,,,,
+NJ,34,New Jersey,05,Joshua S.,Gottheimer,Joshua S. Gottheimer,D,"172,587",0.511064522,,,,,W
+NJ,34,New Jersey,05,Scott,Garrett,Scott Garrett,R,"157,690",0.466951534,,,,,
+NJ,34,New Jersey,05,Claudio,Belusic,Claudio Belusic,LIB,"7,424",0.021983944,,,,,
+NJ,34,New Jersey,05,,,Total Votes,,"337,701",,,,,,
+NJ,34,New Jersey,06,"Frank, Jr.",Pallone,"Frank, Jr. Pallone",D,"167,895",0.637329892,,,,,W
+NJ,34,New Jersey,06,Brent,Sonnek-Schmelz,Brent Sonnek-Schmelz,R,"91,908",0.348883026,,,,,
+NJ,34,New Jersey,06,Rajit B.,Malliah,Rajit B. Malliah,GRE,"1,912",0.007257957,,,,,
+NJ,34,New Jersey,06,Judith ,Shamy,Judith  Shamy,LIB,"1,720",0.006529125,,,,,
+NJ,34,New Jersey,06,,,Total Votes,,"263,435",,,,,,
+NJ,34,New Jersey,07,Leonard,Lance,Leonard Lance,R,"185,850",0.54083548,,,,,W
+NJ,34,New Jersey,07,Peter,Jacob,Peter Jacob,D,"148,188",0.431236632,,,,,
+NJ,34,New Jersey,07,Dan,O'Neill,Dan O'Neill,LIB,"5,343",0.015548474,,,,,
+NJ,34,New Jersey,07,"Arthur T., Jr.",Haussmann,"Arthur T., Jr. Haussmann",CON,"4,254",0.012379414,,,,,
+NJ,34,New Jersey,07,,,Total Votes,,"343,635",,,,,,
+NJ,34,New Jersey,08,Albio,Sires,Albio Sires,D,"134,733",0.770391505,,,,,W
+NJ,34,New Jersey,08,Agha,Khan,Agha Khan,R,"32,337",0.184900137,,,,,
+NJ,34,New Jersey,08,Pablo ,Olivera,Pablo  Olivera,WUA,"4,381",0.025050175,,,,,
+NJ,34,New Jersey,08,Dan,Delaney,Dan Delaney,LIB,"3,438",0.019658183,,,,,
+NJ,34,New Jersey,08,,,Total Votes,,"174,889",,,,,,
+NJ,34,New Jersey,09,"Bill, Jr.",Pascrell,"Bill, Jr. Pascrell",D,"162,642",0.69731009,,,,,W
+NJ,34,New Jersey,09,Hector L.,Castillo,Hector L. Castillo,R,"65,376",0.280292572,,,,,
+NJ,34,New Jersey,09,Diego,Rivera,Diego Rivera,LIB,"3,327",0.014264155,,,,,
+NJ,34,New Jersey,09,Jeff,Boss,Jeff Boss,NSA,"1,897",0.008133184,,,,,
+NJ,34,New Jersey,09,,,Total Votes,,"233,242",,,,,,
+NJ,34,New Jersey,10,"Donald M., Jr.",Payne,"Donald M., Jr. Payne",D,"190,856",0.85673629,,,,,W
+NJ,34,New Jersey,10,David H.,Pinckney,David H. Pinckney,R,"26,450",0.118731792,,,,,
+NJ,34,New Jersey,10,Joanne,Miller,Joanne Miller,WOP,"3,719",0.016694273,,,,,
+NJ,34,New Jersey,10,Aaron Walter,Fraser,Aaron Walter Fraser,NBP,"1,746",0.007837645,,,,,
+NJ,34,New Jersey,10,,,Total Votes,,"222,771",,,,,,
+NJ,34,New Jersey,11,Rodney P.,Frelinghuysen,Rodney P. Frelinghuysen,R,"194,299",0.580010866,,,,,W
+NJ,34,New Jersey,11,Joseph M.,Wenzel,Joseph M. Wenzel,D,"130,162",0.388552562,,,,,
+NJ,34,New Jersey,11,Thomas,Depasquale,Thomas Depasquale,FI,"7,056",0.02106319,,,,,
+NJ,34,New Jersey,11,Jeff,Hetrick,Jeff Hetrick,LIB,"3,475",0.010373382,,,,,
+NJ,34,New Jersey,11,,,Total Votes,,"334,992",,,,,,
+NJ,34,New Jersey,12,Bonnie Watson,Coleman,Bonnie Watson Coleman,D,"181,430",0.628581525,,,,,W
+NJ,34,New Jersey,12,Steven J.,Uccio,Steven J. Uccio,R,"92,407",0.320152858,,,,,
+NJ,34,New Jersey,12,R. Edward,Forchion,R. Edward Forchion,LMP,"6,094",0.021113244,,,,,
+NJ,34,New Jersey,12,Robert,Shapiro,Robert Shapiro,TED,"2,775",0.009614252,,,,,
+NJ,34,New Jersey,12,Thomas ,Fitzpatrick,Thomas  Fitzpatrick,LIB,"2,482",0.008599126,,,,,
+NJ,34,New Jersey,12,Steven  ,Welzer,Steven   Welzer,GRE,"2,135",0.007396911,,,,,
+NJ,34,New Jersey,12,Michael R.,Bollentin,Michael R. Bollentin,WTP,"1,311",0.004542084,,,,,
+NJ,34,New Jersey,12,,,Total Votes,,"288,634",,,,,,
+NM,35,New Mexico,01,Michelle,Lujan Grisham,Michelle Lujan Grisham,D,"181,088",0.651473017,,,,,W
+NM,35,New Mexico,01,Richard Gregory,Priem,Richard Gregory Priem,R,"96,879",0.348526983,,,,,
+NM,35,New Mexico,01,,,Total Votes,,"277,967",,,,,,
+NM,35,New Mexico,02,Steve,Pearce,Steve Pearce,R,"143,515",0.627204272,,,,,W
+NM,35,New Mexico,02,Merrie Lee,Soules,Merrie Lee Soules,D,"85,232",0.372489806,,,,,
+NM,35,New Mexico,02,Jack A.,McGrann,Jack A. McGrann,W,70,0.000305921,,,,,
+NM,35,New Mexico,02,,,Total Votes,,"228,817",,,,,,
+NM,35,New Mexico,03,Ben R,Lujan,Ben R Lujan,D,"170,612",0.624170453,,,,,W
+NM,35,New Mexico,03,Michael H.,Romero,Michael H. Romero,R,"102,730",0.375829547,,,,,
+NM,35,New Mexico,03,,,Total Votes,,"273,342",,,,,,
+NY,36,New York,01,Lee M.,Zeldin,Lee M. Zeldin,R,"188,499",0.581984624,,,"188,499",58.20%,W
+NY,36,New York,01,Lee M.,Zeldin,Lee M. Zeldin,CRV,"188,499",0.581984624,,,"188,499",58.20%,
+NY,36,New York,01,Lee M.,Zeldin,Lee M. Zeldin,REF,"188,499",0.581984624,,,"188,499",58.20%,
+NY,36,New York,01,Lee M.,Zeldin,Lee M. Zeldin,IDP,"188,499",0.581984624,,,"188,499",58.20%,
+NY,36,New York,01,Anna E.,Throne-Holst,Anna E. Throne-Holst,D,"135,278",0.417666492,,,"135,278",41.77%,
+NY,36,New York,01,Anna E.,Throne-Holst,Anna E. Throne-Holst,WEP,"135,278",0.417666492,,,"135,278",41.77%,
+NY,36,New York,01,Anna E.,Throne-Holst,Anna E. Throne-Holst,WF,"135,278",0.417666492,,,"135,278",41.77%,
+NY,36,New York,01,,Scattered,Scattered,W ,,,,,,,
+NY,36,New York,01,,,Total Votes,,,,,,,,
+NY,36,New York,02,Peter T. ,King,Peter T.  King,R/TRP,"181,506",0.620331858,,,"181,506",62.03%,W
+NY,36,New York,02,Peter T. ,King,Peter T.  King,CRV,"181,506",0.620331858,,,"181,506",62.03%,
+NY,36,New York,02,Peter T. ,King,Peter T.  King,REF,"181,506",0.620331858,,,"181,506",62.03%,
+NY,36,New York,02,Du Wayne,Gregory,Du Wayne Gregory,D,"110,938",0.37915207,,,"110,938",37.92%,
+NY,36,New York,02,Du Wayne,Gregory,Du Wayne Gregory,IDP,"110,938",0.37915207,,,"110,938",37.92%,
+NY,36,New York,02,Du Wayne,Gregory,Du Wayne Gregory,WEP,"110,938",0.37915207,,,"110,938",37.92%,
+NY,36,New York,02,Du Wayne,Gregory,Du Wayne Gregory,WF,"110,938",0.37915207,,,"110,938",37.92%,
+NY,36,New York,02,,Scattered,Scattered,W,,,,,,,
+NY,36,New York,02,,,Total Votes,,,,,,,,
+NY,36,New York,03,Thomas R.,Suozzi,Thomas R. Suozzi,D,,,,,,,W
+NY,36,New York,03,Jack M.,Martins,Jack M. Martins,R,"152,304",0.469705848,,,"152,304",46.97%,
+NY,36,New York,03,Jack M.,Martins,Jack M. Martins,REF,"152,304",0.469705848,,,"152,304",46.97%,
+NY,36,New York,03,Jack M.,Martins,Jack M. Martins,CRV,"152,304",0.469705848,,,"152,304",46.97%,
+NY,36,New York,03,,Scattered,Scattered,W,,,,,,,
+NY,36,New York,03,,,Total Votes,,,,,,,,
+NY,36,New York,04,Kathleen M.,Rice,Kathleen M. Rice,D,"186,423",0.595600639,,,"186,423",59.56%,W
+NY,36,New York,04,Kathleen M.,Rice,Kathleen M. Rice,WEP,"186,423",0.595600639,,,"186,423",59.56%,
+NY,36,New York,04,David H.,Gurfein,David H. Gurfein,R/TRP,"126,438",0.403955272,,,"126,438",40.40%,
+NY,36,New York,04,David H.,Gurfein,David H. Gurfein,CRV,"126,438",0.403955272,,,"126,438",40.40%,
+NY,36,New York,04,David H.,Gurfein,David H. Gurfein,REF,"126,438",0.403955272,,,"126,438",40.40%,
+NY,36,New York,04,,Scattered,Scattered,W,,,,,,,
+NY,36,New York,04,,,Total Votes,,,,,,,,
+NY,36,New York,05,Gregory W.,Meeks,Gregory W. Meeks,D,"199,815",0.854447024,,,"199,815",85.44%,W
+NY,36,New York,05,Gregory W.,Meeks,Gregory W. Meeks,WEP,"199,815",0.854447024,,,"199,815",85.44%,
+NY,36,New York,05,Michael A.,O'Reilly,Michael A. O'Reilly,R,"30,312",0.129619889,,,"30,312",12.96%,
+NY,36,New York,05,Michael A.,O'Reilly,Michael A. O'Reilly,CRV,"30,312",0.129619889,,,"30,312",12.96%,
+NY,36,New York,05,Frank,Francois,Frank Francois,GRE,,,,,,,
+NY,36,New York,05,,Scattered,Scattered,W,,,,,,,
+NY,36,New York,05,,,Total Votes,,,,,,,,
+NY,36,New York,06,Grace ,Meng,Grace  Meng,D,"136,506",0.720603063,,,"136,506",72.06%,W
+NY,36,New York,06,Grace ,Meng,Grace  Meng,WEP,"136,506",0.720603063,,,"136,506",72.06%,
+NY,36,New York,06,Danniel S.,Maio,Danniel S. Maio,R,"50,617",0.267202652,,,"50,617",26.72%,
+NY,36,New York,06,Danniel S.,Maio,Danniel S. Maio,BLM,"50,617",0.267202652,,,"50,617",26.72%,
+NY,36,New York,06,Danniel S.,Maio,Danniel S. Maio,CRV,"50,617",0.267202652,,,"50,617",26.72%,
+NY,36,New York,06,Haris,Bhatti,Haris Bhatti,HBP,,,,,,,
+NY,36,New York,06,,Scattered,Scattered,W,,,,,,,
+NY,36,New York,06,,,Total Votes,,,,,,,,
+NY,36,New York,07,Nydia M.,Velazquez,Nydia M. Velazquez,D,"172,146",0.906556427,,,"172,146",90.66%,W
+NY,36,New York,07,Nydia M.,Velazquez,Nydia M. Velazquez,WEP,"172,146",0.906556427,,,"172,146",90.66%,
+NY,36,New York,07,Allan E.,Romaguera,Allan E. Romaguera,R,"17,478",0.092042762,,,"17,478",9.20%,
+NY,36,New York,07,Allan E.,Romaguera,Allan E. Romaguera,CRV,"17,478",0.092042762,,,"17,478",9.20%,
+NY,36,New York,07,,Scattered,Scattered,W,,,,,,,
+NY,36,New York,07,,,Total Votes,,,,,,,,
+NY,36,New York,08,Hakeem S.,Jeffries,Hakeem S. Jeffries,D,"214,595",0.932198972,,,"214,595",93.22%,W
+NY,36,New York,08,Hakeem S.,Jeffries,Hakeem S. Jeffries,WF,"214,595",0.932198972,,,"214,595",93.22%,
+NY,36,New York,08,Daniel J.,Cavanagh,Daniel J. Cavanagh,CRV,,,,,,,
+NY,36,New York,08,,Scattered,Scattered,W,,,,,,,
+NY,36,New York,08,,,Total Votes,,,,,,,,
+NY,36,New York,09,Yvette D.,Clarke,Yvette D. Clarke,D,"214,189",0.922854533,,,"214,189",92.29%,W
+NY,36,New York,09,Yvette D.,Clarke,Yvette D. Clarke,WF,"214,189",0.922854533,,,"214,189",92.29%,
+NY,36,New York,09,Alan,Bellone,Alan Bellone,CRV,,,,,,,
+NY,36,New York,09,,Scattered,Scattered,W,,,,,,,
+NY,36,New York,09,,,Total Votes,,,,,,,,
+NY,36,New York,10,Jerrold L.,Nadler,Jerrold L. Nadler,D,"192,371",0.780330595,,,"192,371",78.03%,W
+NY,36,New York,10,Jerrold L.,Nadler,Jerrold L. Nadler,WF,"192,371",0.780330595,,,"192,371",78.03%,
+NY,36,New York,10,Jerrold L.,Nadler,Jerrold L. Nadler,WEP,"192,371",0.780330595,,,"192,371",78.03%,
+NY,36,New York,10,Philip,Rosenthal,Philip Rosenthal,R,"53,857",0.218464659,,,"53,857",21.85%,
+NY,36,New York,10,Philip,Rosenthal,Philip Rosenthal,CRV,"53,857",0.218464659,,,"53,857",21.85%,
+NY,36,New York,10,Philip,Rosenthal,Philip Rosenthal,IDP,"53,857",0.218464659,,,"53,857",21.85%,
+NY,36,New York,10,Philip,Rosenthal,Philip Rosenthal,SID,"53,857",0.218464659,,,"53,857",21.85%,
+NY,36,New York,10,,Scattered,Scattered,W,,,,,,,
+NY,36,New York,10,,,Total Votes,,,,,,,,
+NY,36,New York,11,Dan,Donovan,Dan Donovan,R,"142,934",0.615254157,,,"142,934",61.53%,W
+NY,36,New York,11,Dan,Donovan,Dan Donovan,CRV,"142,934",0.615254157,,,"142,934",61.53%,
+NY,36,New York,11,Dan,Donovan,Dan Donovan,IDP,"142,934",0.615254157,,,"142,934",61.53%,
+NY,36,New York,11,Dan,Donovan,Dan Donovan,REF,"142,934",0.615254157,,,"142,934",61.53%,
+NY,36,New York,11,Richard A.,Reichard,Richard A. Reichard,D,,,,,,,
+NY,36,New York,11,Henry J.,Bardel,Henry J. Bardel,GRE,,,,,,,
+NY,36,New York,11,,Scattered,Scattered,W,,,,,,,
+NY,36,New York,11,,,Total Votes,,,,,,,,
+NY,36,New York,12,Carolyn B.,Maloney,Carolyn B. Maloney,D,"244,358",0.830948989,,,"244,358",83.09%,W
+NY,36,New York,12,Carolyn B.,Maloney,Carolyn B. Maloney,WF,"244,358",0.830948989,,,"244,358",83.09%,
+NY,36,New York,12,Robert,Ardini,Robert Ardini,R,,,,,,,
+NY,36,New York,12,,Scattered,Scattered,W,,,,,,,
+NY,36,New York,12,,,Total Votes,,,,,,,,
+NY,36,New York,13,Adriano,Espaillat,Adriano Espaillat,D,,,,,,,W
+NY,36,New York,13,"Robert A., Jr.",Evans,"Robert A., Jr. Evans",R,"16,089",0.068833775,,,"16,089",6.88%,
+NY,36,New York,13,"Robert A., Jr.",Evans,"Robert A., Jr. Evans",IDP,"16,089",0.068833775,,,"16,089",6.88%,
+NY,36,New York,13,Daniel Vila,Rivera,Daniel Vila Rivera,GRE,,,,,,,
+NY,36,New York,13,Scott Lloyd,Fenstermaker,Scott Lloyd Fenstermaker,TGP,,,,,,,
+NY,36,New York,13,,Scattered,Scattered,W,,,,,,,
+NY,36,New York,13,,,Total Votes,,,,,,,,
+NY,36,New York,14,Joseph,Crowley,Joseph Crowley,D,"147,587",0.827638611,,,"147,587",82.76%,W
+NY,36,New York,14,Joseph,Crowley,Joseph Crowley,WEP,"147,587",0.827638611,,,"147,587",82.76%,
+NY,36,New York,14,Joseph,Crowley,Joseph Crowley,WF,"147,587",0.827638611,,,"147,587",82.76%,
+NY,36,New York,14,Frank J.,Spotorno,Frank J. Spotorno,R,"30,545",0.171290299,,,"30,545",17.13%,
+NY,36,New York,14,Frank J.,Spotorno,Frank J. Spotorno,CRV,"30,545",0.171290299,,,"30,545",17.13%,
+NY,36,New York,14,,Scattered,Scattered,W,,,,,,,
+NY,36,New York,14,,,Total Votes,,,,,,,,
+NY,36,New York,15,Jose E.,Serrano,Jose E. Serrano,D,,,,,,,W
+NY,36,New York,15,Alejandro,Vega,Alejandro Vega,R,,,,,,,
+NY,36,New York,15,Eduardo,Ramirez,Eduardo Ramirez,CRV,,,,,,,
+NY,36,New York,15,,Scattered,Scattered,W,,,,,,,
+NY,36,New York,15,,,Total Votes,,,,,,,,
+NY,36,New York,16,Eliot L.,Engel,Eliot L. Engel,D,"209,857",0.944323449,,,"209,857",94.43%,W
+NY,36,New York,16,Eliot L.,Engel,Eliot L. Engel,WEP,"209,857",0.944323449,,,"209,857",94.43%,
+NY,36,New York,16,Eliot L.,Engel,Eliot L. Engel,WF,"209,857",0.944323449,,,"209,857",94.43%,
+NY,36,New York,16,Derickson K.,Lawrence,Derickson K. Lawrence,PCC,,,,,,,
+NY,36,New York,16,,Scattered,Scattered,W,,,,,,,
+NY,36,New York,16,,,Total Votes,,,,,,,,
+NY,36,New York,17,Nita M.,Lowey,Nita M. Lowey,D,"214,530",0.990511808,,,"214,530",99.05%,W
+NY,36,New York,17,Nita M.,Lowey,Nita M. Lowey,WEP,"214,530",0.990511808,,,"214,530",99.05%,
+NY,36,New York,17,Nita M.,Lowey,Nita M. Lowey,WF,"214,530",0.990511808,,,"214,530",99.05%,
+NY,36,New York,17,,Scattered,Scattered,W,,,,,,,
+NY,36,New York,17,,,Total Votes,,,,,,,,
+NY,36,New York,18,Sean Patrick,Maloney,Sean Patrick Maloney,D,"162,060",0.555900483,,,"162,060",55.59%,W
+NY,36,New York,18,Sean Patrick,Maloney,Sean Patrick Maloney,IDP,"162,060",0.555900483,,,"162,060",55.59%,
+NY,36,New York,18,Sean Patrick,Maloney,Sean Patrick Maloney,WEP,"162,060",0.555900483,,,"162,060",55.59%,
+NY,36,New York,18,Sean Patrick,Maloney,Sean Patrick Maloney,WF,"162,060",0.555900483,,,"162,060",55.59%,
+NY,36,New York,18,Phil,Oliva,Phil Oliva,R,"129,369",0.443763356,,,"129,369",44.38%,
+NY,36,New York,18,Phil,Oliva,Phil Oliva,CRV,"129,369",0.443763356,,,"129,369",44.38%,
+NY,36,New York,18,Phil,Oliva,Phil Oliva,REF,"129,369",0.443763356,,,"129,369",44.38%,
+NY,36,New York,18,,Scattered,Scattered,W,,,,,,,
+NY,36,New York,18,,,Total Votes,,,,,,,,
+NY,36,New York,19,John J.,Faso,John J. Faso,R,"166,171",0.540193229,,,"166,171",54.02%,W
+NY,36,New York,19,John J.,Faso,John J. Faso,CRV,"166,171",0.540193229,,,"166,171",54.02%,
+NY,36,New York,19,John J.,Faso,John J. Faso,IDP,"166,171",0.540193229,,,"166,171",54.02%,
+NY,36,New York,19,John J.,Faso,John J. Faso,REF,"166,171",0.540193229,,,"166,171",54.02%,
+NY,36,New York,19,Zephyr,Teachout,Zephyr Teachout,D,"141,224",0.45909484,,,"141,224",45.91%,
+NY,36,New York,19,Zephyr,Teachout,Zephyr Teachout,WF,"141,224",0.45909484,,,"141,224",45.91%,
+NY,36,New York,19,,Scattered,Scattered,W,,,,,,,
+NY,36,New York,19,,,Total Votes,,,,,,,,
+NY,36,New York,20,Paul D.,Tonko,Paul D. Tonko,D,"213,018",0.678533091,,,"213,018",67.85%,W
+NY,36,New York,20,Paul D.,Tonko,Paul D. Tonko,WF,"213,018",0.678533091,,,"213,018",67.85%,
+NY,36,New York,20,Paul D.,Tonko,Paul D. Tonko,IDP,"213,018",0.678533091,,,"213,018",67.85%,
+NY,36,New York,20,Paul D.,Tonko,Paul D. Tonko,WEP,"213,018",0.678533091,,,"213,018",67.85%,
+NY,36,New York,20,Joe,Vitollo,Joe Vitollo,R,"100,740",0.320890364,,,"100,740",32.09%,
+NY,36,New York,20,Joe,Vitollo,Joe Vitollo,CRV,"100,740",0.320890364,,,"100,740",32.09%,
+NY,36,New York,20,Joe,Vitollo,Joe Vitollo,REF,"100,740",0.320890364,,,"100,740",32.09%,
+NY,36,New York,20,,Scattered,Scattered,W,,,,,,,
+NY,36,New York,20,,,Total Votes,,,,,,,,
+NY,36,New York,21,Elise M.,Stefanik,Elise M. Stefanik,R,"177,886",0.652538829,,,"177,886",65.25%,W
+NY,36,New York,21,Elise M.,Stefanik,Elise M. Stefanik,CRV,"177,886",0.652538829,,,"177,886",65.25%,
+NY,36,New York,21,Elise M.,Stefanik,Elise M. Stefanik,IDP,"177,886",0.652538829,,,"177,886",65.25%,
+NY,36,New York,21,Elise M.,Stefanik,Elise M. Stefanik,REF,"177,886",0.652538829,,,"177,886",65.25%,
+NY,36,New York,21,Mike,Derrick,Mike Derrick,D,"82,161",0.301391019,,,"82,161",30.14%,
+NY,36,New York,21,Mike,Derrick,Mike Derrick,WF,"82,161",0.301391019,,,"82,161",30.14%,
+NY,36,New York,21,Matthew J.,Funiciello,Matthew J. Funiciello,GRE,,,,,,,
+NY,36,New York,21,,Scattered,Scattered,W,,,,,,,
+NY,36,New York,21,,,Total Votes,,,,,,,,
+NY,36,New York,22,Claudia,Tenney,Claudia Tenney,R,"129,444",0.464738216,,,"129,444",46.47%,W
+NY,36,New York,22,Claudia,Tenney,Claudia Tenney,CRV,"129,444",0.464738216,,,"129,444",46.47%,
+NY,36,New York,22,Kim A.,Myers,Kim A. Myers,D,"114,266",0.410245179,,,"114,266",41.02%,
+NY,36,New York,22,Kim A.,Myers,Kim A. Myers,WF,"114,266",0.410245179,,,"114,266",41.02%,
+NY,36,New York,22,Martin (Opportunity to Ballot),Babinec,Martin (Opportunity to Ballot) Babinec,REF,"34,638",0.124359587,,,"34,638",12.44%,
+NY,36,New York,22,Martin,Babinec,Martin Babinec,UPJ,"34,638",0.124359587,,,"34,638",12.44%,
+NY,36,New York,22,,Scattered,Scattered,W,,,,,,,
+NY,36,New York,22,,,Total Votes,,,,,,,,
+NY,36,New York,23,"Thomas W., II",Reed,"Thomas W., II Reed",REF,"161,050",0.575723453,,,"161,050",57.57%,W
+NY,36,New York,23,"Thomas W., II",Reed,"Thomas W., II Reed",IDP,"161,050",0.575723453,,,"161,050",57.57%,
+NY,36,New York,23,John F.,Plumb,John F. Plumb,D,"118,584",0.423915491,,,"118,584",42.39%,
+NY,36,New York,23,John F.,Plumb,John F. Plumb,WF,"118,584",0.423915491,,,"118,584",42.39%,
+NY,36,New York,23,"Thomas W., II",Reed,"Thomas W., II Reed",R,"161,050",0.575723453,,,"161,050",57.57%,W
+NY,36,New York,23,"Thomas W., II",Reed,"Thomas W., II Reed",CRV,"161,050",0.575723453,,,"161,050",57.57%,
+NY,36,New York,23,,Scattered,Scattered,W,,,,,,,
+NY,36,New York,23,,,Total Votes,,,,,,,,
+NY,36,New York,24,John M.,Katko,John M. Katko,R,"182,761",0.604938517,,,"182,761",60.49%,W
+NY,36,New York,24,John M.,Katko,John M. Katko,CRV,"182,761",0.604938517,,,"182,761",60.49%,
+NY,36,New York,24,John M.,Katko,John M. Katko,IDP,"182,761",0.604938517,,,"182,761",60.49%,
+NY,36,New York,24,John M.,Katko,John M. Katko,REF,"182,761",0.604938517,,,"182,761",60.49%,
+NY,36,New York,24,Colleen,Deacon,Colleen Deacon,D,"119,040",0.394022144,,,"119,040",39.40%,
+NY,36,New York,24,Colleen,Deacon,Colleen Deacon,WF,"119,040",0.394022144,,,"119,040",39.40%,
+NY,36,New York,24,,Scattered,Scattered,W ,,,,,,,
+NY,36,New York,24,,,Total Votes,,,,,,,,
+NY,36,New York,25,Louise M.,Slaughter,Louise M. Slaughter,D,"182,950",0.561487397,,,"182,950",56.15%,W
+NY,36,New York,25,Louise M.,Slaughter,Louise M. Slaughter,WEP,"182,950",0.561487397,,,"182,950",56.15%,
+NY,36,New York,25,Louise M.,Slaughter,Louise M. Slaughter,WF,"182,950",0.561487397,,,"182,950",56.15%,
+NY,36,New York,25,Mark W.,Assini,Mark W. Assini,R,"142,650",0.437803647,,,"142,650",43.78%,
+NY,36,New York,25,Mark W.,Assini,Mark W. Assini,CRV,"142,650",0.437803647,,,"142,650",43.78%,
+NY,36,New York,25,Mark W.,Assini,Mark W. Assini,IDP,"142,650",0.437803647,,,"142,650",43.78%,
+NY,36,New York,25,Mark W.,Assini,Mark W. Assini,REF,"142,650",0.437803647,,,"142,650",43.78%,
+NY,36,New York,25,,Scattered,Scattered,W,,,,,,,
+NY,36,New York,25,,,Total Votes,,,,,,,,
+NY,36,New York,26,Brian,Higgins,Brian Higgins,D,"215,289",0.745772987,,,"215,289",74.58%,W
+NY,36,New York,26,Brian,Higgins,Brian Higgins,WEP,"215,289",0.745772987,,,"215,289",74.58%,
+NY,36,New York,26,Brian,Higgins,Brian Higgins,WF,"215,289",0.745772987,,,"215,289",74.58%,
+NY,36,New York,26,Shelly,Schratz,Shelly Schratz,R,"73,377",0.254181981,,,"73,377",25.42%,
+NY,36,New York,26,Shelly,Schratz,Shelly Schratz,CRV,"73,377",0.254181981,,,"73,377",25.42%,
+NY,36,New York,26,,Scattered,Scattered,W,,,,,,,
+NY,36,New York,26,,,Total Votes,,,,,,,,
+NY,36,New York,27,Chris,Collins,Chris Collins,R,"220,885",0.671772975,,,"220,885",67.18%,W
+NY,36,New York,27,Chris,Collins,Chris Collins,CRV,"220,885",0.671772975,,,"220,885",67.18%,
+NY,36,New York,27,Chris,Collins,Chris Collins,IDP,"220,885",0.671772975,,,"220,885",67.18%,
+NY,36,New York,27,Chris,Collins,Chris Collins,REF,"220,885",0.671772975,,,"220,885",67.18%,
+NY,36,New York,27,Diana K.,Kastenbaum,Diana K. Kastenbaum,D,"107,832",0.327947228,,,,,
+NY,36,New York,27,,Scattered,Scattered,W,92,0.000279798,,,,,
+NY,36,New York,27,,,Total Votes,,"328,809",,,,,,
+NC,37,North Carolina,01,G. K.,Butterfield,G. K. Butterfield,D,"240,661",0.686232353,,,,,W
+NC,37,North Carolina,01,"H. Powell, Jr.",Dew,"H. Powell, Jr. Dew",R,"101,567",0.28961303,,,,,
+NC,37,North Carolina,01,J.J.,Summerell,J.J. Summerell,LIB,"8,471",0.024154617,,,,,
+NC,37,North Carolina,01,,,Total Votes,,"350,699",,,,,,
+NC,37,North Carolina,02,George,Holding,George Holding,R,"221,485",0.567085801,,,,,W
+NC,37,North Carolina,02,John P.,McNeil,John P. McNeil,D,"169,082",0.432914199,,,,,
+NC,37,North Carolina,02,,,Total Votes,,"390,567",,,,,,
+NC,37,North Carolina,03,Walter B.,Jones,Walter B. Jones,R,"217,531",0.672012135,,,,,W
+NC,37,North Carolina,03,Ernest T.,Reeves,Ernest T. Reeves,D,"106,170",0.327987865,,,,,
+NC,37,North Carolina,03,,,Total Votes,,"323,701",,,,,,
+NC,37,North Carolina,04,David,Price,David Price,D,"279,380",0.682178341,,,,,W
+NC,37,North Carolina,04,Sue,Googe,Sue Googe,R,"130,161",0.317821659,,,,,
+NC,37,North Carolina,04,,,Total Votes,,"409,541",,,,,,
+NC,37,North Carolina,05,Virginia,Foxx,Virginia Foxx,R,"207,625",0.584016855,,,,,W
+NC,37,North Carolina,05,Josh,Brannon,Josh Brannon,D,"147,887",0.415983145,,,,,
+NC,37,North Carolina,05,,,Total Votes,,"355,512",,,,,,
+NC,37,North Carolina,06,B. Mark,Walker,B. Mark Walker,R,"207,983",0.592291044,,,,,W
+NC,37,North Carolina,06,Pete,Glidewell,Pete Glidewell,D,"143,167",0.407708956,,,,,
+NC,37,North Carolina,06,,,Total Votes,,"351,150",,,,,,
+NC,37,North Carolina,07,David,Rouzer,David Rouzer,R,"211,801",0.60913818,,,,,W
+NC,37,North Carolina,07,J. Wesley,Casteen,J. Wesley Casteen,D,"135,905",0.39086182,,,,,
+NC,37,North Carolina,07,,,Total Votes,,"347,706",,,,,,
+NC,37,North Carolina,08,Richard,Hudson,Richard Hudson,R,"189,863",0.587729264,,,,,W
+NC,37,North Carolina,08,Thomas,Mills,Thomas Mills,D,"133,182",0.412270736,,,,,
+NC,37,North Carolina,08,,,Total Votes,,"323,045",,,,,,
+NC,37,North Carolina,09,Robert,Pittenger,Robert Pittenger,R,"193,452",0.581822775,,,,,W
+NC,37,North Carolina,09,Christian,Cano,Christian Cano,D,"139,041",0.418177225,,,,,
+NC,37,North Carolina,09,,,Total Votes,,"332,493",,,,,,
+NC,37,North Carolina,10,Patrick,McHenry,Patrick McHenry,R,"220,825",0.631390388,,,,,W
+NC,37,North Carolina,10,Andy,Millard,Andy Millard,D,"128,919",0.368609612,,,,,
+NC,37,North Carolina,10,,,Total Votes,,"349,744",,,,,,
+NC,37,North Carolina,11,Mark,Meadows,Mark Meadows,R,"230,405",0.640889772,,,,,W
+NC,37,North Carolina,11,Rick,Bryson,Rick Bryson,D,"129,103",0.359110228,,,,,
+NC,37,North Carolina,11,,,Total Votes,,"359,508",,,,,,
+NC,37,North Carolina,12,Alma,Adams,Alma Adams,D,"234,115",0.670240481,,,,,W
+NC,37,North Carolina,12,Leon,Threatt,Leon Threatt,R,"115,185",0.329759519,,,,,
+NC,37,North Carolina,12,,,Total Votes,,"349,300",,,,,,
+NC,37,North Carolina,13,Ted,Budd,Ted Budd,R,"199,443",0.561033722,,,,,W
+NC,37,North Carolina,13,Bruce,Davis,Bruce Davis,D,"156,049",0.438966278,,,,,
+NC,37,North Carolina,13,,,Total Votes,,"355,492",,,,,,
+ND,38,North Dakota,00,Kevin,Cramer,Kevin Cramer,R,"233,980",0.69130973,,,,,W
+ND,38,North Dakota,00,Chase,Iron Eyes,Chase Iron Eyes,DNL,"80,377",0.237479281,,,,,
+ND,38,North Dakota,00,Jack,Seaman,Jack Seaman,LIB,"23,528",0.069515067,,,,,
+ND,38,North Dakota,00,,Scattered,Scattered,W,574,0.001695922,,,,,
+ND,38,North Dakota,00,,,Total Votes,,"338,459",,,,,,
+OH,39,Ohio,01,Steve,Chabot,Steve Chabot,R,"210,014",0.59194223,,,,,W
+OH,39,Ohio,01,Michele,Young,Michele Young,D,"144,644",0.407691354,,,,,
+OH,39,Ohio,01,Sholom D.,Keller,Sholom D. Keller,W,114,0.000321319,,,,,
+OH,39,Ohio,01,Kiumars G.,Kiani,Kiumars G. Kiani,W,16,0.0000451,,,,,
+OH,39,Ohio,01,,,Total Votes,,"354,788",,,,,,
+OH,39,Ohio,02,Brad ,Wenstrup,Brad  Wenstrup,R,"221,193",0.650034237,,,,,W
+OH,39,Ohio,02,William R. ,Smith,William R.  Smith,D,"111,694",0.328242413,,,,,
+OH,39,Ohio,02,Janet,Everhard,Janet Everhard,W,"7,392",0.021723351,,,,,
+OH,39,Ohio,02,,,Total Votes,,"340,279",,,,,,
+OH,39,Ohio,03,Joyce,Beatty,Joyce Beatty,D,"199,791",0.685739881,,,,,W
+OH,39,Ohio,03,John,Adams,John Adams,R,"91,560",0.314260119,,,,,
+OH,39,Ohio,03,,,Total Votes,,"291,351",,,,,,
+OH,39,Ohio,04,Jim,Jordan,Jim Jordan,R,"210,227",0.679888619,,,,,W
+OH,39,Ohio,04,Janet,Garrett,Janet Garrett,D,"98,981",0.320111381,,,,,
+OH,39,Ohio,04,,,Total Votes,,"309,208",,,,,,
+OH,39,Ohio,05,Bob,Latta,Bob Latta,R,"244,599",0.709001104,,,,,W
+OH,39,Ohio,05,"James, Jr.",Neu,"James, Jr. Neu",D,"100,392",0.290998896,,,,,
+OH,39,Ohio,05,,,Total Votes,,"344,991",,,,,,
+OH,39,Ohio,06,Bill,Johnson,Bill Johnson,R,"213,975",0.706759591,,,,,W
+OH,39,Ohio,06,Michael L.,Lorentz,Michael L. Lorentz,D,"88,780",0.293240409,,,,,
+OH,39,Ohio,06,,,Total Votes,,"302,755",,,,,,
+OH,39,Ohio,07,Bob ,Gibbs,Bob  Gibbs,R,"198,221",0.640345918,,,,,W
+OH,39,Ohio,07,Roy ,Rich,Roy  Rich,D,"89,638",0.289572383,,,,,
+OH,39,Ohio,07,Dan,Phillip,Dan Phillip,N,"21,694",0.070081698,,,,,
+OH,39,Ohio,07,,,Total Votes,,"309,553",,,,,,
+OH,39,Ohio,08,Warren,Davidson,Warren Davidson,R,"223,833",0.687646311,,,,,W
+OH,39,Ohio,08,Steven,Fought,Steven Fought,D,"87,794",0.269715458,,,,,
+OH,39,Ohio,08,Derrick James,Hendricks,Derrick James Hendricks,GRE,"13,879",0.042638231,,,,,
+OH,39,Ohio,08,,,Total Votes,,"325,506",,,,,,
+OH,39,Ohio,09,Marcy,Kaptur,Marcy Kaptur,D,"193,966",0.686853306,,,,,W
+OH,39,Ohio,09,Donald P.,Larson,Donald P. Larson,R,"88,427",0.313128988,,,,,
+OH,39,Ohio,09,George A.,Skalsky,George A. Skalsky,W,5,0.0000177,,,,,
+OH,39,Ohio,09,,,Total Votes,,"282,398",,,,,,
+OH,39,Ohio,10,Mike ,Turner,Mike  Turner,R,"215,724",0.640887458,,,,,W
+OH,39,Ohio,10,Robert ,Klepinger,Robert  Klepinger,D,"109,981",0.326738997,,,,,
+OH,39,Ohio,10,Tom,McMasters,Tom McMasters,N,"10,890",0.032352749,,,,,
+OH,39,Ohio,10,David A.,Harlow,David A. Harlow,W,7,0.0000208,,,,,
+OH,39,Ohio,10,,,Total Votes,,"336,602",,,,,,
+OH,39,Ohio,11,Marcia L.,Fudge,Marcia L. Fudge,D,"242,917",0.802537944,,,,,W
+OH,39,Ohio,11,Beverly A.,Goldstein,Beverly A. Goldstein,R,"59,769",0.197462056,,,,,
+OH,39,Ohio,11,,,Total Votes,,"302,686",,,,,,
+OH,39,Ohio,12,Pat,Tiberi,Pat Tiberi,R,"251,266",0.665545355,,,,,W
+OH,39,Ohio,12,Ed ,Albertson,Ed  Albertson,D,"112,638",0.298351937,,,,,
+OH,39,Ohio,12,Joe ,Manchik,Joe  Manchik,GRE,"13,474",0.035689501,,,,,
+OH,39,Ohio,12,John J.,Baumeister,John J. Baumeister,W,156,0.000413208,,,,,
+OH,39,Ohio,12,,,Total Votes,,"377,534",,,,,,
+OH,39,Ohio,13,Tim ,Ryan,Tim  Ryan,D,"208,610",0.677296399,,,,,W
+OH,39,Ohio,13,Richard A.,Morckel,Richard A. Morckel,R,"99,377",0.322648407,,,,,
+OH,39,Ohio,13,"Calvin, Sr.",Hill,"Calvin, Sr. Hill",W,17,0.0000552,,,,,
+OH,39,Ohio,13,,,Total Votes,,"308,004",,,,,,
+OH,39,Ohio,14,David P.,Joyce,David P. Joyce,R,"219,191",0.625779044,,,,,W
+OH,39,Ohio,14,Michael,Wager,Michael Wager,D,"130,907",0.37373276,,,,,
+OH,39,Ohio,14,Andrew ,Jarvi,Andrew  Jarvi,W,171,0.000488196,,,,,
+OH,39,Ohio,14,,,Total Votes,,"350,269",,,,,,
+OH,39,Ohio,15,Steve,Stivers,Steve Stivers,R,"222,847",0.661645987,,,,,W
+OH,39,Ohio,15,Scott,Wharton,Scott Wharton,D,"113,960",0.338354013,,,,,
+OH,39,Ohio,15,,,Total Votes,,"336,807",,,,,,
+OH,39,Ohio,16,Jim,Renacci,Jim Renacci,R,"225,794",0.653293753,,,,,W
+OH,39,Ohio,16,Keith ,Mundy,Keith  Mundy,D,"119,830",0.346706247,,,,,
+OH,39,Ohio,16,,,Total Votes,,"345,624",,,,,,
+OK,40,Oklahoma,01,Jim ,Bridenstine,Jim  Bridenstine,R,Unopposed,,,,,,W
+OK,40,Oklahoma,02,Markwayne ,Mullin,Markwayne  Mullin,R,"189,839",0.706062409,,,,,W
+OK,40,Oklahoma,02,Joshua,Harris-Till,Joshua Harris-Till,D,"62,387",0.232034069,,,,,
+OK,40,Oklahoma,02,John ,McCarthy,John  McCarthy,IND,"16,644",0.061903522,,,,,
+OK,40,Oklahoma,02,,,Total Votes,,"268,870",,,,,,
+OK,40,Oklahoma,03,Frank D.,Lucas,Frank D. Lucas,R,"227,525",0.782908659,,,,,W
+OK,40,Oklahoma,03,Frankie,Robbins,Frankie Robbins,D,"63,090",0.217091341,,,,,
+OK,40,Oklahoma,03,,,Total Votes,,"290,615",,,,,,
+OK,40,Oklahoma,04,Tom,Cole,Tom Cole,R,"204,143",0.696284649,,,,,W
+OK,40,Oklahoma,04,Christina,Owen,Christina Owen,D,"76,472",0.260828339,,,,,
+OK,40,Oklahoma,04,Sevier,White,Sevier White,LIB,"12,574",0.042887011,,,,,
+OK,40,Oklahoma,04,,,Total Votes,,"293,189",,,,,,
+OK,40,Oklahoma,05,Steve ,Russell,Steve  Russell,R,"160,184",0.570923477,,,,,W
+OK,40,Oklahoma,05,Al,McAffrey,Al McAffrey,D,"103,273",0.368082831,,,,,
+OK,40,Oklahoma,05,Zachary,Knight,Zachary Knight,LIB,"17,113",0.060993691,,,,,
+OK,40,Oklahoma,05,,,Total Votes,,"280,570",,,,,,
+OR,41,Oregon,01,Suzanne,Bonamici,Suzanne Bonamici,D/IP,"225,391",0.596122668,,,,,W
+OR,41,Oregon,01,Brian J.,Heinrich,Brian J. Heinrich,R,"139,756",0.369631971,,,,,
+OR,41,Oregon,01,Kyle,Sheahan,Kyle Sheahan,LIB,"12,257",0.032417779,,,,,
+OR,41,Oregon,01,,Scattered,Scattered,W,691,0.001827583,,,,,
+OR,41,Oregon,01,,,Total Votes,,"378,095",,,,,,
+OR,41,Oregon,02,Greg,Walden,Greg Walden,R/IP,"272,952",0.716900554,,,,,W
+OR,41,Oregon,02,James (Jim),Crary,James (Jim) Crary,D,"106,640",0.280086884,,,,,
+OR,41,Oregon,02,,Scattered,Scattered,W,"1,147",0.003012562,,,,,
+OR,41,Oregon,02,,,Total Votes,,"380,739",,,,,,
+OR,41,Oregon,03,Earl ,Blumenauer,Earl  Blumenauer,D,"274,687",0.718408285,,,,,W
+OR,41,Oregon,03,David W.,Walker,David W. Walker,IP/R,"78,154",0.204401669,,,,,
+OR,41,Oregon,03,David,Delk,David Delk,PRO,"27,978",0.073172837,,,,,
+OR,41,Oregon,03,,Scattered,Scattered,W,"1,536",0.004017209,,,,,
+OR,41,Oregon,03,,,Total Votes,,"382,355",,,,,,
+OR,41,Oregon,04,Peter A.,DeFazio,Peter A. DeFazio,D/PRO/WF/IP,"220,628",0.55494406,,,,,W
+OR,41,Oregon,04,Art,Robinson,Art Robinson,R/CON,"157,743",0.396769861,,,,,
+OR,41,Oregon,04,Mike,Beilstein,Mike Beilstein,PG,"12,194",0.030671483,,,,,
+OR,41,Oregon,04,Gil,Guthrie,Gil Guthrie,LIB,"6,527",0.016417317,,,,,
+OR,41,Oregon,04,,Scattered,Scattered,W,476,0.001197279,,,,,
+OR,41,Oregon,04,,,Total Votes,,"397,568",,,,,,
+OR,41,Oregon,05,Kurt,Schrader,Kurt Schrader,D/IP,"199,505",0.534711129,,,,,W
+OR,41,Oregon,05,Colm,Willis,Colm Willis,R,"160,443",0.430017582,,,,,
+OR,41,Oregon,05,Marvin,Sandnes,Marvin Sandnes,PG,"12,542",0.033614932,,,,,
+OR,41,Oregon,05,,Scattered,Scattered,W,618,0.001656357,,,,,
+OR,41,Oregon,05,,,Total Votes,,"373,108",,,,,,
+PA,42,Pennsylvania,01,Robert A.,Brady,Robert A. Brady,D,"245,791",0.82168073,,,,,W
+PA,42,Pennsylvania,01,Deborah,Williams,Deborah Williams,R,"53,219",0.177911424,,,,,
+PA,42,Pennsylvania,01,,Scattered,Scattered,W,122,0.000407847,,,,,
+PA,42,Pennsylvania,01,,,Total Votes,,"299,132",,,,,,
+PA,42,Pennsylvania,03,Mike ,Kelly,Mike  Kelly,R,"244,893",0.972086931,,,,,W
+PA,42,Pennsylvania,03,,Scattered,Scattered,W,"7,032",0.027913069,,,,,
+PA,42,Pennsylvania,03,,,Total Votes,,"251,925",,,,,,
+PA,42,Pennsylvania,04,Scott,Perry,Scott Perry,R,"220,628",0.659997726,,,,,W
+PA,42,Pennsylvania,04,Joshua,Burkholder,Joshua Burkholder,W(D)/D,"113,372",0.339146719,,,,,
+PA,42,Pennsylvania,04,,Scattered,Scattered,W,286,0.000855555,,,,,
+PA,42,Pennsylvania,04,,,Total Votes,,"334,286",,,,,,
+PA,42,Pennsylvania,05,Glenn GT,Thompson,Glenn GT Thompson,R,"206,761",0.670798849,,,,,W
+PA,42,Pennsylvania,05,Kerith Strano,Taylor,Kerith Strano Taylor,D,"101,082",0.327942355,,,,,
+PA,42,Pennsylvania,05,,Scattered,Scattered,W,388,0.001258796,,,,,
+PA,42,Pennsylvania,05,,,Total Votes,,"308,231",,,,,,
+PA,42,Pennsylvania,06,Ryan,Costello,Ryan Costello,R,"207,469",0.571924379,,,,,W
+PA,42,Pennsylvania,06,Mike,Parrish,Mike Parrish,D,"155,000",0.427284456,,,,,
+PA,42,Pennsylvania,06,,Scattered,Scattered,W,287,0.000791165,,,,,
+PA,42,Pennsylvania,06,,,Total Votes,,"362,756",,,,,,
+PA,42,Pennsylvania,07,Patrick L.,Meehan,Patrick L. Meehan,R,"225,678",,,,,,W
+PA,42,Pennsylvania,07,Mary Ellen,Balchunis,Mary Ellen Balchunis,D,"153,824",0.405174253,,,,,
+PA,42,Pennsylvania,07,,Scattered,Scattered,W,147,0.0003872,,,,,
+PA,42,Pennsylvania,07,,,Total Votes,,"379,649",,,,,,
+PA,42,Pennsylvania,08,Brian,Fitzpatrick,Brian Fitzpatrick,R,"207,263",0.544194485,,,,,W
+PA,42,Pennsylvania,08,Steve ,Santarsiero,Steve  Santarsiero,D,"173,555",0.455689987,,,,,
+PA,42,Pennsylvania,08,,Scattered,Scattered,W,44,0.000115527,,,,,
+PA,42,Pennsylvania,08,,,Total Votes,,"380,862",,,,,,
+PA,42,Pennsylvania,09,Bill,Shuster,Bill Shuster,R,"186,580",0.628037861,,,,,W
+PA,42,Pennsylvania,09,Art,Halvorson,Art Halvorson,W(D)/D,"107,985",0.363483055,,,,,
+PA,42,Pennsylvania,09,Adam,Sedlock,Adam Sedlock,W(D)/W,996,0.003352587,,,,,
+PA,42,Pennsylvania,09,,Scattered,Scattered,W,"1,523",0.005126496,,,,,
+PA,42,Pennsylvania,09,,,Total Votes,,"297,084",,,,,,
+PA,42,Pennsylvania,10,Tom,Marino,Tom Marino,R,"211,282",0.700695117,,,,,W
+PA,42,Pennsylvania,10,Michael,Molesevich,Michael Molesevich,W(D)/D,"89,823",0.297888781,,,,,
+PA,42,Pennsylvania,10,,Scattered,Scattered,W,427,0.001416102,,,,,
+PA,42,Pennsylvania,10,,,Total Votes,,"301,532",,,,,,
+PA,42,Pennsylvania,11,Lou ,Barletta,Lou  Barletta,R,"199,421",0.636221231,,,,,W
+PA,42,Pennsylvania,11,Mike,Marsicano,Mike Marsicano,D,"113,800",0.363060942,,,,,
+PA,42,Pennsylvania,11,,Scattered,Scattered,W,225,0.000717827,,,,,
+PA,42,Pennsylvania,11,,,Total Votes,,"313,446",,,,,,
+PA,42,Pennsylvania,12,Keith ,Rothfus,Keith  Rothfus,R,"221,851",0.61708756,,,,,W
+PA,42,Pennsylvania,12,Erin R.,McClelland,Erin R. McClelland,D,"137,353",0.382052944,,,,,
+PA,42,Pennsylvania,12,,Scattered,Scattered,W,309,0.000859496,,,,,
+PA,42,Pennsylvania,12,,,Total Votes,,"359,513",,,,,,
+PA,42,Pennsylvania,13,Brendan F.,Boyle,Brendan F. Boyle,D,"239,316",0.999010657,,,,,W
+PA,42,Pennsylvania,13,,Scattered,Scattered,W,237,0.000989343,,,,,
+PA,42,Pennsylvania,13,,,Total Votes,,"239,553",,,,,,
+PA,42,Pennsylvania,14,Mike,Doyle,Mike Doyle,D,"255,293",0.742553897,,,,,W
+PA,42,Pennsylvania,14,Lenny,McAllister,Lenny McAllister,W(R)/R,"87,999",0.255956882,,,,,
+PA,42,Pennsylvania,14,,Scattered,Scattered,W,512,0.001489221,,,,,
+PA,42,Pennsylvania,14,,,Total Votes,,"343,804",,,,,,
+PA,42,Pennsylvania,15,Charles W.,Dent,Charles W. Dent,R,"190,618",0.583414951,,,,,W
+PA,42,Pennsylvania,15,Rick ,Daugherty,Rick  Daugherty,D,"124,129",0.379915404,,,,,
+PA,42,Pennsylvania,15,Paul,Rizzo,Paul Rizzo,LIB,"11,727",0.035892241,,,,,
+PA,42,Pennsylvania,15,,Scattered,Scattered,W,254,0.000777405,,,,,
+PA,42,Pennsylvania,15,,,Total Votes,,"326,728",,,,,,
+PA,42,Pennsylvania,16,Lloyd K.,Smucker,Lloyd K. Smucker,R,"168,669",0.536620673,,,,,W
+PA,42,Pennsylvania,16,Christina,Hartman,Christina Hartman,D,"134,586",0.428185558,,,,,
+PA,42,Pennsylvania,16,Shawn Patrick,House,Shawn Patrick House,LIB,"10,518",0.033463033,,,,,
+PA,42,Pennsylvania,16,,Scattered,Scattered,W,544,0.001730737,,,,,
+PA,42,Pennsylvania,16,,,Total Votes,,"314,317",,,,,,
+PA,42,Pennsylvania,17,Matt,Cartwright,Matt Cartwright,D,"157,734",0.537477298,,,,,W
+PA,42,Pennsylvania,17,Matt,Connolly,Matt Connolly,R,"135,430",0.461476602,,,,,
+PA,42,Pennsylvania,17,,Scattered,Scattered,W,307,0.0010461,,,,,
+PA,42,Pennsylvania,17,,,Total Votes,,"293,471",,,,,,
+PA,42,Pennsylvania,18,Tim ,Murphy,Tim  Murphy,R,"293,684",0.983935218,,,,,W
+PA,42,Pennsylvania,18,,Scattered,Scattered,W,"4,795",0.016064782,,,,,
+PA,42,Pennsylvania,18,,,Total Votes,,"298,479",,,,,,
+PA,42,Pennsylvania,02 - FULL TERM,Dwight,Evans,Dwight Evans,D,"322,514",0.901420969,,,,,W
+PA,42,Pennsylvania,02 - FULL TERM,James A.,Jones,James A. Jones,R,"35,131",0.098190528,,,,,
+PA,42,Pennsylvania,02 - FULL TERM,,Scattered,Scattered,W,139,0.000388503,,,,,
+PA,42,Pennsylvania,02 - FULL TERM,,,Total Votes,,"357,784",,,,,,
+PA,42,Pennsylvania,02 - UNEXPIRED TERM,Dwight,Evans,Dwight Evans,D,"280,439",0.904312299,,,,,W
+PA,42,Pennsylvania,02 - UNEXPIRED TERM,James A.,Jones,James A. Jones,R,"29,661",0.095645781,,,,,
+PA,42,Pennsylvania,02 - UNEXPIRED TERM,,Scattered,Scattered,W,13,0.0000419,,,,,
+PA,42,Pennsylvania,02 - UNEXPIRED TERM,,,Total Votes,,"310,113",,,,,,
+RI,44,Rhode Island,01,David N.,Cicilline,David N. Cicilline,D,"130,540",0.645033774,,,,,W
+RI,44,Rhode Island,01,Harold Russell,Taub,Harold Russell Taub,R,"71,023",0.35094403,,,,,
+RI,44,Rhode Island,01,,Scattered,Scattered,W,687,0.003394655,,,,,
+RI,44,Rhode Island,01,John,DeSimone,John DeSimone,W,42,0.000207533,,,,,
+RI,44,Rhode Island,01,Mickey,Mouse,Mickey Mouse,W,23,0.000113649,,,,,
+RI,44,Rhode Island,01,"Rufus, Jr.",Bailey,"Rufus, Jr. Bailey",W,19,0.0000939,,,,,
+RI,44,Rhode Island,01,Bernie,Sanders,Bernie Sanders,W,11,0.0000544,,,,,
+RI,44,Rhode Island,01,Jan,Malik,Jan Malik,W,9,0.0000445,,,,,
+RI,44,Rhode Island,01,Lincoln,Chafee,Lincoln Chafee,W,6,0.0000296,,,,,
+RI,44,Rhode Island,01,,Me,Me,W,6,0.0000296,,,,,
+RI,44,Rhode Island,01,,None,None,W,6,0.0000296,,,,,
+RI,44,Rhode Island,01,,None of the Above,None of the Above,W,5,0.0000247,,,,,
+RI,44,Rhode Island,01,,,Total Votes,,"202,377",,,,,,
+RI,44,Rhode Island,02,James R.,Langevin,James R. Langevin,D,"133,108",0.580882225,,,,,W
+RI,44,Rhode Island,02,Rhue R.,Reis,Rhue R. Reis,R,"70,301",0.30679299,,,,,
+RI,44,Rhode Island,02,Jeffrey C.,Johnson,Jeffrey C. Johnson,IND,"16,253",0.070927959,,,,,
+RI,44,Rhode Island,02,Salvatore G.,Caiozzo,Salvatore G. Caiozzo,IND,"8,942",0.039022815,,,,,
+RI,44,Rhode Island,02,,Scattered,Scattered,W,511,0.00223,,,,,
+RI,44,Rhode Island,02,Mickey,Mouse,Mickey Mouse,W,11,0.000048,,,,,
+RI,44,Rhode Island,02,Bernie,Sanders,Bernie Sanders,W,9,0.0000393,,,,,
+RI,44,Rhode Island,02,John,DeSimone,John DeSimone,W,8,0.0000349,,,,,
+RI,44,Rhode Island,02,,None of the Above,None of the Above,W,5,0.0000218,,,,,
+RI,44,Rhode Island,02,,,Total Votes,,"229,148",,,,,,
+SC,45,South Carolina,01,Mark,Sanford,Mark Sanford,R,"190,410",0.585570625,,,,,W
+SC,45,South Carolina,01,Dimitri,Cherny,Dimitri Cherny,D,"110,539",0.339942184,,,"119,779",36.84%,
+SC,45,South Carolina,01,Dimitri,Cherny,Dimitri Cherny,WF,"5,757",0.017704585,,,"119,779",36.84%,
+SC,45,South Carolina,01,Dimitri,Cherny,Dimitri Cherny,GRE,"3,483",0.01071132,,,"119,779",36.84%,
+SC,45,South Carolina,01,Albert,Travison,Albert Travison,AM,"2,774",0.008530922,,,,,
+SC,45,South Carolina,01,"Michael, Jr.",Grier,"Michael, Jr. Grier",LIB,"11,614",0.035716702,,,,,
+SC,45,South Carolina,01,,Scattered,Scattered,W,593,0.001823661,,,,,
+SC,45,South Carolina,01,,,Total Votes,,"325,170",,,,,,
+SC,45,South Carolina,02,Joe,Wilson,Joe Wilson,R,"183,746",0.602453803,,,,,W
+SC,45,South Carolina,02,Arik,Bjorn,Arik Bjorn,D,"105,306",0.345270102,,,"109,452",35.89%,
+SC,45,South Carolina,02,Arik,Bjorn,Arik Bjorn,GRE,"4,146",0.013593621,,,"109,452",35.89%,
+SC,45,South Carolina,02,Eddie,McCain,Eddie McCain,AM,"11,444",0.037521804,,,,,
+SC,45,South Carolina,02,,Scattered,Scattered,W,354,0.001160671,,,,,
+SC,45,South Carolina,02,,,Total Votes,,"304,996",,,,,,
+SC,45,South Carolina,03,Jeff,Duncan,Jeff Duncan,R,"198,431",0.728237932,,,,,W
+SC,45,South Carolina,03,Hosea,Cleveland,Hosea Cleveland,D,"73,766",0.270719793,,,,,
+SC,45,South Carolina,03,,Scattered,Scattered,W,284,0.001042275,,,,,
+SC,45,South Carolina,03,,,Total Votes,,"272,481",,,,,,
+SC,45,South Carolina,04,Trey,Gowdy,Trey Gowdy,R,"198,648",0.671857138,,,,,W
+SC,45,South Carolina,04,Chris,Fedalei,Chris Fedalei,D,"91,676",0.310061893,,,,,
+SC,45,South Carolina,04,Michael,Chandler,Michael Chandler,CON,"5,103",0.017259106,,,,,
+SC,45,South Carolina,04,,Scattered,Scattered,W,243,0.000821862,,,,,
+SC,45,South Carolina,04,,,Total Votes,,"295,670",,,,,,
+SC,45,South Carolina,05,Mick,Mulvaney,Mick Mulvaney,R,"175,909",0.590732787,,,,,W
+SC,45,South Carolina,05,Fran,Person,Fran Person,D,"115,437",0.387657372,,,,,
+SC,45,South Carolina,05,,Scattered,Scattered,W,196,0.000658202,,,,,
+SC,45,South Carolina,05,,,Total Votes,,"297,781",,,,,,
+SC,45,South Carolina,06,"Rudy, Jr.",Barnes,"Rudy, Jr. Barnes",AM,"6,239",0.020951639,,,,,
+SC,45,South Carolina,06,"James E. ""Jim""",Clyburn,"James E. ""Jim"" Clyburn",D,"177,947",0.700851907,,,,,W
+SC,45,South Carolina,06,Laura,Sterling,Laura Sterling,R,"70,099",0.276087924,,,,,
+SC,45,South Carolina,06,Rich,Piotrowski,Rich Piotrowski,LIB,"3,131",0.012331578,,,,,
+SC,45,South Carolina,06,Prince Charles,Mallory,Prince Charles Mallory,GRE,"2,499",0.009842419,,,,,
+SC,45,South Carolina,06,,Scattered,Scattered,W,225,0.000886172,,,,,
+SC,45,South Carolina,06,,,Total Votes,,"253,901",,,,,,
+SC,45,South Carolina,07,Tom,Rice,Tom Rice,R,"176,468",0.609639229,,,,,W
+SC,45,South Carolina,07,Mal,Hyman,Mal Hyman,D,"103,454",0.357399737,,,"112,744",38.95%,
+SC,45,South Carolina,07,Mal,Hyman,Mal Hyman,WF,"6,747",0.023308678,,,"112,744",38.95%,
+SC,45,South Carolina,07,Mal,Hyman,Mal Hyman,GRE,"2,543",0.008785233,,,"112,744",38.95%,
+SC,45,South Carolina,07,,Scattered,Scattered,W,251,0.000867123,,,,,
+SC,45,South Carolina,07,,,Total Votes,,"289,463",,,,,,
+SD,46,South Dakota,00,Kristi,Noem,Kristi Noem,R,"237,163",0.641027859,,,,,W
+SD,46,South Dakota,00,Paula,Hawks,Paula Hawks,D,"132,810",0.358972141,,,,,
+SD,46,South Dakota,00,,,Total Votes,,"369,973",,,,,,
+TN,47,Tennessee,01,Phil,Roe,Phil Roe,R,"198,293",0.783689359,,,,,W
+TN,47,Tennessee,01,Alan,Bohms,Alan Bohms,D,"39,024",0.154229819,,,,,
+TN,47,Tennessee,01,Robert D.,Franklin,Robert D. Franklin,IND,"15,702",0.062057109,,,,,
+TN,47,Tennessee,01,Paul ,Krane,Paul  Krane,W,6,0.0000237,,,,,
+TN,47,Tennessee,01,,,Total Votes,,"253,025",,,,,,
+TN,47,Tennessee,02,"John J., Jr.",Duncan,"John J., Jr. Duncan",R,"212,455",0.756455265,,,,,W
+TN,47,Tennessee,02,Stuart,Starr,Stuart Starr,D,"68,401",0.243544735,,,,,
+TN,47,Tennessee,02,,,Total Votes,,"280,856",,,,,,
+TN,47,Tennessee,03,Chuck,Fleischmann,Chuck Fleischmann,R,"176,613",0.66394367,,,,,W
+TN,47,Tennessee,03,Melody,Shekari,Melody Shekari,D,"76,727",0.288440862,,,,,
+TN,47,Tennessee,03,Rick,Tyler,Rick Tyler,IND,"5,098",0.019164981,,,,,
+TN,47,Tennessee,03,Cassandra,Mitchell,Cassandra Mitchell,IND,"5,075",0.019078517,,,,,
+TN,47,Tennessee,03,Topher,Kersting,Topher Kersting,IND,"2,493",0.009371969,,,,,
+TN,47,Tennessee,03,,,Total Votes,,"266,006",,,,,,
+TN,47,Tennessee,04,Scott,DesJarlais,Scott DesJarlais,R,"165,796",0.650341065,,,,,W
+TN,47,Tennessee,04,Steven,Reynolds,Steven Reynolds,D,"89,141",0.349658935,,,,,
+TN,47,Tennessee,04,,,Total Votes,,"254,937",,,,,,
+TN,47,Tennessee,05,Jim,Cooper,Jim Cooper,D,"171,111",0.625533735,,,,,W
+TN,47,Tennessee,05,Stacy Ries,Snyder,Stacy Ries Snyder,R,"102,433",0.374466265,,,,,
+TN,47,Tennessee,05,,,Total Votes,,"273,544",,,,,,
+TN,47,Tennessee,06,Diane,Black,Diane Black,R,"202,234",0.710865057,,,,,W
+TN,47,Tennessee,06,David W.,Kent,David W. Kent,D,"61,995",0.217916271,,,,,
+TN,47,Tennessee,06,David,Ross,David Ross,IND,"20,261",0.071218672,,,,,
+TN,47,Tennessee,06,,,Total Votes,,"284,490",,,,,,
+TN,47,Tennessee,07,Marsha,Blackburn,Marsha Blackburn,R,"200,407",0.722153557,,,,,W
+TN,47,Tennessee,07,Tharon,Chandler,Tharon Chandler,D,"65,226",0.235037638,,,,,
+TN,47,Tennessee,07,Leonard D.,Ladner,Leonard D. Ladner,IND,"11,880",0.042808805,,,,,
+TN,47,Tennessee,07,,,Total Votes,,"277,513",,,,,,
+TN,47,Tennessee,08,David,Kustoff,David Kustoff,R,"194,386",0.687524979,,,,,W
+TN,47,Tennessee,08,Rickey,Hobson,Rickey Hobson,D,"70,925",0.250855047,,,,,
+TN,47,Tennessee,08,Shelia L.,Godwin,Shelia L. Godwin,IND,"6,442",0.022784747,,,,,
+TN,47,Tennessee,08,James,Hart,James Hart,IND,"4,057",0.014349227,,,,,
+TN,47,Tennessee,08,Adrian M.,Montague,Adrian M. Montague,IND,"2,497",0.008831654,,,,,
+TN,47,Tennessee,08,Mark J.,Rawles,Mark J. Rawles,IND,"2,445",0.008647735,,,,,
+TN,47,Tennessee,08,Karen Free Spirit,Talley-Lane,Karen Free Spirit Talley-Lane,IND,"1,981",0.00700661,,,,,
+TN,47,Tennessee,08,,,Total Votes,,"282,733",,,,,,
+TN,47,Tennessee,09,Steve,Cohen,Steve Cohen,D,"171,631",0.787453489,,,,,W
+TN,47,Tennessee,09,Wayne,Alberson,Wayne Alberson,R,"41,123",0.18867483,,,,,
+TN,47,Tennessee,09,Paul,Cook,Paul Cook,IND,"5,203",0.023871681,,,,,
+TN,47,Tennessee,09,,,Total Votes,,"217,957",,,,,,
+TX,48,Texas,01,Louie ,Gohmert,Louie  Gohmert,R,"192,434",0.738968315,,,,,W
+TX,48,Texas,01,Shirley J.,McKellar,Shirley J. McKellar,D,"62,847",0.241339585,,,,,
+TX,48,Texas,01,Phil,Gray,Phil Gray,LIB,"5,062",0.019438652,,,,,
+TX,48,Texas,01,Renee,Culler,Renee Culler,W,66,0.000253447,,,,,
+TX,48,Texas,01,,,Total Votes,,"260,409",,,,,,
+TX,48,Texas,02,Ted,Poe,Ted Poe,R,"168,692",0.606291062,,,,,W
+TX,48,Texas,02,Pat ,Bryan,Pat  Bryan,D,"100,231",0.360237352,,,,,
+TX,48,Texas,02,James B.,Veasaw,James B. Veasaw,LIB,"6,429",0.023106284,,,,,
+TX,48,Texas,02,Joshua,Darr,Joshua Darr,GRE,"2,884",0.010365301,,,,,
+TX,48,Texas,02,,,Total Votes,,"278,236",,,,,,
+TX,48,Texas,03,Sam,Johnson,Sam Johnson,R,"193,684",0.612019579,,,,,W
+TX,48,Texas,03,Adam P.,Bell,Adam P. Bell,D,"109,420",0.34575485,,,,,
+TX,48,Texas,03,Scott,Jameson,Scott Jameson,LIB,"10,448",0.033014501,,,,,
+TX,48,Texas,03,Paul,Blair,Paul Blair,GRE,"2,915",0.009211071,,,,,
+TX,48,Texas,03,,,Total Votes,,"316,467",,,,,,
+TX,48,Texas,04,John,Ratcliffe,John Ratcliffe,R,"216,643",0.879875721,,,,,W
+TX,48,Texas,04,Cody,Wommack,Cody Wommack,LIB,"29,577",0.120124279,,,,,
+TX,48,Texas,04,,,Total Votes,,"246,220",,,,,,
+TX,48,Texas,05,Jeb,Hensarling,Jeb Hensarling,R,"155,469",0.80606092,,,,,W
+TX,48,Texas,05,Ken,Ashby,Ken Ashby,LIB,"37,406",0.19393908,,,,,
+TX,48,Texas,05,,,Total Votes,,"192,875",,,,,,
+TX,48,Texas,06,Joe,Barton,Joe Barton,R,"159,444",0.583411393,,,,,W
+TX,48,Texas,06,Ruby Faye,Woolridge,Ruby Faye Woolridge,D,"106,667",0.390298431,,,,,
+TX,48,Texas,06,"Darrel, Jr.",Smith,"Darrel, Jr. Smith",GRE,"7,185",0.026290176,,,,,
+TX,48,Texas,06,,,Total Votes,,"273,296",,,,,,
+TX,48,Texas,07,John,Culberson,John Culberson,R,"143,542",0.561735666,,,,,W
+TX,48,Texas,07,James,Cargas,James Cargas,D,"111,991",0.438264334,,,,,
+TX,48,Texas,07,,,Total Votes,,"255,533",,,,,,
+TX,48,Texas,08,Kevin,Brady,Kevin Brady,R,"236,379",1,,,,,W
+TX,48,Texas,08,,,Total Votes,,"236,379",,,,,,
+TX,48,Texas,09,Al,Green,Al Green,D,"152,032",0.806437411,,,,,W
+TX,48,Texas,09,Jeff ,Martin,Jeff  Martin,R,"36,491",0.193562589,,,,,
+TX,48,Texas,09,,,Total Votes,,"188,523",,,,,,
+TX,48,Texas,10,Michael T.,McCaul,Michael T. McCaul,R,"179,221",0.573323736,,,,,W
+TX,48,Texas,10,Tawana W. ,Cadien,Tawana W.  Cadien,D,"120,170",0.384420985,,,,,
+TX,48,Texas,10,Bill,Kelsey,Bill Kelsey,LIB,"13,209",0.042255278,,,,,
+TX,48,Texas,10,,,Total Votes,,"312,600",,,,,,
+TX,48,Texas,11,Mike,Conaway,Mike Conaway,R,"201,871",0.895024562,,,,,W
+TX,48,Texas,11,Nicholas,Landholt,Nicholas Landholt,LIB,"23,677",0.104975438,,,,,
+TX,48,Texas,11,,,Total Votes,,"225,548",,,,,,
+TX,48,Texas,12,Kay ,Granger,Kay  Granger,R,"196,482",0.694000671,,,,,W
+TX,48,Texas,12,Bill,Bradshaw,Bill Bradshaw,D,"76,029",0.268544584,,,,,
+TX,48,Texas,12,Ed,Colliver,Ed Colliver,LIB,"10,604",0.037454745,,,,,
+TX,48,Texas,12,,,Total Votes,,"283,115",,,,,,
+TX,48,Texas,13,Mac ,Thornberry,Mac  Thornberry,R,"199,050",0.899693548,,,,,W
+TX,48,Texas,13,Calvin,DeWeese,Calvin DeWeese,LIB,"14,725",0.066556079,,,,,
+TX,48,Texas,13,"H.F. ""Rusty""",Tomlinson,"H.F. ""Rusty"" Tomlinson",GRE,"7,467",0.033750373,,,,,
+TX,48,Texas,13,,,Total Votes,,"221,242",,,,,,
+TX,48,Texas,14,Randy,Weber,Randy Weber,R,"160,631",0.618560949,,,,,W
+TX,48,Texas,14,Michael,Cole,Michael Cole,D,"99,054",0.381439051,,,,,
+TX,48,Texas,14,,,Total Votes,,"259,685",,,,,,
+TX,48,Texas,15,Vicente ,Gonzalez,Vicente  Gonzalez,D,"101,712",0.573093155,,,,,W
+TX,48,Texas,15,Tim,Westley,Tim Westley,R,"66,877",0.376816412,,,,,
+TX,48,Texas,15,Vanessa S.,Tijerina,Vanessa S. Tijerina,GRE,"5,448",0.030696589,,,,,
+TX,48,Texas,15,Ross Lynn,Leone,Ross Lynn Leone,LIB,"3,442",0.019393844,,,,,
+TX,48,Texas,15,,,Total Votes,,"177,479",,,,,,
+TX,48,Texas,16,Beto,O'Rourke,Beto O'Rourke,D,"150,228",0.857323845,,,,,W
+TX,48,Texas,16,Jaime O.,Perez,Jaime O. Perez,LIB,"17,491",0.099817953,,,,,
+TX,48,Texas,16,Mary L.,Gourdoux,Mary L. Gourdoux,GRE,"7,510",0.042858203,,,,,
+TX,48,Texas,16,,,Total Votes,,"175,229",,,,,,
+TX,48,Texas,17,Bill,Flores,Bill Flores,R,"149,417",0.608058504,,,,,W
+TX,48,Texas,17,William,Matta,William Matta,D,"86,603",0.352434399,,,,,
+TX,48,Texas,17,Clark,Patterson,Clark Patterson,LIB,"9,708",0.039507097,,,,,
+TX,48,Texas,17,,,Total Votes,,"245,728",,,,,,
+TX,48,Texas,18,Sheila,Jackson Lee,Sheila Jackson Lee,D,"150,157",0.734954089,,,,,W
+TX,48,Texas,18,Lori,Bartley,Lori Bartley,R,"48,306",0.236437144,,,,,
+TX,48,Texas,18,Thomas,Kleven,Thomas Kleven,GRE,"5,845",0.028608767,,,,,
+TX,48,Texas,18,,,Total Votes,,"204,308",,,,,,
+TX,48,Texas,19,Jodey,Arrington,Jodey Arrington,R,"176,314",0.866514314,,,,,W
+TX,48,Texas,19,Troy,Bonar,Troy Bonar,LIB,"17,376",0.08539624,,,,,
+TX,48,Texas,19,Mark,Lawson,Mark Lawson,GRE,"9,785",0.048089446,,,,,
+TX,48,Texas,19,,,Total Votes,,"203,475",,,,,,
+TX,48,Texas,20,Joaquin,Castro,Joaquin Castro,D,"149,640",0.797361312,,,,,W
+TX,48,Texas,20,Jeffrey C.,Blunt,Jeffrey C. Blunt,LIB,"29,055",0.154820455,,,,,
+TX,48,Texas,20,Paul,Pipkin,Paul Pipkin,GRE,"8,974",0.047818233,,,,,
+TX,48,Texas,20,,,Total Votes,,"187,669",,,,,,
+TX,48,Texas,21,Lamar,Smith,Lamar Smith,R,"202,967",0.57008238,,,,,W
+TX,48,Texas,21,Tom,Wakely,Tom Wakely,D,"129,765",0.364476689,,,,,
+TX,48,Texas,21,Mark,Loewe,Mark Loewe,LIB,"14,735",0.041386846,,,,,
+TX,48,Texas,21,"Antonio ""Tony""",Diaz,"Antonio ""Tony"" Diaz",GRE,"8,564",0.024054085,,,,,
+TX,48,Texas,21,,,Total Votes,,"356,031",,,,,,
+TX,48,Texas,22,Pete,Olson,Pete Olson,R,"181,864",0.595215731,,,,,W
+TX,48,Texas,22,Mark ,Gibson,Mark  Gibson,D,"123,679",0.404784269,,,,,
+TX,48,Texas,22,,,Total Votes,,"305,543",,,,,,
+TX,48,Texas,23,Will ,Hurd,Will  Hurd,R,"110,577",0.482942808,,,,,W
+TX,48,Texas,23,Pete P.,Gallego,Pete P. Gallego,D,"107,526",0.469617627,,,,,
+TX,48,Texas,23,Ruben S.,Corvalan,Ruben S. Corvalan,LIB,"10,862",0.047439565,,,,,
+TX,48,Texas,23,,,Total Votes,,"228,965",,,,,,
+TX,48,Texas,24,Kenny E.,Marchant,Kenny E. Marchant,R,"154,845",0.561775536,,,,,W
+TX,48,Texas,24,Jan,McDowell,Jan McDowell,D,"108,389",0.393233806,,,,,
+TX,48,Texas,24,Mike,Kolls,Mike Kolls,LIB,"8,625",0.031291382,,,,,
+TX,48,Texas,24,Kevin,McCormick,Kevin McCormick,GRE,"3,776",0.013699276,,,,,
+TX,48,Texas,24,,,Total Votes,,"275,635",,,,,,
+TX,48,Texas,25,Roger,Williams,Roger Williams,R,"180,988",0.583463359,,,,,W
+TX,48,Texas,25,Kathi ,Thomas,Kathi  Thomas,D,"117,073",0.377416214,,,,,
+TX,48,Texas,25,Loren Marc,Schneiderman,Loren Marc Schneiderman,LIB,"12,135",0.039120427,,,,,
+TX,48,Texas,25,,,Total Votes,,"310,196",,,,,,
+TX,48,Texas,26,Michael C.,Burgess,Michael C. Burgess,R,"211,730",0.663563996,,,,,W
+TX,48,Texas,26,Eric,Mauck,Eric Mauck,D,"94,507",0.296185909,,,,,
+TX,48,Texas,26,Mark,Boler,Mark Boler,LIB,"12,843",0.040250094,,,,,
+TX,48,Texas,26,,,Total Votes,,"319,080",,,,,,
+TX,48,Texas,27,Blake,Farenthold,Blake Farenthold,R,"142,251",0.61692688,,,,,W
+TX,48,Texas,27,Raul (Roy),Barrera,Raul (Roy) Barrera,D,"88,329",0.38307312,,,,,
+TX,48,Texas,27,,,Total Votes,,"230,580",,,,,,
+TX,48,Texas,28,Henry,Cuellar,Henry Cuellar,D,"122,086",0.661920821,,,,,W
+TX,48,Texas,28,Zeffen ,Hardin,Zeffen  Hardin,R,"57,740",0.313052342,,,,,
+TX,48,Texas,28,Michael D.,Cary,Michael D. Cary,GRE,"4,616",0.025026838,,,,,
+TX,48,Texas,28,,,Total Votes,,"184,442",,,,,,
+TX,48,Texas,29,Gene,Green,Gene Green,D,"95,649",0.724712461,,,,,W
+TX,48,Texas,29,Julio ,Garza,Julio  Garza,R,"31,646",0.239775121,,,,,
+TX,48,Texas,29,N. Ruben,Perez,N. Ruben Perez,LIB,"3,234",0.024503341,,,,,
+TX,48,Texas,29,James ,Partsch-Galvan,James  Partsch-Galvan,GRE,"1,453",0.011009077,,,,,
+TX,48,Texas,29,,,Total Votes,,"131,982",,,,,,
+TX,48,Texas,30,Eddie Bernice,Johnson,Eddie Bernice Johnson,D,"170,502",0.779167009,,,,,W
+TX,48,Texas,30,Charles,Lingerfelt,Charles Lingerfelt,R,"41,518",0.189730654,,,,,
+TX,48,Texas,30,Jarrett R.,Woods,Jarrett R. Woods,LIB,"4,753",0.021720454,,,,,
+TX,48,Texas,30,Thom,Prentice,Thom Prentice,GRE,"2,053",0.009381883,,,,,
+TX,48,Texas,30,,,Total Votes,,"218,826",,,,,,
+TX,48,Texas,31,John ,Carter,John  Carter,R,"166,060",0.583510197,,,,,W
+TX,48,Texas,31,Mike ,Clark,Mike  Clark,D,"103,852",0.364920517,,,,,
+TX,48,Texas,31,Scott J.,Ballard,Scott J. Ballard,LIB,"14,676",0.051569286,,,,,
+TX,48,Texas,31,,,Total Votes,,"284,588",,,,,,
+TX,48,Texas,32,Pete,Sessions,Pete Sessions,R,"162,868",0.710683289,,,,,W
+TX,48,Texas,32,Ed,Rankin,Ed Rankin,LIB,"43,490",0.189770957,,,,,
+TX,48,Texas,32,Gary,Stuard,Gary Stuard,GRE,"22,813",0.099545754,,,,,
+TX,48,Texas,32,,,Total Votes,,"229,171",,,,,,
+TX,48,Texas,33,Marc ,Veasey,Marc  Veasey,D,"93,147",0.737103245,,,,,W
+TX,48,Texas,33,M. Mark ,Mitchell,M. Mark  Mitchell,R,"33,222",0.262896755,,,,,
+TX,48,Texas,33,,,Total Votes,,"126,369",,,,,,
+TX,48,Texas,34,Filemon B.,Vela,Filemon B. Vela,D,"104,638",0.62672121,,,,,W
+TX,48,Texas,34,"Rey, Jr.",Gonzalez,"Rey, Jr. Gonzalez",R,"62,323",0.37327879,,,,,
+TX,48,Texas,34,,,Total Votes,,"166,961",,,,,,
+TX,48,Texas,35,Lloyd,Doggett,Lloyd Doggett,D,"124,612",0.630704134,,,,,W
+TX,48,Texas,35,Susan,Narvaiz,Susan Narvaiz,R,"62,384",0.315746852,,,,,
+TX,48,Texas,35,Rhett Rosenquest,Smith,Rhett Rosenquest Smith,LIB,"6,504",0.032918978,,,,,
+TX,48,Texas,35,Scott,Trimble,Scott Trimble,GRE,"4,076",0.020630036,,,,,
+TX,48,Texas,35,,,Total Votes,,"197,576",,,,,,
+TX,48,Texas,36,Brian ,Babin,Brian  Babin,R,"193,675",0.886120834,,,,,W
+TX,48,Texas,36,"Hal J., Jr.",Ridley,"Hal J., Jr. Ridley",GRE,"24,890",0.113879166,,,,,
+TX,48,Texas,36,,,Total Votes,,"218,565",,,,,,
+UT,49,Utah,01,Rob,Bishop,Rob Bishop,R,"182,928",0.659306915,,,,,W
+UT,49,Utah,01,Peter C.,Clemens,Peter C. Clemens,D,"73,381",0.264478925,,,,,
+UT,49,Utah,01,Craig,Bowden,Craig Bowden,LIB,"16,296",0.058733849,,,,,
+UT,49,Utah,01,"Chadwick H., III",Fairbanks,"Chadwick H., III Fairbanks",UN,"4,850",0.017480312,,,,,
+UT,49,Utah,01,,,Total Votes,,"277,455",,,,,,
+UT,49,Utah,02,Chris,Stewart,Chris Stewart,R,"170,542",0.616028695,,,,,W
+UT,49,Utah,02,Charlene,Albarran,Charlene Albarran,D,"93,780",0.338750402,,,,,
+UT,49,Utah,02,"Paul J., Jr.",McCollaum,"Paul J., Jr. McCollaum",CON,"12,519",0.045220903,,,,,
+UT,49,Utah,02,,,Total Votes,,"276,841",,,,,,
+UT,49,Utah,02,Jason,Chaffetz,Jason Chaffetz,R,"209,589",0.734613834,,,,,W
+UT,49,Utah,03,Stephen P.,Tryon,Stephen P. Tryon,D,"75,716",0.265386166,,,,,
+UT,49,Utah,03,,,Total Votes,,"285,305",,,,,,
+UT,49,Utah,04,Mia B.,Love,Mia B. Love,R,"147,597",0.537558865,,,,,W
+UT,49,Utah,04,Doug,Owens,Doug Owens,D,"113,413",0.413058284,,,,,
+UT,49,Utah,04,Collin R.,Simonsen,Collin R. Simonsen,CON,"13,559",0.049382851,,,,,
+UT,49,Utah,04,,,Total Votes,,"274,569",,,,,,
+VT,50,Vermont,00,Peter,Welch,Peter Welch,D/R,"264,414",0.895304977,,,,,W
+VT,50,Vermont,00,Erica,Clawson,Erica Clawson,LBU,"29,410",0.099582168,,,,,
+VT,50,Vermont,00,,Scattered,Scattered,W,994,0.003365681,,,,,
+VT,50,Vermont,00,Jim,Douglas,Jim Douglas,W,110,0.00037246,,,,,
+VT,50,Vermont,00,,No Name,No Name,W,102,0.000345372,,,,,
+VT,50,Vermont,00,Scott,Milne,Scott Milne,W,90,0.00030474,,,,,
+VT,50,Vermont,00,Bernie,Sanders,Bernie Sanders,W,62,0.000209932,,,,,
+VT,50,Vermont,00,Mark,Donka,Mark Donka,W,42,0.000142212,,,,,
+VT,50,Vermont,00,Brian ,Dubie,Brian  Dubie,W,35,0.00011851,,,,,
+VT,50,Vermont,00,Bruce,Lisman,Bruce Lisman,W,14,0.0000474,,,,,
+VT,50,Vermont,00,Don,Turner,Don Turner,W,14,0.0000474,,,,,
+VT,50,Vermont,00,Jeff,Willey,Jeff Willey,W,11,0.0000372,,,,,
+VT,50,Vermont,00,Bill,Lee,Bill Lee,W,11,0.0000372,,,,,
+VT,50,Vermont,00,Paul,Dame,Paul Dame,W,10,0.0000339,,,,,
+VT,50,Vermont,00,Randy,Brock,Randy Brock,W,9,0.0000305,,,,,
+VT,50,Vermont,00,Donald,Trump,Donald Trump,W,6,0.0000203,,,,,
+VT,50,Vermont,00,,,Total Votes,,"295,334",,,,,,
+VA,51,Virginia,01,"Robert J. ""Rob""",Wittman,"Robert J. ""Rob"" Wittman",R,"230,213",0.598492155,,,,,W
+VA,51,Virginia,01,"M. D. ""Matt""",Rowe,"M. D. ""Matt"" Rowe",D,"140,785",0.366003302,,,,,
+VA,51,Virginia,01,Glenda Gail,Parker,Glenda Gail Parker,IND,"12,866",0.033448155,,,,,
+VA,51,Virginia,01,,Scattered,Scattered,W,791,0.002056388,,,,,
+VA,51,Virginia,01,,,Total Votes,,"384,655",,,,,,
+VA,51,Virginia,02,Scott W.,Taylor,Scott W. Taylor,R,"190,475",0.613169585,,,,,W
+VA,51,Virginia,02,Shaun D.,Brown,Shaun D. Brown,D,"119,440",0.384496523,,,,,
+VA,51,Virginia,02,,Scattered,Scattered,W,725,0.002333891,,,,,
+VA,51,Virginia,02,,,Total Votes,,"310,640",,,,,,
+VA,51,Virginia,03,"Robert C. ""Bobby""",Scott,"Robert C. ""Bobby"" Scott",D,"208,337",0.666953718,,,,,W
+VA,51,Virginia,03,"M. L. ""Marty""",Williams,"M. L. ""Marty"" Williams",R,"103,289",0.330661297,,,,,
+VA,51,Virginia,03,,Scattered,Scattered,W,745,0.002384985,,,,,
+VA,51,Virginia,03,,,Total Votes,,"312,371",,,,,,
+VA,51,Virginia,04,A. Donald ,McEachin,A. Donald  McEachin,D,"200,136",0.577261544,,,,,W
+VA,51,Virginia,04,"Michael L. ""Mike""",Wade,"Michael L. ""Mike"" Wade",R,"145,731",0.42033868,,,,,
+VA,51,Virginia,04,,Scattered,Scattered,W,832,0.002399776,,,,,
+VA,51,Virginia,04,,,Total Votes,,"346,699",,,,,,
+VA,51,Virginia,05,"Tom A., Jr.",Garrett,"Tom A., Jr. Garrett",R,"207,758",0.582338514,,,,,W
+VA,51,Virginia,05,Jane D.,Dittmar,Jane D. Dittmar,D,"148,339",0.415789105,,,,,
+VA,51,Virginia,05,,Scattered,Scattered,W,668,0.001872381,,,,,
+VA,51,Virginia,05,,,Total Votes,,"356,765",,,,,,
+VA,51,Virginia,06,"Robert W. ""Bob""",Goodlatte,"Robert W. ""Bob"" Goodlatte",R,"225,471",0.666175219,,,,,W
+VA,51,Virginia,06,Kai E.,Degner,Kai E. Degner,D,"112,170",0.331416787,,,,,
+VA,51,Virginia,06,,Scattered,Scattered,W,815,0.002407994,,,,,
+VA,51,Virginia,06,,,Total Votes,,"338,456",,,,,,
+VA,51,Virginia,07,David A.,Brat,David A. Brat,R,"218,057",0.575031183,,,,,W
+VA,51,Virginia,07,Eileen M.,Bedell,Eileen M. Bedell,D,"160,159",0.422350208,,,,,
+VA,51,Virginia,07,,Scattered,Scattered,W,993,0.002618609,,,,,
+VA,51,Virginia,07,,,Total Votes,,"379,209",,,,,,
+VA,51,Virginia,08,"Donald S., Jr.",Beyer,"Donald S., Jr. Beyer",D,"246,653",0.683842223,,,,,W
+VA,51,Virginia,08,Charles A.,Hernick,Charles A. Hernick,R,"98,387",0.272776673,,,,,
+VA,51,Virginia,08,Julio,Gracia,Julio Gracia,IND,"14,664",0.040655749,,,,,
+VA,51,Virginia,08,,Scattered,Scattered,W,983,0.002725355,,,,,
+VA,51,Virginia,08,,,Total Votes,,"360,687",,,,,,
+VA,51,Virginia,09,H. Morgan,Griffith,H. Morgan Griffith,R,"212,838",0.685850732,,,,,W
+VA,51,Virginia,09,Derek W.,Kitts,Derek W. Kitts,D,"87,877",0.283175489,,,,,
+VA,51,Virginia,09,Janice Allen,Boyd,Janice Allen Boyd,IND,"9,050",0.029162786,,,,,
+VA,51,Virginia,09,,Scattered,Scattered,W,562,0.001810993,,,,,
+VA,51,Virginia,09,,,Total Votes,,"310,327",,,,,,
+VA,51,Virginia,10,Barbara Jean,Comstock,Barbara Jean Comstock,R,"210,791",0.526823404,,,,,W
+VA,51,Virginia,10,LuAnn L.,Bennett,LuAnn L. Bennett,D,"187,712",0.469142776,,,,,
+VA,51,Virginia,10,,Scattered,Scattered,W,"1,614",0.00403382,,,,,
+VA,51,Virginia,10,,,Total Votes,,"400,117",,,,,,
+VA,51,Virginia,11,"G. E. ""Gerry""",Connolly,"G. E. ""Gerry"" Connolly",D,"247,818",0.877784941,,,,,W
+VA,51,Virginia,11,,Scattered,Scattered,W,"34,504",0.122215059,,,,,
+VA,51,Virginia,11,,,Total Votes,,"282,322",,,,,,
+WA,53,Washington,01,Suzan,DelBene,Suzan DelBene,D,"193,619",0.554150281,,,,,W
+WA,53,Washington,01,Robert J.,Sutherland,Robert J. Sutherland,R,"155,779",0.445849719,,,,,
+WA,53,Washington,01,,,Total Votes,,"349,398",,,,,,
+WA,53,Washington,02,Rick,Larsen,Rick Larsen,D,"208,314",0.640162504,,,,,W
+WA,53,Washington,02,Marc,Hennemann,Marc Hennemann,R,"117,094",0.359837496,,,,,
+WA,53,Washington,02,,,Total Votes,,"325,408",,,,,,
+WA,53,Washington,03,Jaime Herrera,Beutler,Jaime Herrera Beutler,R,"193,457",0.617526981,,,,,W
+WA,53,Washington,03,Jim,Moeller,Jim Moeller,D,"119,820",0.382473019,,,,,
+WA,53,Washington,03,,,Total Votes,,"313,277",,,,,,
+WA,53,Washington,04,Dan,Newhouse,Dan Newhouse,R,"132,517",0.57636385,,,,,W
+WA,53,Washington,04,Clint,Didier,Clint Didier,R,"97,402",0.42363615,,,,,
+WA,53,Washington,04,,,Total Votes,,"229,919",,,,,,
+WA,53,Washington,05,Cathy McMorris,Rodgers,Cathy McMorris Rodgers,R,"192,959",0.596410269,,,,,W
+WA,53,Washington,05,Joe,Pakootas,Joe Pakootas,D,"130,575",0.403589731,,,,,
+WA,53,Washington,05,,,Total Votes,,"323,534",,,,,,
+WA,53,Washington,06,Derek,Kilmer,Derek Kilmer,D,"201,718",0.615305307,,,,,W
+WA,53,Washington,06,Todd A.,Bloom,Todd A. Bloom,R,"126,116",0.384694693,,,,,
+WA,53,Washington,06,,,Total Votes,,"327,834",,,,,,
+WA,53,Washington,07,Pramila,Jayapal,Pramila Jayapal,D,"212,010",0.559756465,,,,,W
+WA,53,Washington,07,Brady Piñero,Walkinshaw,Brady Piñero Walkinshaw,D,"166,744",0.440243535,,,,,
+WA,53,Washington,07,,,Total Votes,,"378,754",,,,,,
+WA,53,Washington,08,Dave,Reichert,Dave Reichert,R,"193,145",0.601950976,,,,,W
+WA,53,Washington,08,Tony,Ventrella,Tony Ventrella,D,"127,720",0.398049024,,,,,
+WA,53,Washington,08,,,Total Votes,,"320,865",,,,,,
+WA,53,Washington,09,Adam,Smith,Adam Smith,D,"205,165",0.728874315,,,,,W
+WA,53,Washington,09,Doug,Basler,Doug Basler,R,"76,317",0.271125685,,,,,
+WA,53,Washington,09,,,Total Votes,,"281,482",,,,,,
+WA,53,Washington,10,Denny,Heck,Denny Heck,D,"170,460",0.586652166,,,,,W
+WA,53,Washington,10,Jim,Postma,Jim Postma,R,"120,104",0.413347834,,,,,
+WA,53,Washington,10,,,Total Votes,,"290,564",,,,,,
+WV,54,West Virginia,01,David B.,McKinley,David B. McKinley,R,"163,469",0.689733885,,,,,W
+WV,54,West Virginia,01,Mike ,Manypenny,Mike  Manypenny,D,"73,534",0.310266115,,,,,
+WV,54,West Virginia,01,,,Total Votes,,"237,003",,,,,,
+WV,54,West Virginia,02,Alex X.,Mooney,Alex X. Mooney,R,"140,807",0.581813449,,,,,W
+WV,54,West Virginia,02,Mark,Hunt,Mark Hunt,D,"101,207",0.418186551,,,,,
+WV,54,West Virginia,02,,,Total Votes,,"242,014",,,,,,
+WV,54,West Virginia,03,Evan ,Jenkins,Evan  Jenkins,R,"140,741",0.678819478,,,,,W
+WV,54,West Virginia,03,Matt,Detch,Matt Detch,D,"49,708",0.239750738,,,,,
+WV,54,West Virginia,03,Zane,Lawhorn,Zane Lawhorn,LIB,"16,883",0.081429784,,,,,
+WV,54,West Virginia,03,,,Total Votes,,"207,332",,,,,,
+WI,55,Wisconsin,01,Paul,Ryan,Paul Ryan,R,"230,072",0.649471411,,,,,W
+WI,55,Wisconsin,01,Ryan,Solen,Ryan Solen,D,"107,003",0.302059309,,,,,
+WI,55,Wisconsin,01,Jason,Lebeck,Jason Lebeck,TC,"9,429",0.026617172,,,,,
+WI,55,Wisconsin,01,Jason,Lebeck,Jason Lebeck,LIB,"7,486",0.021132267,,,,,
+WI,55,Wisconsin,01,,Scattered,Scattered,W,255,0.000719841,,,,,
+WI,55,Wisconsin,01,,,Total Votes,,"354,245",,,,,,
+WI,55,Wisconsin,02,Mark,Pocan,Mark Pocan,D,"273,537",0.6871753,,,,,W
+WI,55,Wisconsin,02,Peter,Theron,Peter Theron,R,"124,044",0.311621364,,,,,
+WI,55,Wisconsin,02,,Scattered,Scattered,W,479,0.001203336,,,,,
+WI,55,Wisconsin,02,,,Total Votes,,"398,060",,,,,,
+WI,55,Wisconsin,03,Ron ,Kind,Ron  Kind,D,"257,401",0.988596997,,,,,W
+WI,55,Wisconsin,03,,Scattered,Scattered,W,"2,800",0.010753927,,,,,
+WI,55,Wisconsin,03,Ryan,Peterson,Ryan Peterson,W,169,0.000649076,,,,,
+WI,55,Wisconsin,03,,,Total Votes,,"260,370",,,,,,
+WI,55,Wisconsin,04,Gwen S.,Moore,Gwen S. Moore,D,"220,181",0.767424514,,,,,W
+WI,55,Wisconsin,04,Andy,Craig,Andy Craig,IND,"33,494",0.116740848,,,,,
+WI,55,Wisconsin,04,Andy,Craig,Andy Craig,LIB,"32,183",0.112171455,,,,,
+WI,55,Wisconsin,04,,Scattered,Scattered,W,"1,051",0.003663182,,,,,
+WI,55,Wisconsin,04,,,Total Votes,,"286,909",,,,,,
+WI,55,Wisconsin,05,"F. James., Jr.",Sensenbrenner,"F. James., Jr. Sensenbrenner",R,"260,706",0.667033394,,,,,W
+WI,55,Wisconsin,05,Khary,Penebaker,Khary Penebaker,D,"114,477",0.29289691,,,,,
+WI,55,Wisconsin,05,John ,Arndt,John  Arndt,LIB,"15,324",0.039207459,,,,,
+WI,55,Wisconsin,05,,Scattered,Scattered,W,337,0.000862237,,,,,
+WI,55,Wisconsin,05,,,Total Votes,,"390,844",,,,,,
+WI,55,Wisconsin,06,Glenn,Grothman,Glenn Grothman,R,"204,147",0.571547358,,,,,W
+WI,55,Wisconsin,06,Sarah,Lloyd,Sarah Lloyd,D,"133,072",0.372559724,,,,,
+WI,55,Wisconsin,06,W. Michael,Slattery,W. Michael Slattery,IND,"19,716",0.055198596,,,,,
+WI,55,Wisconsin,06,,Scattered,Scattered,W,248,0.000694322,,,,,
+WI,55,Wisconsin,06,,,Total Votes,,"357,183",,,,,,
+WI,55,Wisconsin,07,Sean,Duffy,Sean Duffy,R,"223,418",0.616715111,,,,,W
+WI,55,Wisconsin,07,Mary,Hoeft,Mary Hoeft,D,"138,643",0.382705212,,,,,
+WI,55,Wisconsin,07,,Scattered,Scattered,W,210,0.000579677,,,,,
+WI,55,Wisconsin,07,,,Total Votes,,"362,271",,,,,,
+WI,55,Wisconsin,08,Mike,Gallagher,Mike Gallagher,R,"227,892",0.62645555,,,,,W
+WI,55,Wisconsin,08,Tom,Nelson,Tom Nelson,D,"135,682",0.372978174,,,,,
+WI,55,Wisconsin,08,,Scattered,Scattered,W,188,0.000516796,,,,,
+WI,55,Wisconsin,08,Wendy,Gribben,Wendy Gribben,W,16,0.000044,,,,,
+WI,55,Wisconsin,08,Jerry,Kobishop,Jerry Kobishop,W,2,0.0000055,,,,,
+WI,55,Wisconsin,08,,,Total Votes,,"363,780",,,,,,
+WY,56,Wyoming,00,Liz,Cheney,Liz Cheney,R,"156,176",0.620297407,,,,,W
+WY,56,Wyoming,00,Ryan,Greene,Ryan Greene,D,"75,466",0.299734685,,,,,
+WY,56,Wyoming,00,Daniel Clyde,Cummings,Daniel Clyde Cummings,CON,"10,362",0.04115563,,,,,
+WY,56,Wyoming,00,Lawrence Gerard,Struempf,Lawrence Gerard Struempf,LIB,"9,033",0.035877129,,,,,
+WY,56,Wyoming,00,,Scattered,Scattered,W,739,0.002935149,,,,,
