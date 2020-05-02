@@ -40310,38 +40310,31 @@ __webpack_require__.r(__webpack_exports__);
       //loop through, merging ag data with map
       for (var i = 0; i < data.length; i++) {
         var dataDistrict = data[i].state_fips + '-' + data[i].district;
-        var dataDistrictWinner = data[i].winner;
-        var dataDistrictWinningParty = data[i].party;
-        var dataDistrictWinningMargin = parseFloat(data[i].general_perc);
-        var dataDistrictName = data[i].state + ' District ' + data[i].district;
 
         for (var j = 0; j < json.features.length; j++) {
           var jsonDistrict = json.features[j].properties.STATEFP + '-' + json.features[j].properties.CD115FP;
 
-          if (dataDistrict == jsonDistrict && dataDistrictWinner == 'W') {
-            //copy the data from csv to json
+          if (!json.features[j].properties.candidates) {
+            json.features[j].properties.candidates = [];
+          }
+
+          if (dataDistrict === jsonDistrict && data[i].winner) {
             json.features[j].properties.district = jsonDistrict;
-            json.features[j].properties.winningParty = dataDistrictWinningParty;
-            json.features[j].properties.winningMargin = dataDistrictWinningMargin;
-            json.features[j].properties.name = dataDistrictName;
-            json.features[j].properties.candidates = Object.assign({}, json.features[j].properties.candidates, {
+            json.features[j].properties.winningParty = data[i].party;
+            json.features[j].properties.winningMargin = parseFloat(data[i].general_perc);
+            json.features[j].properties.name = data[i].state + ' District ' + data[i].district;
+          }
+
+          if (dataDistrict === jsonDistrict && data[i].candidate !== 'Total Votes') {
+            json.features[j].properties.candidates.push({
               candidate: data[i].candidate,
               party: data[i].party,
-              general_perc: data[i].general_perc
-            }); //stop looking through json
-
-            break;
+              percentage: parseFloat(data[i].general_perc)
+            });
           }
         }
-      }
+      } //bind data and create one path per json feature (state)
 
-      console.log(json.features);
-      console.log(data);
-      var vizData = {};
-      json.features.forEach(function (el) {
-        vizData["".concat(el.state_fips, "-").concat(el.district)] = el;
-      });
-      console.log('vizData: ', vizData); //bind data and create one path per json feature (state)
 
       map.selectAll('path').data(json.features).enter().append('path').attr('d', path).style('fill', stateFill).style('opacity', function (d) {
         return d.properties.winningMargin;
@@ -40350,33 +40343,27 @@ __webpack_require__.r(__webpack_exports__);
       }).attr('name', function (d) {
         return d.properties.name;
       }).on('mouseover', function (d) {
-        d3__WEBPACK_IMPORTED_MODULE_0__["select"](this).transition().duration(100).style('fill', 'orange'); // Define the div for the tooltip
+        d3__WEBPACK_IMPORTED_MODULE_0__["select"](this).style('fill', 'orange'); // Define the div for the tooltip
 
-        tooltipDiv = d3__WEBPACK_IMPORTED_MODULE_0__["select"]('body').append('div').attr('class', 'tooltip').style('opacity', 0).style('left', d3__WEBPACK_IMPORTED_MODULE_0__["event"].pageX + 20 + 'px').style('top', d3__WEBPACK_IMPORTED_MODULE_0__["event"].pageY + 'px');
-        tooltipDiv.transition().style('opacity', .9);
-        var thisJsonDistrict = d3__WEBPACK_IMPORTED_MODULE_0__["select"](this).attr('class');
-        var thisJsonDistrictName = d3__WEBPACK_IMPORTED_MODULE_0__["select"](this).attr('name');
+        tooltipDiv = d3__WEBPACK_IMPORTED_MODULE_0__["select"]('body').append('div').attr('class', 'tooltip').style('left', d3__WEBPACK_IMPORTED_MODULE_0__["event"].pageX + 20 + 'px').style('top', d3__WEBPACK_IMPORTED_MODULE_0__["event"].pageY + 'px');
+        tooltipDiv.style('opacity', .9);
         var resultsString = ''; //construct each line of the tooltip
 
-        for (var _i = 0; _i < data.length; _i++) {
-          var thisDataDistrict = "".concat(data[_i].state_fips, "-").concat(data[_i].district);
+        d.properties.candidates.forEach(function (el) {
+          resultsString = "".concat(resultsString, "<p>(").concat(el.party, ")  ").concat(el.candidate, ": ").concat(d3__WEBPACK_IMPORTED_MODULE_0__["format"]('.1%')(el.percentage), "</p>");
+        });
 
-          if (thisJsonDistrict == thisDataDistrict && data[_i].candidate != 'Total Votes' && data[_i].candidate != data[_i - 1].candidate) {
-            resultsString = "".concat(resultsString, "<p>(").concat(data[_i].party, ")  ").concat(data[_i].candidate, ": ").concat(d3__WEBPACK_IMPORTED_MODULE_0__["format"]('.1%')(data[_i].general_perc), "</p>");
-          }
-        }
-
-        if (thisJsonDistrictName == null) {
+        if (d.properties.name === null) {
           tooltipDiv.html('N/A');
         } else {
-          tooltipDiv.html('<strong>' + thisJsonDistrictName + '</strong>' + resultsString);
+          tooltipDiv.html('<strong>' + d.properties.name + '</strong>' + resultsString);
         }
       }).on('mousemove', function (d) {
         return tooltipDiv.style('left', d3__WEBPACK_IMPORTED_MODULE_0__["event"].pageX + 20 + 'px').style('top', d3__WEBPACK_IMPORTED_MODULE_0__["event"].pageY + 'px');
       }).on('mouseout', function (d) {
-        d3__WEBPACK_IMPORTED_MODULE_0__["select"](this).transition().duration(100).style('fill', stateFill);
+        d3__WEBPACK_IMPORTED_MODULE_0__["select"](this).style('fill', stateFill);
         d3__WEBPACK_IMPORTED_MODULE_0__["selectAll"]('.tooltip').exit().remove();
-        tooltipDiv.transition().style('opacity', .0);
+        tooltipDiv.style('opacity', .0);
       });
     });
   });
@@ -40392,15 +40379,14 @@ __webpack_require__.r(__webpack_exports__);
   map.append('text').attr('x', w * 0.85).attr('y', h * 0.95).attr('dy', '0em').text('Source: FEC').attr('class', 'legend').attr('font-size', 14); //define fill for all combo party names
 
   var stateFill = function stateFill(d) {
-    if (d.properties.winningParty == 'R' || d.properties.winningParty == 'R/IP' || d.properties.winningParty == 'R/TRP') {
+    var reds = ['R', 'R/IP', 'R/TRP'];
+    var blues = ['D', 'DFL', 'D/IP', 'D/R', 'D/PRO/WF/IP'];
+
+    if (reds.includes(d.properties.winningParty)) {
       return 'rgb(235,25,28)';
-    }
-
-    if (d.properties.winningParty == 'D' || d.properties.winningParty == 'DFL' || d.properties.winningParty == 'D/IP' || d.properties.winningParty == 'D/R' || d.properties.winningParty == 'D/PRO/WF/IP') {
+    } else if (blues.includes(d.properties.winningParty)) {
       return 'rgb(28,25,235)';
-    }
-
-    if (d.properties.winningParty == null) {
+    } else {
       return 'grey';
     }
   };

@@ -48,23 +48,28 @@ export default function () {
       //loop through, merging ag data with map
       for (let i = 0; i < data.length; i++) {
         const dataDistrict = data[i].state_fips + '-' + data[i].district
-        const dataDistrictWinner = data[i].winner
-        const dataDistrictWinningParty = data[i].party
-        const dataDistrictWinningMargin = parseFloat(data[i].general_perc)
-        const dataDistrictName = data[i].state + ' District ' + data[i].district
 
         for (let j = 0; j < json.features.length; j++) {
           const jsonDistrict = json.features[j].properties.STATEFP + '-' + json.features[j].properties.CD115FP
 
-          if (dataDistrict == jsonDistrict && dataDistrictWinner == 'W') {
-            //copy the data from csv to json
-            json.features[j].properties.district = jsonDistrict
-            json.features[j].properties.winningParty = dataDistrictWinningParty
-            json.features[j].properties.winningMargin = dataDistrictWinningMargin
-            json.features[j].properties.name = dataDistrictName
+          if (!json.features[j].properties.candidates) {
+            json.features[j].properties.candidates = []
+          }
 
-            //stop looking through json
-            break
+          if (dataDistrict === jsonDistrict && data[i].winner) {
+            json.features[j].properties.district = jsonDistrict
+            json.features[j].properties.winningParty = data[i].party
+            json.features[j].properties.winningMargin = parseFloat(data[i].general_perc)
+            json.features[j].properties.name = data[i].state + ' District ' + data[i].district
+          }
+
+
+          if (dataDistrict === jsonDistrict && data[i].candidate !== 'Total Votes') {
+            json.features[j].properties.candidates.push({
+              candidate: data[i].candidate,
+              party: data[i].party,
+              percentage: parseFloat(data[i].general_perc)
+            })
           }
         }
       }
@@ -82,39 +87,28 @@ export default function () {
         .attr('name', d => d.properties.name)
         .on('mouseover', function (d) {
           d3.select(this)
-            .transition()
-            .duration(100)
             .style('fill', 'orange')
 
           // Define the div for the tooltip
           tooltipDiv = d3.select('body')
             .append('div')
             .attr('class', 'tooltip')
-            .style('opacity', 0)
             .style('left', (d3.event.pageX + 20) + 'px')
             .style('top', d3.event.pageY + 'px')
 
-          tooltipDiv.transition()
-            .style('opacity', .9)
-
-          let thisJsonDistrict = d3.select(this).attr('class')
-          let thisJsonDistrictName = d3.select(this).attr('name')
+          tooltipDiv.style('opacity', .9)
 
           let resultsString = ''
 
           //construct each line of the tooltip
-          for (let i = 0; i < data.length; i++) {
-            let thisDataDistrict = `${data[i].state_fips}-${data[i].district}`
+          d.properties.candidates.forEach(el => {
+            resultsString = `${resultsString}<p>(${el.party})  ${el.candidate}: ${d3.format('.1%')(el.percentage)}</p>`
+          })
 
-            if (thisJsonDistrict == thisDataDistrict && data[i].candidate != 'Total Votes' && data[i].candidate != data[i - 1].candidate) {
-              resultsString = `${resultsString}<p>(${data[i].party})  ${data[i].candidate}: ${d3.format('.1%')(data[i].general_perc)}</p>`
-            }
-          }
-
-          if (thisJsonDistrictName == null) {
+          if (d.properties.name === null) {
             tooltipDiv.html('N/A')
           } else {
-            tooltipDiv.html('<strong>' + thisJsonDistrictName + '</strong>' + resultsString)
+            tooltipDiv.html('<strong>' + d.properties.name + '</strong>' + resultsString)
           }
         })
         .on('mousemove', d =>
@@ -123,15 +117,12 @@ export default function () {
         )
         .on('mouseout', function (d) {
           d3.select(this)
-            .transition()
-            .duration(100)
             .style('fill', stateFill)
 
           d3.selectAll('.tooltip')
             .exit().remove()
 
-          tooltipDiv.transition()
-            .style('opacity', .0)
+          tooltipDiv.style('opacity', .0)
         });
     });
   });
@@ -189,13 +180,13 @@ export default function () {
 
   //define fill for all combo party names
   const stateFill = d => {
-    if (d.properties.winningParty == 'R' || d.properties.winningParty == 'R/IP' || d.properties.winningParty == 'R/TRP') {
+    const reds = ['R', 'R/IP', 'R/TRP']
+    const blues = ['D', 'DFL', 'D/IP', 'D/R', 'D/PRO/WF/IP']
+    if (reds.includes(d.properties.winningParty)) {
       return 'rgb(235,25,28)'
-    }
-    if (d.properties.winningParty == 'D' || d.properties.winningParty == 'DFL' || d.properties.winningParty == 'D/IP' || d.properties.winningParty == 'D/R' || d.properties.winningParty == 'D/PRO/WF/IP') {
+    } else if (blues.includes(d.properties.winningParty)) {
       return 'rgb(28,25,235)'
-    }
-    if (d.properties.winningParty == null) {
+    } else {
       return 'grey'
     }
   }
